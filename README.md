@@ -16,3 +16,5 @@ In this section you will find Yara Rules aimed to detect well-known software pac
 
 ## Collected from:
 - https://github.com/Yara-Rules/rules
+- https://github.com/advanced-threat-research/Yara-Rules
+
