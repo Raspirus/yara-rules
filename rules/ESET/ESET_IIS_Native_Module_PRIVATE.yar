@@ -1,13 +1,7 @@
 import "pe"
 
 
-import "pe"
-
-
-import "pe"
-
-
-rule ESET_IIS_Native_Module_PRIVATE : FILE
+private rule ESET_IIS_Native_Module_PRIVATE : FILE
 {
 	meta:
 		description = "Signature to match an IIS native module (clean or malicious)"

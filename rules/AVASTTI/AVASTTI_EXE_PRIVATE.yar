@@ -1,5 +1,5 @@
 
-rule AVASTTI_EXE_PRIVATE : FILE
+private rule AVASTTI_EXE_PRIVATE : FILE
 {
 	meta:
 		description = "No description has been set in the source file - AvastTI"

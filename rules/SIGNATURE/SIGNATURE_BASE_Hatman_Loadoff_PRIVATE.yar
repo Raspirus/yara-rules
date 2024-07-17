@@ -1,5 +1,5 @@
 
-rule SIGNATURE_BASE_Hatman_Loadoff_PRIVATE : HATMAN
+private rule SIGNATURE_BASE_Hatman_Loadoff_PRIVATE : HATMAN
 {
 	meta:
 		description = "No description has been set in the source file - Signature Base"
