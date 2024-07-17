@@ -1,4 +1,5 @@
 import "pe"
+include "ESET_Invisimole_Blob_PRIVATE.yar"
 
 
 rule ESET_Apt_Windows_Invisimole_C2 : FILE

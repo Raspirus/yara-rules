@@ -1,3 +1,4 @@
+include "SIGNATURE_BASE_Hatman_Memcpy_PRIVATE.yar"
 
 rule SIGNATURE_BASE_Hatman_Injector : HATMAN
 {

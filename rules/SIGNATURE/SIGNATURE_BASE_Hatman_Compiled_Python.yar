@@ -1,3 +1,4 @@
+include "SIGNATURE_BASE_Hatman_Nullsub_PRIVATE.yar"
 
 rule SIGNATURE_BASE_Hatman_Compiled_Python : HATMAN
 {

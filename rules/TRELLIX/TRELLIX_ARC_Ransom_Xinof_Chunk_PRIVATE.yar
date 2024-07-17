@@ -1,5 +1,5 @@
 
-rule TRELLIX_ARC_Ransom_Xinof_Chunk_PRIVATE : RANSOMWARE
+private rule TRELLIX_ARC_Ransom_Xinof_Chunk_PRIVATE : RANSOMWARE
 {
 	meta:
 		description = "Detect chunk of Xinof ransomware"

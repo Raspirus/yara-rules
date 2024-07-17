@@ -1,3 +1,4 @@
+include "TRELLIX_ARC_Ransom_Xinof_Chunk_PRIVATE.yar"
 
 rule TRELLIX_ARC_Ransom_Xinof : RANSOMWARE FILE
 {
