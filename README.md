@@ -1,6 +1,5 @@
-# :warning: ARCHIVED :warning:
-This repository has been archived, because after some testing we figured out that YARA requires too much maintenance, rewriting and resources for this type of project. 
-We might come back to this in the future, but for now we will use the signatures route.
+# :warning: WIP :warning:
+This is a work in progress and can not be used in production yet!
 
 
 # yara-rules
