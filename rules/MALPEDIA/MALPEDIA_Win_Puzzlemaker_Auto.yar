@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Puzzlemaker_Auto : FILE
 {
 	meta:

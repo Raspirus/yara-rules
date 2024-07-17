@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Dropper_Win_Darkside_1 : FILE
 {
 	meta:

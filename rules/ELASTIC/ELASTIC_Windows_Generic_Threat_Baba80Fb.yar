@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Generic_Threat_Baba80Fb : FILE MEMORY
 {
 	meta:

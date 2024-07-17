@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Poison_Ivy_Auto : FILE
 {
 	meta:

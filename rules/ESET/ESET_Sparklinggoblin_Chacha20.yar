@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule ESET_Sparklinggoblin_Chacha20 : FILE
 {
 	meta:

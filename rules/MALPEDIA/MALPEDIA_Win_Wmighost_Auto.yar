@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Wmighost_Auto : FILE
 {
 	meta:

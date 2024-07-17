@@ -1,3 +1,4 @@
+
 rule CAPE_Dridexv4 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Blackbone_2Ff5Ec38 : FILE
 {
 	meta:

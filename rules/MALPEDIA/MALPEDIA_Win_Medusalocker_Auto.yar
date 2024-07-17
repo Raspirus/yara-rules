@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Medusalocker_Auto : FILE
 {
 	meta:

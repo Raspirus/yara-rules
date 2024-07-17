@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Teslacrypt_Auto : FILE
 {
 	meta:

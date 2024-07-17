@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Icedid_Downloader_Auto : FILE
 {
 	meta:

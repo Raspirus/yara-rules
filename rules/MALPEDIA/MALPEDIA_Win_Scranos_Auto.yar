@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Scranos_Auto : FILE
 {
 	meta:

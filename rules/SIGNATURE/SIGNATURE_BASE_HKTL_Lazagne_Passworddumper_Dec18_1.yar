@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_Lazagne_Passworddumper_Dec18_1 : FILE
 {
 	meta:

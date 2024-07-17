@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Noescape_6De58E0C : FILE MEMORY
 {
 	meta:

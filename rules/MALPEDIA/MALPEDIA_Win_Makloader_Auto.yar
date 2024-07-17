@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Makloader_Auto : FILE
 {
 	meta:

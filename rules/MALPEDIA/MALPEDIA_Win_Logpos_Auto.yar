@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Logpos_Auto : FILE
 {
 	meta:

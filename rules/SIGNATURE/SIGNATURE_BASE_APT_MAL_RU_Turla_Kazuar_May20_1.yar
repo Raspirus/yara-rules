@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_MAL_RU_Turla_Kazuar_May20_1 : FILE
 {
 	meta:

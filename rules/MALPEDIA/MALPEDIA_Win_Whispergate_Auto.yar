@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Whispergate_Auto : FILE
 {
 	meta:

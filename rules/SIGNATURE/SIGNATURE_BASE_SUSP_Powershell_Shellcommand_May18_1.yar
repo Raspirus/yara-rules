@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_Powershell_Shellcommand_May18_1 : FILE
 {
 	meta:

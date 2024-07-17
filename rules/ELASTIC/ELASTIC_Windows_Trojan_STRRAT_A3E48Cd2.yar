@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_STRRAT_A3E48Cd2 : MEMORY
 {
 	meta:

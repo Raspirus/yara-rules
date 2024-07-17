@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dyre_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Shakti_Auto : FILE
 {
 	meta:

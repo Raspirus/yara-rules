@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Falsefont_D1F0D357 : FILE MEMORY
 {
 	meta:

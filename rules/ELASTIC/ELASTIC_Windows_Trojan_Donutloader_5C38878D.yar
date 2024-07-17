@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Donutloader_5C38878D : FILE MEMORY
 {
 	meta:

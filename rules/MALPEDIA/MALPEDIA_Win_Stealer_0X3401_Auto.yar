@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Stealer_0X3401_Auto : FILE
 {
 	meta:

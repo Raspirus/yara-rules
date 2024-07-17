@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Bronzebutler_Daserf_C_1 : FILE
 {
 	meta:

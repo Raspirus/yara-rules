@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Orangeade_Auto : FILE
 {
 	meta:

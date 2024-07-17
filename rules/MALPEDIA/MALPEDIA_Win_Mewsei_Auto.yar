@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mewsei_Auto : FILE
 {
 	meta:

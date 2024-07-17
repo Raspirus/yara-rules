@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Protects_9F6Eaa90 : FILE
 {
 	meta:

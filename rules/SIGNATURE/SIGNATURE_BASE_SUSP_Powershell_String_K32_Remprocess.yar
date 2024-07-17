@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Powershell_String_K32_Remprocess : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Vbscript_Favicon_File : FILE
 {
 	meta:

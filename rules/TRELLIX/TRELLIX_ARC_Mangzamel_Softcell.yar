@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule TRELLIX_ARC_Mangzamel_Softcell : TROJAN FILE
 {
 	meta:

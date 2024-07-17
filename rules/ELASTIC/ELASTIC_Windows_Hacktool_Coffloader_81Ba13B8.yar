@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Coffloader_81Ba13B8 : FILE MEMORY
 {
 	meta:

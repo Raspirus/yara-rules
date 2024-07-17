@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Formbook_Auto : FILE
 {
 	meta:

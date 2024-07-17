@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MSIL_SUSP_OBFUSC_Xorstringsnet : FILE
 {
 	meta:

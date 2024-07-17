@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_ELF_LNX_Mirai_Oct10_1 : FILE
 {
 	meta:

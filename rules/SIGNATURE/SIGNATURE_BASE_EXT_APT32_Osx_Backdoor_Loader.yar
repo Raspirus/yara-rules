@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_EXT_APT32_Osx_Backdoor_Loader : FILE
 {
 	meta:

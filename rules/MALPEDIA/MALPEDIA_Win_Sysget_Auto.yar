@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sysget_Auto : FILE
 {
 	meta:

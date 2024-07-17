@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule ESET_Apt_Windows_TA410_Flowcloud_V4_Resources : FILE
 {
 	meta:

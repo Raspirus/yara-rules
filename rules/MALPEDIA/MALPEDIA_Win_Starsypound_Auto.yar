@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Starsypound_Auto : FILE
 {
 	meta:

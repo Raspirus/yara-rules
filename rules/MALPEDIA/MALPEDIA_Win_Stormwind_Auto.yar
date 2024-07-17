@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Stormwind_Auto : FILE
 {
 	meta:

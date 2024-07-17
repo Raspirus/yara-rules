@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bolek_Auto : FILE
 {
 	meta:

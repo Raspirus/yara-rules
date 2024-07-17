@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Locky_Auto : FILE
 {
 	meta:

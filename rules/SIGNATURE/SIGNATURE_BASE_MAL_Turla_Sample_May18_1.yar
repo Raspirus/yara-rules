@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Turla_Sample_May18_1 : FILE
 {
 	meta:

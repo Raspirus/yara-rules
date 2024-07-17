@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lokipws_Auto : FILE
 {
 	meta:

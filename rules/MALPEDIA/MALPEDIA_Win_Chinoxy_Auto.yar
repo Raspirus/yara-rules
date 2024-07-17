@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Chinoxy_Auto : FILE
 {
 	meta:

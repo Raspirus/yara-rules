@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_M_Hunting_Webshell_LIGHTWIRE_2 : FILE
 {
 	meta:

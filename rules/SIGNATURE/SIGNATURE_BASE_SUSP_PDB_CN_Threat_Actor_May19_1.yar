@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_PDB_CN_Threat_Actor_May19_1 : FILE
 {
 	meta:

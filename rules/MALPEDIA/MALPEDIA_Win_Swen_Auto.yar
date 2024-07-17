@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Swen_Auto : FILE
 {
 	meta:

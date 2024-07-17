@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cloudwizard_Auto : FILE
 {
 	meta:

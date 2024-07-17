@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_APT_Chimera_Sept_2020_1 : FILE
 {
 	meta:

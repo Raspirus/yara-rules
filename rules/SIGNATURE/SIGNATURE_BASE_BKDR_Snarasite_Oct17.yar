@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_BKDR_Snarasite_Oct17 : FILE
 {
 	meta:

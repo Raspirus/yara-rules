@@ -1,3 +1,12 @@
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_SUSP_NK_3CX_RC4_Key_Mar23_1 : FILE
 {
 	meta:

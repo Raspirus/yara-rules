@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_DOC_Zloader_Oct20_1 : FILE
 {
 	meta:

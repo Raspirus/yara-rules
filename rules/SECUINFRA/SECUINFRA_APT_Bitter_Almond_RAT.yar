@@ -1,3 +1,8 @@
+import "pe"
+
+import "dotnet"
+
+
 rule SECUINFRA_APT_Bitter_Almond_RAT : FILE
 {
 	meta:

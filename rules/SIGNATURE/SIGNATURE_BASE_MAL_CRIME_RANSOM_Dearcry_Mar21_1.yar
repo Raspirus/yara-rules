@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_CRIME_RANSOM_Dearcry_Mar21_1 : FILE
 {
 	meta:

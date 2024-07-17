@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Netspy_Auto : FILE
 {
 	meta:

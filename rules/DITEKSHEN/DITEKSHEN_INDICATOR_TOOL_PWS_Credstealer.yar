@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule DITEKSHEN_INDICATOR_TOOL_PWS_Credstealer : FILE
 {
 	meta:

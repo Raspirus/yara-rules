@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lock_Pos_Auto : FILE
 {
 	meta:

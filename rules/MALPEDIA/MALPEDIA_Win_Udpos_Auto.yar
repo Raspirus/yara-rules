@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Udpos_Auto : FILE
 {
 	meta:

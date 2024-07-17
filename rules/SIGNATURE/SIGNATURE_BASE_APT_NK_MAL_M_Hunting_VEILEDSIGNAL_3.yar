@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_NK_MAL_M_Hunting_VEILEDSIGNAL_3 : FILE
 {
 	meta:

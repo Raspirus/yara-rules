@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Hellokitty_D9391A1A : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rawpos_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_APT29_Wellmess_Dotnet_Unique_Strings : FILE
 {
 	meta:

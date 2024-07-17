@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Open_Carrot_Auto : FILE
 {
 	meta:

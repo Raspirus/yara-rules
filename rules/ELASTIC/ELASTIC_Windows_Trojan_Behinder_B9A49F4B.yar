@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Behinder_B9A49F4B : FILE MEMORY
 {
 	meta:

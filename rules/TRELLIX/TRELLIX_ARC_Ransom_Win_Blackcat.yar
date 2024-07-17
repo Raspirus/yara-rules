@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Ransom_Win_Blackcat : RANSOMWARE FILE
 {
 	meta:

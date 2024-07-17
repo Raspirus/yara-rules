@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Worm_Generic_3Ff8F75B : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Muddywater_Mal_Doc_Feb18_2 : FILE
 {
 	meta:

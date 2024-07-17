@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Dofloo_1D057993 : FILE MEMORY
 {
 	meta:

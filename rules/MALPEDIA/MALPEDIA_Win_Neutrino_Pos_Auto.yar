@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Neutrino_Pos_Auto : FILE
 {
 	meta:

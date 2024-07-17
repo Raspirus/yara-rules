@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cryptbot_Auto : FILE
 {
 	meta:

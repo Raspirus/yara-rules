@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mirrorkey_Auto : FILE
 {
 	meta:

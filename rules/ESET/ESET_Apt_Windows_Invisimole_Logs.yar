@@ -1,3 +1,18 @@
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
 rule ESET_Apt_Windows_Invisimole_Logs : FILE
 {
 	meta:

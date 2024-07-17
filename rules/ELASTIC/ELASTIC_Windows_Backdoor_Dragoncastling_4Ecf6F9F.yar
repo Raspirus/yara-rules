@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Backdoor_Dragoncastling_4Ecf6F9F : FILE MEMORY
 {
 	meta:

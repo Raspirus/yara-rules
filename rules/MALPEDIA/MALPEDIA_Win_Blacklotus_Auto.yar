@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Blacklotus_Auto : FILE
 {
 	meta:

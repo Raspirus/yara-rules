@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Smartapesg_JS_Dropper_Stage1 : FILE
 {
 	meta:

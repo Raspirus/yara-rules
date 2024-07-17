@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Qadars_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pslogger_Auto : FILE
 {
 	meta:

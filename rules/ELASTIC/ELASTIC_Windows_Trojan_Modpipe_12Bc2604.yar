@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Modpipe_12Bc2604 : FILE MEMORY
 {
 	meta:

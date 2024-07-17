@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_OBFUSC_Powershell_True_Jun20_1 : FILE
 {
 	meta:

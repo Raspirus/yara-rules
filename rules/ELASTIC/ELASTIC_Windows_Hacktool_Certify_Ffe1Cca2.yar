@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Certify_Ffe1Cca2 : FILE MEMORY
 {
 	meta:

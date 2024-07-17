@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Wannacry_D9855102 : FILE MEMORY
 {
 	meta:

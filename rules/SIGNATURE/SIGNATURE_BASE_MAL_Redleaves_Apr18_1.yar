@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Redleaves_Apr18_1 : FILE
 {
 	meta:

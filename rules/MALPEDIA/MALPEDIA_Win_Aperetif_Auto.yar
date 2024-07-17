@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Aperetif_Auto : FILE
 {
 	meta:

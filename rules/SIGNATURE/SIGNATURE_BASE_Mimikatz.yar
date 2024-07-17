@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Mimikatz : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Gen_Suspicious_Inpage_Dropper : FILE
 {
 	meta:

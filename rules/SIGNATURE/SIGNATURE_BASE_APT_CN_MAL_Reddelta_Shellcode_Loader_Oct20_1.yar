@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_CN_MAL_Reddelta_Shellcode_Loader_Oct20_1 : FILE
 {
 	meta:

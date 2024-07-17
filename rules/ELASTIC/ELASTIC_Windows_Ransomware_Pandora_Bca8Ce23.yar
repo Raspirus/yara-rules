@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Pandora_Bca8Ce23 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Blister_9D757838 : FILE MEMORY
 {
 	meta:

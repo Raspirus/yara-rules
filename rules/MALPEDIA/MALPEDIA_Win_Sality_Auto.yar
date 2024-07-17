@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sality_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Hiddencobra_BANKSHOT_Gen : FILE
 {
 	meta:

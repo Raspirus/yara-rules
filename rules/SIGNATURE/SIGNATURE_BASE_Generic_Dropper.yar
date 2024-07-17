@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Generic_Dropper : FILE
 {
 	meta:

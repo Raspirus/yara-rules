@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nim_Blackout_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Threebyte_Auto : FILE
 {
 	meta:

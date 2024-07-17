@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Fishmaster_Auto : FILE
 {
 	meta:

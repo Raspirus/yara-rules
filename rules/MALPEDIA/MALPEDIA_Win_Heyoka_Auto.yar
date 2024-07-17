@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Heyoka_Auto : FILE
 {
 	meta:

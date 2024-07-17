@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Trickbot_A0Fc8F35 : FILE MEMORY
 {
 	meta:

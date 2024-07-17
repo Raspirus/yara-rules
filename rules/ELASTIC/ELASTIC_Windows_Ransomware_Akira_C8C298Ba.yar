@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Akira_C8C298Ba : FILE MEMORY
 {
 	meta:

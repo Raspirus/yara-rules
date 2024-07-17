@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Systembc_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_IIS_Config_Proxyshell_Artifacts : FILE
 {
 	meta:

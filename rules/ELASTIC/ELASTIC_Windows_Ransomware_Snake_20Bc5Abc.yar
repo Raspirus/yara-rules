@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Snake_20Bc5Abc : BETA FILE MEMORY
 {
 	meta:

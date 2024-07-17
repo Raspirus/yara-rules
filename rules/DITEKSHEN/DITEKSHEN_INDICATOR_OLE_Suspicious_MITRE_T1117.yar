@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_OLE_Suspicious_MITRE_T1117 : T1117 FILE
 {
 	meta:

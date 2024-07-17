@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_NK_AR18_165A_Hiddencobra_Import_Deob : HIDDEN_COBRA TYPEFRAME FILE
 {
 	meta:

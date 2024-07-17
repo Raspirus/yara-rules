@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sysjoker_Auto : FILE
 {
 	meta:

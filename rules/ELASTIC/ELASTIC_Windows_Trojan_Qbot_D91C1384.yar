@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Qbot_D91C1384 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Wannaren_Ransomware : RANSOMWARE FILE
 {
 	meta:

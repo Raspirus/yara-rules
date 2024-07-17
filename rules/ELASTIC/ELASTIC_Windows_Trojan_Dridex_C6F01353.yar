@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Dridex_C6F01353 : FILE MEMORY
 {
 	meta:

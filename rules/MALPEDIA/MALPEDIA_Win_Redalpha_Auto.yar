@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Redalpha_Auto : FILE
 {
 	meta:

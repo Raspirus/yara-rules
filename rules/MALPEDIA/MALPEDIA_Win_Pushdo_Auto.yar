@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pushdo_Auto : FILE
 {
 	meta:

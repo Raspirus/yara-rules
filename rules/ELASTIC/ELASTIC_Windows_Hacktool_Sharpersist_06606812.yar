@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sharpersist_06606812 : FILE MEMORY
 {
 	meta:

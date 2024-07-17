@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Thumbthief_Auto : FILE
 {
 	meta:

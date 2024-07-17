@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_WEBSHELL_ASP_Embedded_Mar21_1 : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Slingshot_APT_Spork_Downloader : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Acbackdoor_Auto : FILE
 {
 	meta:

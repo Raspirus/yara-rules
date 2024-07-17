@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cutwail_Auto : FILE
 {
 	meta:

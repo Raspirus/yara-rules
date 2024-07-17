@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_Tool_Screencapture_Jul_2021_1 : FILE
 {
 	meta:

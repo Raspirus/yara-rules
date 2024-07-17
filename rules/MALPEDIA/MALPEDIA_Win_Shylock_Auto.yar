@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Shylock_Auto : FILE
 {
 	meta:

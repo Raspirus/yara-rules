@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Retefe_Auto : FILE
 {
 	meta:

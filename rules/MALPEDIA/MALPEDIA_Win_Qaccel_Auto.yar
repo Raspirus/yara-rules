@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Qaccel_Auto : FILE
 {
 	meta:

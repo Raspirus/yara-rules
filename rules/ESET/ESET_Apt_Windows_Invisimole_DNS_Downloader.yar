@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule ESET_Apt_Windows_Invisimole_DNS_Downloader : FILE
 {
 	meta:

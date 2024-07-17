@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Asrock_0Eca57Dc : FILE
 {
 	meta:

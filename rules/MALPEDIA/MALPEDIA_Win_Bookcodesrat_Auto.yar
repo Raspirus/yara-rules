@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bookcodesrat_Auto : FILE
 {
 	meta:

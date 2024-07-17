@@ -1,3 +1,4 @@
+
 rule CHECK_POINT_Injector_ZZ_Dotrunpex : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Akira_02237952 : FILE MEMORY
 {
 	meta:

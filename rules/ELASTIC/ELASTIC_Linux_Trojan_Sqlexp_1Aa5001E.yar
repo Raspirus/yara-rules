@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Sqlexp_1Aa5001E : FILE MEMORY
 {
 	meta:

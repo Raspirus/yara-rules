@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Gen_Python_Pyminifier_Encoded_Payload : FILE
 {
 	meta:

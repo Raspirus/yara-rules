@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Privateloader_Auto : FILE
 {
 	meta:

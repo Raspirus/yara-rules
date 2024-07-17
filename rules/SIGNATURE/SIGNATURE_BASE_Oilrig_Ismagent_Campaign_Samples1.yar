@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Oilrig_Ismagent_Campaign_Samples1 : FILE
 {
 	meta:

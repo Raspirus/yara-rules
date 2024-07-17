@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_CS_Loader_Feb24_1 : CVE_2024_1708 CVE_2024_1709 FILE
 {
 	meta:

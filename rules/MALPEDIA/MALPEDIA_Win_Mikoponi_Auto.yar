@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mikoponi_Auto : FILE
 {
 	meta:

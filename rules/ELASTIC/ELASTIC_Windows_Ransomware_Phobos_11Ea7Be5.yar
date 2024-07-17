@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Phobos_11Ea7Be5 : BETA FILE MEMORY
 {
 	meta:

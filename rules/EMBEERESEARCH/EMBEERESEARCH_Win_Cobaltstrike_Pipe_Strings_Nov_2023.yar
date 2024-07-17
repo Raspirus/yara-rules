@@ -1,3 +1,4 @@
+
 rule EMBEERESEARCH_Win_Cobaltstrike_Pipe_Strings_Nov_2023 : FILE
 {
 	meta:

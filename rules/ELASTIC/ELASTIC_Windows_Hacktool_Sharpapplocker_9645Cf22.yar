@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sharpapplocker_9645Cf22 : FILE MEMORY
 {
 	meta:

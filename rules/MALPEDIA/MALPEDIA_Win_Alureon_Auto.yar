@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Alureon_Auto : FILE
 {
 	meta:

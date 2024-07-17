@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Webc2_Div_Auto : FILE
 {
 	meta:

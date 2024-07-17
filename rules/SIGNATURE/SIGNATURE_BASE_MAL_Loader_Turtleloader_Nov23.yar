@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Loader_Turtleloader_Nov23 : CVE_2023_47246 FILE
 {
 	meta:

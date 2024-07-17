@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Cryptominer_Generic_Dd1E4D1A : FILE
 {
 	meta:

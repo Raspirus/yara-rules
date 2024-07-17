@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Xzbackdoor_74E87A9D : FILE MEMORY
 {
 	meta:

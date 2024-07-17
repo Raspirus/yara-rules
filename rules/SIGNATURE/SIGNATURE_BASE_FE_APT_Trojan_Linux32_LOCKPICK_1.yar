@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_FE_APT_Trojan_Linux32_LOCKPICK_1 : FILE
 {
 	meta:

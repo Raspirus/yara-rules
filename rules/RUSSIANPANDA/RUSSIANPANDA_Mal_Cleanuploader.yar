@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule RUSSIANPANDA_Mal_Cleanuploader : FILE
 {
 	meta:

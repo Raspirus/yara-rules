@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Acehash_Auto : FILE
 {
 	meta:

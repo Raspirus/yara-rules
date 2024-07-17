@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule EMBEERESEARCH_Win_Remcos_Rat_Unpacked : FILE
 {
 	meta:

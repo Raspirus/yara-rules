@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Kikothac_Auto : FILE
 {
 	meta:

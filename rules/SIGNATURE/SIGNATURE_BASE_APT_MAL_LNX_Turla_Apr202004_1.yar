@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_LNX_Turla_Apr202004_1 : FILE
 {
 	meta:

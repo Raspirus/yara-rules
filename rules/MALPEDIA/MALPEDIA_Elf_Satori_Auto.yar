@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Elf_Satori_Auto : FILE
 {
 	meta:

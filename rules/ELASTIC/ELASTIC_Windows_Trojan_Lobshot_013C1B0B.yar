@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Lobshot_013C1B0B : FILE MEMORY
 {
 	meta:

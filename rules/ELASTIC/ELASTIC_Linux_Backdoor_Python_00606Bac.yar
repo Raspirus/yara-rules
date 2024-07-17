@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Backdoor_Python_00606Bac : FILE MEMORY
 {
 	meta:

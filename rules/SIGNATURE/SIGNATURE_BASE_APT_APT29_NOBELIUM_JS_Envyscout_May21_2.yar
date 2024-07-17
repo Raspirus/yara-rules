@@ -1,3 +1,8 @@
+import "pe"
+
+import "math"
+
+
 rule SIGNATURE_BASE_APT_APT29_NOBELIUM_JS_Envyscout_May21_2 : FILE
 {
 	meta:

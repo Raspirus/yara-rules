@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Hacktool_Wipelog_Daea1Aa4 : FILE MEMORY
 {
 	meta:

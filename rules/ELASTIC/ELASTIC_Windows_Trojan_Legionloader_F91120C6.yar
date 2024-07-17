@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Legionloader_F91120C6 : FILE MEMORY
 {
 	meta:

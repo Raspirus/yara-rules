@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hotcroissant_Auto : FILE
 {
 	meta:

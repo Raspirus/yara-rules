@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Elirks_Auto : FILE
 {
 	meta:

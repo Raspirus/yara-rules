@@ -1,3 +1,4 @@
+
 rule HARFANGLAB_Supposed_Grasshopper_Downloader : FILE
 {
 	meta:

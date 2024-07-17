@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Industrial_Spy_Auto : FILE
 {
 	meta:

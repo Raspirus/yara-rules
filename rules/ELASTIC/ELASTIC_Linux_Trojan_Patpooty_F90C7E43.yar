@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Patpooty_F90C7E43 : FILE MEMORY
 {
 	meta:

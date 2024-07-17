@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ahtapot_Auto : FILE
 {
 	meta:

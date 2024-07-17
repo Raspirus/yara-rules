@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_RTF_LNK_Shell_Explorer_Execution : FILE
 {
 	meta:

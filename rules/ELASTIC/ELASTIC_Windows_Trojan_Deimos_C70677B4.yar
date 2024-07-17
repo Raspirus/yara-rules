@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Deimos_C70677B4 : FILE MEMORY
 {
 	meta:

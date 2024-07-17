@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_CN_Prochook_May19_1 : FILE
 {
 	meta:

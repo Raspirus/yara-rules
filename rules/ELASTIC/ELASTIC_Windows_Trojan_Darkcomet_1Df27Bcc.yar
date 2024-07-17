@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Darkcomet_1Df27Bcc : FILE MEMORY
 {
 	meta:

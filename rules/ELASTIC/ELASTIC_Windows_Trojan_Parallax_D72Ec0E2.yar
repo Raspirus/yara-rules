@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Parallax_D72Ec0E2 : FILE MEMORY
 {
 	meta:

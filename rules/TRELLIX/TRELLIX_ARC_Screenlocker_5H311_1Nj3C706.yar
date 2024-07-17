@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Screenlocker_5H311_1Nj3C706 : SCREENLOCKER FILE
 {
 	meta:

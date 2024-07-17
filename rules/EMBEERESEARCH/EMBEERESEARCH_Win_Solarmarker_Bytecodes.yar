@@ -1,3 +1,6 @@
+import "dotnet"
+
+
 rule EMBEERESEARCH_Win_Solarmarker_Bytecodes : FILE
 {
 	meta:

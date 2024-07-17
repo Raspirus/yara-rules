@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Smokeloader_De52Ed44 : FILE MEMORY
 {
 	meta:

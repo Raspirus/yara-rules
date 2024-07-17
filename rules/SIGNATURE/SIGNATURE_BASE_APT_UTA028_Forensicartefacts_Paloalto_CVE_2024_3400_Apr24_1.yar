@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_UTA028_Forensicartefacts_Paloalto_CVE_2024_3400_Apr24_1 : SCRIPT CVE_2024_3400
 {
 	meta:

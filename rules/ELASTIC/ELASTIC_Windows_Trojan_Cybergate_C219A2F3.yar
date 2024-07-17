@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Cybergate_C219A2F3 : FILE MEMORY
 {
 	meta:

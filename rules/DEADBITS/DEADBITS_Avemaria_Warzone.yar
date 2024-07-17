@@ -1,3 +1,4 @@
+
 rule DEADBITS_Avemaria_Warzone : AVEMARIA WARZONE WINMALWARE INFOSTEALER FILE
 {
 	meta:

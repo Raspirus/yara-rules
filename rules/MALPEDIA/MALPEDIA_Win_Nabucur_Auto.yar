@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nabucur_Auto : FILE
 {
 	meta:

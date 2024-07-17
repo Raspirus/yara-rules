@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_APT41_CN_ELF_Speculoos_Backdoor : FILE
 {
 	meta:

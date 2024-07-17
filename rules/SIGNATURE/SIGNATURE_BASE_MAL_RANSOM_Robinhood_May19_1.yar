@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_RANSOM_Robinhood_May19_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Combos_Auto : FILE
 {
 	meta:

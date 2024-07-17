@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Webmonitor_Auto : FILE
 {
 	meta:

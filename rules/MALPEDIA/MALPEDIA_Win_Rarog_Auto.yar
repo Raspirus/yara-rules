@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rarog_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_HKTL_NET_NAME_RAT_Njrat_0_7D_Modded_Source_Code : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule VOLEXITY_Trojan_Win_Xe_Backwash : XEGROUP FILE
 {
 	meta:

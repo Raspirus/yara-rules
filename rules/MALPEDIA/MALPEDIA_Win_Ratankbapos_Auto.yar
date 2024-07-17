@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ratankbapos_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule EMBEERESEARCH_Win_Redline_Bytecodes_Jan_2024 : FILE
 {
 	meta:

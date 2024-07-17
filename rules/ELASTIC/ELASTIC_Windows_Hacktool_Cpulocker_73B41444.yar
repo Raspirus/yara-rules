@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Cpulocker_73B41444 : FILE
 {
 	meta:

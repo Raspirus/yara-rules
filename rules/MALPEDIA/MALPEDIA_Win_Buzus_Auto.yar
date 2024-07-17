@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Buzus_Auto : FILE
 {
 	meta:

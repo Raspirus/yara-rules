@@ -1,3 +1,6 @@
+import "math"
+
+
 rule SIGNATURE_BASE_WEBSHELL_PHP_In_Htaccess : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Stegoloader_Auto : FILE
 {
 	meta:

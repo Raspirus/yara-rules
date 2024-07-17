@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_DTRACK_Oct19_1 : FILE
 {
 	meta:

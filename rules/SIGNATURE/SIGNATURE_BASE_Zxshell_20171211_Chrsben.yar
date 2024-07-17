@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Zxshell_20171211_Chrsben : FILE
 {
 	meta:

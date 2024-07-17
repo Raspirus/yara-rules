@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Lazarus_Aug18_2 : FILE
 {
 	meta:

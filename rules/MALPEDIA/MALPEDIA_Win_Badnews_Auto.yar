@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Badnews_Auto : FILE
 {
 	meta:

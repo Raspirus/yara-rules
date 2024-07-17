@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_JRAT_Oct18_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Biscuit_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lobshot_Auto : FILE
 {
 	meta:

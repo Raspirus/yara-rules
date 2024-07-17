@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Backdoor_Generic_Babf9101 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Hacktool_Jokerspy_58A6B26D : FILE MEMORY
 {
 	meta:

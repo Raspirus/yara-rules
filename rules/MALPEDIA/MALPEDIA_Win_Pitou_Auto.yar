@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pitou_Auto : FILE
 {
 	meta:

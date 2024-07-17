@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Arik_Keylogger_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Kandykorn_A7Bb6944 : FILE MEMORY
 {
 	meta:

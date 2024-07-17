@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Metasploit_C9773203 : FILE MEMORY
 {
 	meta:

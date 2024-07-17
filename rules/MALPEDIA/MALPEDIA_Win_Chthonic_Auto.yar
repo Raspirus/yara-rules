@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Chthonic_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dnspionage_Auto : FILE
 {
 	meta:

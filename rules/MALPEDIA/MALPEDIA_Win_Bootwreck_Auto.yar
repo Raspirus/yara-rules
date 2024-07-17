@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bootwreck_Auto : FILE
 {
 	meta:

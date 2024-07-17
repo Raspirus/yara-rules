@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Donot_Auto : FILE
 {
 	meta:

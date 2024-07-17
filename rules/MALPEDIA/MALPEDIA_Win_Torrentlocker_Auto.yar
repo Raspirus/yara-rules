@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Torrentlocker_Auto : FILE
 {
 	meta:

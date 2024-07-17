@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ployx_Auto : FILE
 {
 	meta:

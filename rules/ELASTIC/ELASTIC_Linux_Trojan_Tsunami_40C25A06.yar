@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Tsunami_40C25A06 : FILE MEMORY
 {
 	meta:

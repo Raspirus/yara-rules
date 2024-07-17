@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Phant0M_2D6F9B57 : FILE MEMORY
 {
 	meta:

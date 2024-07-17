@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Macro_Sheet_Obfuscated_Char : FILE
 {
 	meta:

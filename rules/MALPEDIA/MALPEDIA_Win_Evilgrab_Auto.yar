@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Evilgrab_Auto : FILE
 {
 	meta:

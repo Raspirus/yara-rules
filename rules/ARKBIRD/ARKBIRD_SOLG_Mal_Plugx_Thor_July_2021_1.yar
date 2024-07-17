@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_Mal_Plugx_Thor_July_2021_1 : FILE
 {
 	meta:

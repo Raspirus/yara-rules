@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_UNC2447_BAT_Runner_May21_1 : FILE
 {
 	meta:

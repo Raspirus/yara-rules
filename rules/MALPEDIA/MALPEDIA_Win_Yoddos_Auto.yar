@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Yoddos_Auto : FILE
 {
 	meta:

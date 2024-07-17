@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Powershell_Suite_Hacktools_Gen_Strings : FILE
 {
 	meta:

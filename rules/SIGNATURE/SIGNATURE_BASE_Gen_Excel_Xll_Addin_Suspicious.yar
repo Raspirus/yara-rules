@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Gen_Excel_Xll_Addin_Suspicious : FILE
 {
 	meta:

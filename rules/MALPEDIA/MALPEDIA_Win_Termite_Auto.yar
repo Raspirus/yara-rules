@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Termite_Auto : FILE
 {
 	meta:

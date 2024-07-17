@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Credtheft_Win_EXCAVATOR_2 : FILE
 {
 	meta:

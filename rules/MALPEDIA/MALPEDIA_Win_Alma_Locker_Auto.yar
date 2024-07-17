@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Alma_Locker_Auto : FILE
 {
 	meta:

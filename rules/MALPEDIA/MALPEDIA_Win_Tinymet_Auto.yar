@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tinymet_Auto : FILE
 {
 	meta:

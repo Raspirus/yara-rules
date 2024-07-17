@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lazardoor_Auto : FILE
 {
 	meta:

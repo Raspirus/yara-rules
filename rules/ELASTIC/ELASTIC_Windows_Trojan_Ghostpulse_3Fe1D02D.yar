@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Ghostpulse_3Fe1D02D : FILE MEMORY
 {
 	meta:

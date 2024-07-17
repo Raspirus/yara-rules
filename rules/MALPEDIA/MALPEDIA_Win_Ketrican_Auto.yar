@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ketrican_Auto : FILE
 {
 	meta:

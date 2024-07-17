@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Polyglotduke_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Rootkit_Arkd_Bbd56917 : FILE MEMORY
 {
 	meta:

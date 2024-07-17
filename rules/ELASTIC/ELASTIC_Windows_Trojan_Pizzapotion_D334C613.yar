@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Pizzapotion_D334C613 : FILE MEMORY
 {
 	meta:

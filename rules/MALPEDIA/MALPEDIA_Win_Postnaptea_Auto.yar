@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Postnaptea_Auto : FILE
 {
 	meta:

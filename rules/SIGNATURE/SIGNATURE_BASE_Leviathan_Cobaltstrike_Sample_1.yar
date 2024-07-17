@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Leviathan_Cobaltstrike_Sample_1 : FILE
 {
 	meta:

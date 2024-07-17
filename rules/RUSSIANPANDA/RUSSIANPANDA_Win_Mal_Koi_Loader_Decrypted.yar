@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Win_Mal_Koi_Loader_Decrypted : FILE
 {
 	meta:

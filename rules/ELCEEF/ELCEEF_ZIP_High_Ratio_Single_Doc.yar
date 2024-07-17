@@ -1,3 +1,4 @@
+
 rule ELCEEF_ZIP_High_Ratio_Single_Doc : FILE
 {
 	meta:

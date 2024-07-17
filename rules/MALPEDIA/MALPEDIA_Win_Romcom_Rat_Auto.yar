@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Romcom_Rat_Auto : FILE
 {
 	meta:

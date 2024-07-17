@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Monti_9C64F016 : FILE MEMORY
 {
 	meta:

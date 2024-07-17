@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_Hvs_APT37_Webshell_Img_Thumbs_Asp : FILE
 {
 	meta:

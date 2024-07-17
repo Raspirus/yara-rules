@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Terminator_Rat_Auto : FILE
 {
 	meta:

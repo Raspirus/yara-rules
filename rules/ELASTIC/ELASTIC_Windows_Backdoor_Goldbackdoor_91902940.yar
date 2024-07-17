@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Backdoor_Goldbackdoor_91902940 : FILE MEMORY
 {
 	meta:

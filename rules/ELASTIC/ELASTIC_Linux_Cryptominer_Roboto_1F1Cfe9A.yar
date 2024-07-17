@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Roboto_1F1Cfe9A : FILE MEMORY
 {
 	meta:

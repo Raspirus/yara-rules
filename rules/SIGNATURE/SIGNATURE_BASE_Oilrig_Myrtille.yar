@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Oilrig_Myrtille : FILE
 {
 	meta:

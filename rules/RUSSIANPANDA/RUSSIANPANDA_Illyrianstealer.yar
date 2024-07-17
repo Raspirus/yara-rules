@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule RUSSIANPANDA_Illyrianstealer : FILE
 {
 	meta:

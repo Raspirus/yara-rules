@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Fatduke_Auto : FILE
 {
 	meta:

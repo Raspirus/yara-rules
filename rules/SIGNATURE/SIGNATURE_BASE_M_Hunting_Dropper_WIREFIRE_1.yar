@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_M_Hunting_Dropper_WIREFIRE_1 : FILE
 {
 	meta:

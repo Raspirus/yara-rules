@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Grey_Energy_Auto : FILE
 {
 	meta:

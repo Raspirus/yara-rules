@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Ladvix_Db41F9D2 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Deputydog_Auto : FILE
 {
 	meta:

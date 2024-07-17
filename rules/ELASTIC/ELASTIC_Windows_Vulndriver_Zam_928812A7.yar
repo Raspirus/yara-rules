@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Zam_928812A7 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hermeticwiper_Auto : FILE
 {
 	meta:

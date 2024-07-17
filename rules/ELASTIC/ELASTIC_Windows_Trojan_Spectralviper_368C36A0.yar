@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Spectralviper_368C36A0 : FILE MEMORY
 {
 	meta:

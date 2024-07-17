@@ -1,3 +1,4 @@
+
 rule ELASTIC_Multi_Ransomware_Luna_8614D3D7 : FILE MEMORY
 {
 	meta:

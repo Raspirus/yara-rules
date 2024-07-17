@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule DITEKSHEN_INDICATOR_TOOL_PET_Sharpstrike : FILE
 {
 	meta:

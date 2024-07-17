@@ -1,3 +1,4 @@
+
 rule CAPE_Seduploader : FILE
 {
 	meta:

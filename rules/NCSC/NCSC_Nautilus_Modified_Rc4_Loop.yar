@@ -1,3 +1,4 @@
+
 rule NCSC_Nautilus_Modified_Rc4_Loop : FILE
 {
 	meta:

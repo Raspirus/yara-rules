@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_RAR_With_PDF_Script_Obfuscation : FILE
 {
 	meta:

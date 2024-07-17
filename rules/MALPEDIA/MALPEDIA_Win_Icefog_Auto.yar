@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Icefog_Auto : FILE
 {
 	meta:

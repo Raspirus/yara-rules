@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Redline_Payload : BACKDOOR FILE
 {
 	meta:

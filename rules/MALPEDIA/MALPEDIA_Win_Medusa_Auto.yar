@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Medusa_Auto : FILE
 {
 	meta:

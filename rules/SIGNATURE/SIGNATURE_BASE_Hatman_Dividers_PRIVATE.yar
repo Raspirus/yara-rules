@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Hatman_Dividers_PRIVATE : HATMAN
 {
 	meta:

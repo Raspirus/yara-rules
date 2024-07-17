@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Webshell_Php_Str_Replace_Create_Func : WEBSHELLS GENERAL FILE
 {
 	meta:

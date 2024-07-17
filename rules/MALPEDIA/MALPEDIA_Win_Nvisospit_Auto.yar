@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nvisospit_Auto : FILE
 {
 	meta:

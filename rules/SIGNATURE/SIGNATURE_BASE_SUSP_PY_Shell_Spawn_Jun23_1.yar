@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_PY_Shell_Spawn_Jun23_1 : SCRIPT
 {
 	meta:

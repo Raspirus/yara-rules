@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Win_Powerstar : CHARMINGKITTEN
 {
 	meta:

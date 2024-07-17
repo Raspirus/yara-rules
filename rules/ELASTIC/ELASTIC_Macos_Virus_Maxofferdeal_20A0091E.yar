@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Virus_Maxofferdeal_20A0091E : FILE MEMORY
 {
 	meta:

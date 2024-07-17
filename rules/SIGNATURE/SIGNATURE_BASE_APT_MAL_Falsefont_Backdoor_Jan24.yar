@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_Falsefont_Backdoor_Jan24 : FILE
 {
 	meta:

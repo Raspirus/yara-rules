@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rover_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Hacktool_MSIL_SAFETYKATZ_4 : FILE
 {
 	meta:

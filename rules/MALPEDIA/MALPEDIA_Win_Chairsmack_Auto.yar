@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Chairsmack_Auto : FILE
 {
 	meta:

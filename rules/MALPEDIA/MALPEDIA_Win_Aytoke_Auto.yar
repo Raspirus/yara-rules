@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Aytoke_Auto : FILE
 {
 	meta:

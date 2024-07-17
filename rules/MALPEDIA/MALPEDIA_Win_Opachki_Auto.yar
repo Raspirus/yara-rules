@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Opachki_Auto : FILE
 {
 	meta:

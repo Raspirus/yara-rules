@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Soundbite_Auto : FILE
 {
 	meta:

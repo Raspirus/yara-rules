@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Loader_Win32_PGF_4 : FILE
 {
 	meta:

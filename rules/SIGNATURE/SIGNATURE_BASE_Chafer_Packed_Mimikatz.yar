@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Chafer_Packed_Mimikatz : FILE
 {
 	meta:

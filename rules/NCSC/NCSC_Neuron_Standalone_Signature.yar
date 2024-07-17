@@ -1,3 +1,4 @@
+
 rule NCSC_Neuron_Standalone_Signature : FILE
 {
 	meta:

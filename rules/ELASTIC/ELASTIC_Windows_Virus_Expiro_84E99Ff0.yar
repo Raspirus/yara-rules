@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Virus_Expiro_84E99Ff0 : FILE MEMORY
 {
 	meta:

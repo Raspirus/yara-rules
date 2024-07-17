@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_CMD_Script_Obfuscated_Feb19_1 : FILE
 {
 	meta:

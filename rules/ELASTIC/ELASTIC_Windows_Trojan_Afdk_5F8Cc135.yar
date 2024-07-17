@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Afdk_5F8Cc135 : FILE MEMORY
 {
 	meta:

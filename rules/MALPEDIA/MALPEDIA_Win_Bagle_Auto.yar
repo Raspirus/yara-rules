@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bagle_Auto : FILE
 {
 	meta:

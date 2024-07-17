@@ -1,3 +1,4 @@
+
 rule EMBEERESEARCH_Win_Lumma_Update_Simple_Strings_Sep_2023 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Magniber_Auto : FILE
 {
 	meta:

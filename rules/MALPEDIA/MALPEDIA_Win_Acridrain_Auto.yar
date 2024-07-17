@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Acridrain_Auto : FILE
 {
 	meta:

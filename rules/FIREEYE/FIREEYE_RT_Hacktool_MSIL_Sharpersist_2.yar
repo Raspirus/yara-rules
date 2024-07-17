@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Hacktool_MSIL_Sharpersist_2 : FILE
 {
 	meta:

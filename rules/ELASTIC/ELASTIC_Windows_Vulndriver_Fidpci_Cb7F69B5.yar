@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Fidpci_Cb7F69B5 : FILE
 {
 	meta:

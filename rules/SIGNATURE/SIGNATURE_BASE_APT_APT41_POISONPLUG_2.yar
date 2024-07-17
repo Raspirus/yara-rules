@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_APT41_POISONPLUG_2 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_5T_Downloader_Auto : FILE
 {
 	meta:

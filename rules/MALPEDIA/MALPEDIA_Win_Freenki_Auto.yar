@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Freenki_Auto : FILE
 {
 	meta:

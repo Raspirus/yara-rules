@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Downeks_Auto : FILE
 {
 	meta:

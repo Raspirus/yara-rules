@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Dbatloader_F93A8E90 : FILE MEMORY
 {
 	meta:

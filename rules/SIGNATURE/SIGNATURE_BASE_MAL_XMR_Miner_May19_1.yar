@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_XMR_Miner_May19_1 : HIGHVOL FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_NET_GUID_Crypter_Runtime_AV_S_Bypass : FILE
 {
 	meta:

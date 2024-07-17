@@ -1,3 +1,6 @@
+import "dotnet"
+
+
 rule RUSSIANPANDA_Purecrypter : FILE
 {
 	meta:

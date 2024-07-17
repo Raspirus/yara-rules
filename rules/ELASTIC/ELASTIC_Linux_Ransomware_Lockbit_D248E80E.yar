@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Lockbit_D248E80E : FILE MEMORY
 {
 	meta:

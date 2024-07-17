@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Divergent_Auto : FILE
 {
 	meta:

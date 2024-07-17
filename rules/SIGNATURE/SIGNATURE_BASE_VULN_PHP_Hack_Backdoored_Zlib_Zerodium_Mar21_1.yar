@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_VULN_PHP_Hack_Backdoored_Zlib_Zerodium_Mar21_1 : FILE
 {
 	meta:

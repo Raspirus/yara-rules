@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule FIREEYE_RT_Loader_MSIL_DUEDLLIGENCE_2 : FILE
 {
 	meta:

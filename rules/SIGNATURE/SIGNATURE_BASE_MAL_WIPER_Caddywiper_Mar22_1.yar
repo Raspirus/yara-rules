@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_WIPER_Caddywiper_Mar22_1 : FILE
 {
 	meta:

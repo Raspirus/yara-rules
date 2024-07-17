@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_MAL_Netfilter_Dropper_Jun_2021_1 : FILE
 {
 	meta:

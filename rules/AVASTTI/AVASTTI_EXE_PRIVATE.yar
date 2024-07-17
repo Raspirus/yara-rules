@@ -1,3 +1,4 @@
+
 rule AVASTTI_EXE_PRIVATE : FILE
 {
 	meta:

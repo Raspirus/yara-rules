@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Asacub_D3C4Aa41 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Mobidash_29B86E6A : FILE MEMORY
 {
 	meta:

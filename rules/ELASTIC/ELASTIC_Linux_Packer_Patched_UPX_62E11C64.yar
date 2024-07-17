@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Packer_Patched_UPX_62E11C64 : FILE
 {
 	meta:

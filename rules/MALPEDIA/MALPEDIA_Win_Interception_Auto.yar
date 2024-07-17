@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Interception_Auto : FILE
 {
 	meta:

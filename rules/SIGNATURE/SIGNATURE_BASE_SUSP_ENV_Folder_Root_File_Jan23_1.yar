@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_ENV_Folder_Root_File_Jan23_1 : SCRIPT FILE
 {
 	meta:

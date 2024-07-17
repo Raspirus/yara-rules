@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Makop_Ransomware_Auto : FILE
 {
 	meta:

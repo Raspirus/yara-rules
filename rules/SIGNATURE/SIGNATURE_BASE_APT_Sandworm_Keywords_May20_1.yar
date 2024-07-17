@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Sandworm_Keywords_May20_1 : CVE_2019_10149 FILE
 {
 	meta:

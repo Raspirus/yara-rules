@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lemonduck_Auto : FILE
 {
 	meta:

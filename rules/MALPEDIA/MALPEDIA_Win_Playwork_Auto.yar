@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Playwork_Auto : FILE
 {
 	meta:

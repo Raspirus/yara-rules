@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Xpertrat_Ce03C41D : FILE MEMORY
 {
 	meta:

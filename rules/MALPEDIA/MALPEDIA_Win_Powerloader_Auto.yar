@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Powerloader_Auto : FILE
 {
 	meta:

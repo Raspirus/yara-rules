@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Dropper_HTA_Wildchild_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Askcreds_34E3E3D4 : FILE MEMORY
 {
 	meta:

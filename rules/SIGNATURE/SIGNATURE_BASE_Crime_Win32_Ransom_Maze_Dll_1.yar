@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Crime_Win32_Ransom_Maze_Dll_1 : FILE
 {
 	meta:

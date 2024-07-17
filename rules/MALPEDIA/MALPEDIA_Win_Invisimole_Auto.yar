@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Invisimole_Auto : FILE
 {
 	meta:

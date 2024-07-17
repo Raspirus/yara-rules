@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sagerunex_Auto : FILE
 {
 	meta:

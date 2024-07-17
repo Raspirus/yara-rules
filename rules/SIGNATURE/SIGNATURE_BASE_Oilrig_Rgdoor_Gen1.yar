@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Oilrig_Rgdoor_Gen1 : FILE
 {
 	meta:

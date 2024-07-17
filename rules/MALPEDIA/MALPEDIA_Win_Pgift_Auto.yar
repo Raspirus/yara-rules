@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pgift_Auto : FILE
 {
 	meta:

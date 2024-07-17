@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_BAT_Aux_Jan20_1 : FILE
 {
 	meta:

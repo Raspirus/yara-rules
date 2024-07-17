@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Isaacwiper_Auto : FILE
 {
 	meta:

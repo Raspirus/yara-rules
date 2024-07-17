@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Merlin_E8Ecb3Be : FILE MEMORY
 {
 	meta:

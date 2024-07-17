@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Woolger_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sharplaps_381C3F40 : FILE MEMORY
 {
 	meta:

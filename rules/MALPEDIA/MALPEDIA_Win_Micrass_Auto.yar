@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Micrass_Auto : FILE
 {
 	meta:

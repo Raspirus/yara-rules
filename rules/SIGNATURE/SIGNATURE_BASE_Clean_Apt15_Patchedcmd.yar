@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Clean_Apt15_Patchedcmd : FILE
 {
 	meta:

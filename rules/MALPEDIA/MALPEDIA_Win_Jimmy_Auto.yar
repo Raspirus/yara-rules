@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Jimmy_Auto : FILE
 {
 	meta:

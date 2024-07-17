@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Whispergate_3476008E : FILE MEMORY
 {
 	meta:

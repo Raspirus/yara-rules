@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Rtf_Bluetea_Builder : MALDOC FILE
 {
 	meta:

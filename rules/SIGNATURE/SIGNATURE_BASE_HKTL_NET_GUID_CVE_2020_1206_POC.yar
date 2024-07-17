@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_NET_GUID_CVE_2020_1206_POC : FILE
 {
 	meta:

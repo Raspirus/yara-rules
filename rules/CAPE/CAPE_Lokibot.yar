@@ -1,3 +1,4 @@
+
 rule CAPE_Lokibot : FILE
 {
 	meta:

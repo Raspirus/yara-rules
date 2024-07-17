@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_APT_Winnti : BACKDOOR FILE
 {
 	meta:

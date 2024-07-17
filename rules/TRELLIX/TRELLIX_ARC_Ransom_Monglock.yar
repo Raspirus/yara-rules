@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Ransom_Monglock : RANSOMWARE FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Bluez_50E87Fa9 : FILE MEMORY
 {
 	meta:

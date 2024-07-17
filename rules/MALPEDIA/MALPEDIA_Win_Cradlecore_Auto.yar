@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cradlecore_Auto : FILE
 {
 	meta:

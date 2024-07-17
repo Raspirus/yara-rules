@@ -1,3 +1,15 @@
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Emotet_JS_Dropper_Oct19_1 : FILE
 {
 	meta:

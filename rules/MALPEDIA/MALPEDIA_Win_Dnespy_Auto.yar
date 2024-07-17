@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dnespy_Auto : FILE
 {
 	meta:

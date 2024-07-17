@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Downtown_145Ecd2F : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Hawkeye_975D546C : FILE MEMORY
 {
 	meta:

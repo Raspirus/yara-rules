@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule FIREEYE_RT_APT_Loader_Win32_Dshell_2 : FILE
 {
 	meta:

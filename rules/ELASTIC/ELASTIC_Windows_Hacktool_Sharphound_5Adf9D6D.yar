@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sharphound_5Adf9D6D : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Bumblebee_70Bed4F3 : FILE MEMORY
 {
 	meta:

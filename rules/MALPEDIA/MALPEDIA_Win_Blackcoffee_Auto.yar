@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Blackcoffee_Auto : FILE
 {
 	meta:

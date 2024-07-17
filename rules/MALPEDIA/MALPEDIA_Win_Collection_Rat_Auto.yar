@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Collection_Rat_Auto : FILE
 {
 	meta:

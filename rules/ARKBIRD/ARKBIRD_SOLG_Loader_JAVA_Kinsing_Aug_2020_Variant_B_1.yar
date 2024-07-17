@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_Loader_JAVA_Kinsing_Aug_2020_Variant_B_1 : FILE
 {
 	meta:

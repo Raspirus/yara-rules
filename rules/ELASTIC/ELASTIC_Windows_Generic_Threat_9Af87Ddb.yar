@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Generic_Threat_9Af87Ddb : FILE MEMORY
 {
 	meta:

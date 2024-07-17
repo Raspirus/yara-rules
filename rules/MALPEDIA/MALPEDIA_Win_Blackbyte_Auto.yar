@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Blackbyte_Auto : FILE
 {
 	meta:

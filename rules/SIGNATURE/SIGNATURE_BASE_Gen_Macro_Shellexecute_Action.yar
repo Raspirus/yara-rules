@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Gen_Macro_Shellexecute_Action : FILE
 {
 	meta:

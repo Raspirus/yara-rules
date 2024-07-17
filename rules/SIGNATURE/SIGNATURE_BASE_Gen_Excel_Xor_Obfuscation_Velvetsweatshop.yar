@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Gen_Excel_Xor_Obfuscation_Velvetsweatshop : FILE
 {
 	meta:

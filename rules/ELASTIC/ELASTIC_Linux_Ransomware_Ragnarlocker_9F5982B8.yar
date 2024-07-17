@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Ragnarlocker_9F5982B8 : FILE MEMORY
 {
 	meta:

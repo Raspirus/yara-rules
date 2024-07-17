@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rikamanu_Auto : FILE
 {
 	meta:

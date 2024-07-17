@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Trojan_MSIL_GORAT_Module_Powershell_1 : FILE
 {
 	meta:

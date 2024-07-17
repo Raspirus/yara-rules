@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Mimikatz_Kirbi_Ticket : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Icedid_GZIP_LDR_202104 : FILE
 {
 	meta:

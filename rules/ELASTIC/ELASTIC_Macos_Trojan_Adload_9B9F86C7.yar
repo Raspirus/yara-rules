@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Adload_9B9F86C7 : FILE MEMORY
 {
 	meta:

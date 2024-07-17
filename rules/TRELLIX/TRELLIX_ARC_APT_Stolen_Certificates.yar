@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule TRELLIX_ARC_APT_Stolen_Certificates : BACKDOOR FILE
 {
 	meta:

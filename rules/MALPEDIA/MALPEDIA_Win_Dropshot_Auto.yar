@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dropshot_Auto : FILE
 {
 	meta:

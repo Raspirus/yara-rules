@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Sandworm_Cyclopsblink_Handle_Mod_0Xf_Command : FILE
 {
 	meta:

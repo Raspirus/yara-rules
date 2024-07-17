@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Royalcli_Auto : FILE
 {
 	meta:

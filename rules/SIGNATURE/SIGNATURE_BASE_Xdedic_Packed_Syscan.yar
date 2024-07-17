@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Xdedic_Packed_Syscan : FILE
 {
 	meta:

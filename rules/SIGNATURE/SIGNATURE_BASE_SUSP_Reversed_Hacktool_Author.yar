@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Reversed_Hacktool_Author : FILE
 {
 	meta:

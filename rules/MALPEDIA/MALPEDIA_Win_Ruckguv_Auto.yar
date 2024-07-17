@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ruckguv_Auto : FILE
 {
 	meta:

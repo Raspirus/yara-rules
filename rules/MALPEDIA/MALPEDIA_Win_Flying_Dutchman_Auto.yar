@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Flying_Dutchman_Auto : FILE
 {
 	meta:

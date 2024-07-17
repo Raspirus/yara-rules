@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Starcruft_Auto : FILE
 {
 	meta:

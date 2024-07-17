@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mydoom_Auto : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule HARFANGLAB_Custom_Ateraagent_Operator : FILE
 {
 	meta:

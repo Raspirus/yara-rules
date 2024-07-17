@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Hancitor_6738D84A : FILE MEMORY
 {
 	meta:

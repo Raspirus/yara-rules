@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ice_Ix_Auto : FILE
 {
 	meta:

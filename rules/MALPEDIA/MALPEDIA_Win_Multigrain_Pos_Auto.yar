@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Multigrain_Pos_Auto : FILE
 {
 	meta:

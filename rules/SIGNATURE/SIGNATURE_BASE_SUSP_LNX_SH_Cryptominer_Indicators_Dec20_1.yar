@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_LNX_SH_Cryptominer_Indicators_Dec20_1 : FILE
 {
 	meta:

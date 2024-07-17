@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Poshc2_E2D3881E : FILE MEMORY
 {
 	meta:

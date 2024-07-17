@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Backnet_Nov18_1 : FILE
 {
 	meta:

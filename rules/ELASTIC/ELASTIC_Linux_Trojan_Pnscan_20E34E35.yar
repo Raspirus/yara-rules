@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Pnscan_20E34E35 : FILE MEMORY
 {
 	meta:

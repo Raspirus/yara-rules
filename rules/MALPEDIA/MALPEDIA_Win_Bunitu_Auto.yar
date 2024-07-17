@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bunitu_Auto : FILE
 {
 	meta:

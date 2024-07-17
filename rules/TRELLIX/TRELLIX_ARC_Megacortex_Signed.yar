@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule TRELLIX_ARC_Megacortex_Signed : RANSOMWARE FILE
 {
 	meta:

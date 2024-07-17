@@ -1,3 +1,4 @@
+
 rule DEADBITS_Redghost_Linux : POSTEXPLOITATION LINUXMALWARE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Avzhan_Auto : FILE
 {
 	meta:

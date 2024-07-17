@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cookiebag_Auto : FILE
 {
 	meta:

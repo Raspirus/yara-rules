@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Cerbu_69D5657E : FILE MEMORY
 {
 	meta:

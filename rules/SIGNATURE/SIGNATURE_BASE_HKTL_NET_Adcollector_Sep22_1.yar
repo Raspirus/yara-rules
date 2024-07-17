@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_HKTL_NET_Adcollector_Sep22_1 : FILE
 {
 	meta:

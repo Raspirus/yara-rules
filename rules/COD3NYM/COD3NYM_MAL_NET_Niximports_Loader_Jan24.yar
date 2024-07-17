@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule COD3NYM_MAL_NET_Niximports_Loader_Jan24 : FILE
 {
 	meta:

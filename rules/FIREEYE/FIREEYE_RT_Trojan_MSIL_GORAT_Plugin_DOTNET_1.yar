@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Trojan_MSIL_GORAT_Plugin_DOTNET_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Quantloader_Auto : FILE
 {
 	meta:

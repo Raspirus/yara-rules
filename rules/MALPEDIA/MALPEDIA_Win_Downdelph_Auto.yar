@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Downdelph_Auto : FILE
 {
 	meta:

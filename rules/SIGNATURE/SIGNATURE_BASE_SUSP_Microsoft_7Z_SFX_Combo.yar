@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Microsoft_7Z_SFX_Combo : FILE
 {
 	meta:

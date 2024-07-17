@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_XMRIG_Monero_Miner_Config : FILE
 {
 	meta:

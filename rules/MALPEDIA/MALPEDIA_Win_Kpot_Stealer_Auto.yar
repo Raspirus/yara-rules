@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Kpot_Stealer_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gratem_Auto : FILE
 {
 	meta:

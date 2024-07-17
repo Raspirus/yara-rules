@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Hacktool_Flooder_A2795A4C : FILE MEMORY
 {
 	meta:

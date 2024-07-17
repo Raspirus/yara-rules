@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Salgorea_Auto : FILE
 {
 	meta:

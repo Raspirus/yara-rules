@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_8T_Dropper_Auto : FILE
 {
 	meta:

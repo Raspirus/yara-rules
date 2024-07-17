@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Xrat_1 : FILE
 {
 	meta:

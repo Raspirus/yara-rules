@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Hogfish_Report_Related_Sample : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_Winntilinux_Dropper_Azazelfork_May19 : AZAZEL_FORK FILE
 {
 	meta:

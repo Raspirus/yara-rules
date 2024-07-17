@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Neptune_Loader : FILE
 {
 	meta:

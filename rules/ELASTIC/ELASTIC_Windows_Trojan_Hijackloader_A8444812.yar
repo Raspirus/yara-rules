@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Hijackloader_A8444812 : FILE MEMORY
 {
 	meta:

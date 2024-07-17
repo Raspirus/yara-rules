@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Urlzone_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Qbot_HTML_Smuggling_Indicators_Oct22_1 : FILE
 {
 	meta:

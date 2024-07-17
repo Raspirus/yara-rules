@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Miniblindingcan_Auto : FILE
 {
 	meta:

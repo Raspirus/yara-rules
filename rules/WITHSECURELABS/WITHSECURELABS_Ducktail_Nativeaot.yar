@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule WITHSECURELABS_Ducktail_Nativeaot : FILE
 {
 	meta:

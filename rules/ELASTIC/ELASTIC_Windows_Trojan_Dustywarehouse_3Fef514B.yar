@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Dustywarehouse_3Fef514B : FILE MEMORY
 {
 	meta:

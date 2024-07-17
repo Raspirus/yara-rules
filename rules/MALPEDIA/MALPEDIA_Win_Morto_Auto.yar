@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Morto_Auto : FILE
 {
 	meta:

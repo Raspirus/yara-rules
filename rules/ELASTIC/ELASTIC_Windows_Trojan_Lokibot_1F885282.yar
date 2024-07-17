@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Lokibot_1F885282 : FILE MEMORY
 {
 	meta:

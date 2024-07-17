@@ -1,3 +1,4 @@
+
 rule VOLEXITY_General_Jsp_Possible_Tiny_Fileuploader : GENERAL WEBSHELLS FILE
 {
 	meta:

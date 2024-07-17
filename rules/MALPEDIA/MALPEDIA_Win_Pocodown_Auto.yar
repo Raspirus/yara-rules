@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pocodown_Auto : FILE
 {
 	meta:

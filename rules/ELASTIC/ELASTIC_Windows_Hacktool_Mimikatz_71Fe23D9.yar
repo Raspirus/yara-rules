@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Mimikatz_71Fe23D9 : FILE
 {
 	meta:

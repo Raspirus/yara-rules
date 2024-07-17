@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Rotajakiro_Fb24F399 : FILE MEMORY
 {
 	meta:

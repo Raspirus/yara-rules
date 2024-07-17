@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Killav_Auto : FILE
 {
 	meta:

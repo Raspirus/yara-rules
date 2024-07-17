@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Void_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Snake_Ransomware : RANSOMWARE FILE
 {
 	meta:

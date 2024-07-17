@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Slingshot_Auto : FILE
 {
 	meta:

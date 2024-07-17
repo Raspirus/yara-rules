@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Vobfus_Auto : FILE
 {
 	meta:

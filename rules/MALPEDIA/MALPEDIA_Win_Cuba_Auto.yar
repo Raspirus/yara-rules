@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cuba_Auto : FILE
 {
 	meta:

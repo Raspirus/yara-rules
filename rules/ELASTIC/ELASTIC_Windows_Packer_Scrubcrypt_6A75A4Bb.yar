@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Packer_Scrubcrypt_6A75A4Bb : FILE MEMORY
 {
 	meta:

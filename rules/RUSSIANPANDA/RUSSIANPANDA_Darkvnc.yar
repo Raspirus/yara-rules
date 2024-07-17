@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Darkvnc : FILE
 {
 	meta:

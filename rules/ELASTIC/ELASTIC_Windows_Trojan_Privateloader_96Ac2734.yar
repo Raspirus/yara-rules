@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Privateloader_96Ac2734 : FILE MEMORY
 {
 	meta:

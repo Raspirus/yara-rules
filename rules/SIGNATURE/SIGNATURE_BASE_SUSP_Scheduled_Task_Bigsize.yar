@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Scheduled_Task_Bigsize : FILE
 {
 	meta:

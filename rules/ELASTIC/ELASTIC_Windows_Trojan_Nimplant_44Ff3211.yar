@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Nimplant_44Ff3211 : FILE MEMORY
 {
 	meta:

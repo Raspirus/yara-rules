@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Get2_Auto : FILE
 {
 	meta:

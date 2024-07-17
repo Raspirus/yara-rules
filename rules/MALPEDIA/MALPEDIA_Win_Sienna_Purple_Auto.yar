@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sienna_Purple_Auto : FILE
 {
 	meta:

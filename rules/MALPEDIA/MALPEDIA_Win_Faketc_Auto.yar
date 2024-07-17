@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Faketc_Auto : FILE
 {
 	meta:

@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_Shellpop_Netcat : FILE
 {
 	meta:

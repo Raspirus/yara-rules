@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Touchmove_Auto : FILE
 {
 	meta:

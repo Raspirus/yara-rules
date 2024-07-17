@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_APT_Turla_Comrat_Chinch_V4_Jan_2021_1 : FILE
 {
 	meta:

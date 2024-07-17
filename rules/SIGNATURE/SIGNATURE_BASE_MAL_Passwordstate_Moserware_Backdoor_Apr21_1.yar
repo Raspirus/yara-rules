@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Passwordstate_Moserware_Backdoor_Apr21_1 : FILE
 {
 	meta:

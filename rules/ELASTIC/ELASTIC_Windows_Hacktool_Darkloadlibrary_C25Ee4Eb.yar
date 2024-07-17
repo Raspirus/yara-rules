@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Darkloadlibrary_C25Ee4Eb : FILE MEMORY
 {
 	meta:

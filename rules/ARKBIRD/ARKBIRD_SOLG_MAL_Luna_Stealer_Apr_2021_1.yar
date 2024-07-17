@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_MAL_Luna_Stealer_Apr_2021_1 : FILE
 {
 	meta:

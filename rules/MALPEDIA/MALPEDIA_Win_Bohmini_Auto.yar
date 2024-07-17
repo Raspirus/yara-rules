@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bohmini_Auto : FILE
 {
 	meta:

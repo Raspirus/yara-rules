@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Eternal_Petya_Auto : FILE
 {
 	meta:

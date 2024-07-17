@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Maui_266Dea64 : FILE MEMORY
 {
 	meta:

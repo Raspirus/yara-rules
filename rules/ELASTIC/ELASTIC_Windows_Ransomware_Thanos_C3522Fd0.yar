@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Thanos_C3522Fd0 : BETA FILE MEMORY
 {
 	meta:

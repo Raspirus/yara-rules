@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Jasus_Auto : FILE
 {
 	meta:

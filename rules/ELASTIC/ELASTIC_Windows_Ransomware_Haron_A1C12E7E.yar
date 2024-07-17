@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Haron_A1C12E7E : FILE MEMORY
 {
 	meta:

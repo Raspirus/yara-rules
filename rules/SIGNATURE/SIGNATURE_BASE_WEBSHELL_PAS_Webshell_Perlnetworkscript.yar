@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_WEBSHELL_PAS_Webshell_Perlnetworkscript : FILE
 {
 	meta:

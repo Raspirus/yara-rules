@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Rustbucket_E64F7A92 : FILE MEMORY
 {
 	meta:

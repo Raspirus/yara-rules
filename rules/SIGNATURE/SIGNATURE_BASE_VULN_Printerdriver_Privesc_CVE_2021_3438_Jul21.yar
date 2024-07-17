@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_VULN_Printerdriver_Privesc_CVE_2021_3438_Jul21 : FILE
 {
 	meta:

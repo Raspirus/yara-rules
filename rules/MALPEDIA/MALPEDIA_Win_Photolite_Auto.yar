@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Photolite_Auto : FILE
 {
 	meta:

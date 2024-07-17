@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sleepobfloader_460A1A75 : FILE MEMORY
 {
 	meta:

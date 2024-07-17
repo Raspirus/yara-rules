@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Headertip_Auto : FILE
 {
 	meta:

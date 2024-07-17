@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Stormkitty_6256031A : FILE MEMORY
 {
 	meta:

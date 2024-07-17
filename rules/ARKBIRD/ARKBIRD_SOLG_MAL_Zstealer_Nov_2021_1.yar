@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_MAL_Zstealer_Nov_2021_1 : FILE
 {
 	meta:

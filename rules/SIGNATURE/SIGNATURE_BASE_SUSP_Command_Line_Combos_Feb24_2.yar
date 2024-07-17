@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_Command_Line_Combos_Feb24_2 : SCRIPT FILE
 {
 	meta:

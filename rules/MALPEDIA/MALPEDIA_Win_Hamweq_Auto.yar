@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hamweq_Auto : FILE
 {
 	meta:

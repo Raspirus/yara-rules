@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_MAL_Loader_Lockfile_Aug_2021_1 : FILE
 {
 	meta:

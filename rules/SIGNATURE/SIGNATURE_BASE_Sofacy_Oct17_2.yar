@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Sofacy_Oct17_2 : FILE
 {
 	meta:

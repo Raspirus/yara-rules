@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Younglotus_Auto : FILE
 {
 	meta:

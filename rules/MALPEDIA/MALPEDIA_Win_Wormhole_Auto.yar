@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Wormhole_Auto : FILE
 {
 	meta:

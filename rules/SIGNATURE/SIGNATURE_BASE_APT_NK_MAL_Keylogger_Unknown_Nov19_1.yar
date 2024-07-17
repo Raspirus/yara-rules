@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_NK_MAL_Keylogger_Unknown_Nov19_1 : FILE
 {
 	meta:

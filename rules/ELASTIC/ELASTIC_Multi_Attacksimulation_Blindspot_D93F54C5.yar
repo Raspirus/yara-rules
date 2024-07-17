@@ -1,3 +1,4 @@
+
 rule ELASTIC_Multi_Attacksimulation_Blindspot_D93F54C5 : FILE MEMORY
 {
 	meta:

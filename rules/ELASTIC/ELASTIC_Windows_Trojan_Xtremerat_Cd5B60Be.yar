@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Xtremerat_Cd5B60Be : FILE MEMORY
 {
 	meta:

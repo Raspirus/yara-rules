@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Stop_1E8D48Ff : FILE MEMORY
 {
 	meta:

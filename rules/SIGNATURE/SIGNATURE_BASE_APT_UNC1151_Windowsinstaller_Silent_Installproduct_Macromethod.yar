@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_UNC1151_Windowsinstaller_Silent_Installproduct_Macromethod : FILE
 {
 	meta:

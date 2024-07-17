@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Laziok_Auto : FILE
 {
 	meta:

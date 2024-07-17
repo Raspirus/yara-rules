@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Buhtrap_Auto : FILE
 {
 	meta:

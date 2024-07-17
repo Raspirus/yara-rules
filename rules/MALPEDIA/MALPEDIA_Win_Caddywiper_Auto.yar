@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Caddywiper_Auto : FILE
 {
 	meta:

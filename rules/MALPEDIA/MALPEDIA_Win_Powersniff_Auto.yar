@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Powersniff_Auto : FILE
 {
 	meta:

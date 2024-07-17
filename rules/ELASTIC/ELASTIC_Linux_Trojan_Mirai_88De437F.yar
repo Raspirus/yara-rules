@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Mirai_88De437F : FILE MEMORY
 {
 	meta:

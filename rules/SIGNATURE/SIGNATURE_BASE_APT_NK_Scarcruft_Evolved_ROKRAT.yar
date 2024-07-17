@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_NK_Scarcruft_Evolved_ROKRAT : APT FILE
 {
 	meta:

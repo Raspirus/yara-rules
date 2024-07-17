@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Bundlore_C90C088A : FILE MEMORY
 {
 	meta:

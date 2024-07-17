@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Backdoor_Teamviewer_Df8E7326 : FILE MEMORY
 {
 	meta:

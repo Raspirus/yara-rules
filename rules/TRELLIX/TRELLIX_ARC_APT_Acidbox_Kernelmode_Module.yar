@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_APT_Acidbox_Kernelmode_Module : KERNELDRIVER FILE
 {
 	meta:

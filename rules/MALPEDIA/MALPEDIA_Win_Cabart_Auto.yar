@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cabart_Auto : FILE
 {
 	meta:

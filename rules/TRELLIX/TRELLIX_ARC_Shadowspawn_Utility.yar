@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule TRELLIX_ARC_Shadowspawn_Utility : UTILITY FILE
 {
 	meta:

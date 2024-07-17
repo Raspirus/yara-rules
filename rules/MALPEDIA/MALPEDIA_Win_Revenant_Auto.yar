@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Revenant_Auto : FILE
 {
 	meta:

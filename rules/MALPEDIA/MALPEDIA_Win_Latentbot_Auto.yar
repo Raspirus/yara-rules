@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Latentbot_Auto : FILE
 {
 	meta:

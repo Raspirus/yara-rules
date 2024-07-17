@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Xxmm_Auto : FILE
 {
 	meta:

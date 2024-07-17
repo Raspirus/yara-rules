@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Siestagraph_8C36Ddc1 : FILE MEMORY
 {
 	meta:

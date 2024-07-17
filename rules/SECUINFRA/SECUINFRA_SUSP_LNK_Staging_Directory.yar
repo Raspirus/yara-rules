@@ -1,3 +1,4 @@
+
 rule SECUINFRA_SUSP_LNK_Staging_Directory : FILE
 {
 	meta:

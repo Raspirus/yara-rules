@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Alma_Communicator_Auto : FILE
 {
 	meta:

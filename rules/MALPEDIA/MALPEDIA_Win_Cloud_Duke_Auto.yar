@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cloud_Duke_Auto : FILE
 {
 	meta:

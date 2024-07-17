@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Phoenix_Locker_Auto : FILE
 {
 	meta:

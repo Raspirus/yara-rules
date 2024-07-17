@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Backdoor_Keyboardrecord_832F7Bac : FILE
 {
 	meta:

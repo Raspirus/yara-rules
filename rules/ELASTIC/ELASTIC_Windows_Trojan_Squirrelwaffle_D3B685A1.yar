@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Squirrelwaffle_D3B685A1 : FILE MEMORY
 {
 	meta:

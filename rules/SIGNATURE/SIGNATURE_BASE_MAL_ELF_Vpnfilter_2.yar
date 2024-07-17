@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_ELF_Vpnfilter_2 : FILE
 {
 	meta:

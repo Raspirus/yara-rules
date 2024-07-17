@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Citadel_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Downloader_Generic_0Bd15Ae0 : FILE MEMORY
 {
 	meta:

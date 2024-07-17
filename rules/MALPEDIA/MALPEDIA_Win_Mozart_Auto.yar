@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mozart_Auto : FILE
 {
 	meta:

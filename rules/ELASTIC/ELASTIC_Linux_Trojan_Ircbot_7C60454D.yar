@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Ircbot_7C60454D : FILE MEMORY
 {
 	meta:

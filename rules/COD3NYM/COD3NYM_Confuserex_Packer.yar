@@ -1,3 +1,4 @@
+
 rule COD3NYM_Confuserex_Packer : SUSPICIOUS OBFUSCATION FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sharpshares_88Cdcd52 : FILE MEMORY
 {
 	meta:

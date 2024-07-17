@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Irontiger_Ring_Gh0Stvariant : FILE
 {
 	meta:

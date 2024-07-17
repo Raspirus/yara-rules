@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Rooter_C8D08D3A : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule TELEKOM_SECURITY_Crylock_Hta : FILE
 {
 	meta:

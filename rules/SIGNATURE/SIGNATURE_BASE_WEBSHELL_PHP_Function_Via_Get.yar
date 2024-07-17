@@ -1,3 +1,6 @@
+import "math"
+
+
 rule SIGNATURE_BASE_WEBSHELL_PHP_Function_Via_Get : FILE
 {
 	meta:

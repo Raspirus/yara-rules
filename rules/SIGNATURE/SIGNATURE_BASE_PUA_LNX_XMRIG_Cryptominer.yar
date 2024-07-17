@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_PUA_LNX_XMRIG_Cryptominer : FILE
 {
 	meta:

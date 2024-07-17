@@ -1,3 +1,13 @@
+import "pe"
+
+import "math"
+
+
+import "pe"
+
+import "math"
+
+
 rule SIGNATURE_BASE_APT_APT29_NOBELIUM_Nativezone_Loader_May21_1 : FILE
 {
 	meta:

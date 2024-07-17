@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mirai_Auto : FILE
 {
 	meta:

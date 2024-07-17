@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lethic_Auto : FILE
 {
 	meta:

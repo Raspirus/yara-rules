@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Icedid_81Eff9A3 : FILE MEMORY
 {
 	meta:

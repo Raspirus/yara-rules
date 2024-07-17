@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Misfox_Auto : FILE
 {
 	meta:

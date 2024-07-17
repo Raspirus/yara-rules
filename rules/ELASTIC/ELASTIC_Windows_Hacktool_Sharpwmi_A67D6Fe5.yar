@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sharpwmi_A67D6Fe5 : FILE MEMORY
 {
 	meta:

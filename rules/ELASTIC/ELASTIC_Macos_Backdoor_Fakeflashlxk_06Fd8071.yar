@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Backdoor_Fakeflashlxk_06Fd8071 : FILE MEMORY
 {
 	meta:

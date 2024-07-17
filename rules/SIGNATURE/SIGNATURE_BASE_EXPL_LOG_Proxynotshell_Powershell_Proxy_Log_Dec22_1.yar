@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_LOG_Proxynotshell_Powershell_Proxy_Log_Dec22_1 : CVE_2022_41040 CVE_2022_41082
 {
 	meta:

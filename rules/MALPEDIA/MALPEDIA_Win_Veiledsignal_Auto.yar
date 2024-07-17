@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Veiledsignal_Auto : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Xtreme_RAT_Gen_Imp : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Karma_Auto : FILE
 {
 	meta:

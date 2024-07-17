@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Romeos_Auto : FILE
 {
 	meta:

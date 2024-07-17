@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Rubeus_43F18623 : FILE MEMORY
 {
 	meta:

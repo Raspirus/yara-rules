@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nightsky_Auto : FILE
 {
 	meta:

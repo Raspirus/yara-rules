@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Sliver_C9Cae357 : FILE MEMORY
 {
 	meta:

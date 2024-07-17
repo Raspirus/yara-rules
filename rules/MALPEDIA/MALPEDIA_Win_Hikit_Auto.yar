@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hikit_Auto : FILE
 {
 	meta:

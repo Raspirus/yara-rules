@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Trojan_ISMRAT_Gen : FILE
 {
 	meta:

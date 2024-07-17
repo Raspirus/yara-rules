@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Outlook_Backdoor_Auto : FILE
 {
 	meta:

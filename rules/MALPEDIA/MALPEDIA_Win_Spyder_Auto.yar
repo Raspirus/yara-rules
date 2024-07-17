@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Spyder_Auto : FILE
 {
 	meta:

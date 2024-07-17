@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Doc_RTF_Ole2Link_EMAIL_Jun22 : FILE
 {
 	meta:

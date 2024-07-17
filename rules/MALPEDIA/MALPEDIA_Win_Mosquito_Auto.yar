@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mosquito_Auto : FILE
 {
 	meta:

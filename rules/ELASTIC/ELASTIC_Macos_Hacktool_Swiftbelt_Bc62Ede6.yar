@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Hacktool_Swiftbelt_Bc62Ede6 : FILE MEMORY
 {
 	meta:

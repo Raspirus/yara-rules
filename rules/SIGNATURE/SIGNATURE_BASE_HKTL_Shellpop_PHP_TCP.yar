@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_Shellpop_PHP_TCP : FILE
 {
 	meta:

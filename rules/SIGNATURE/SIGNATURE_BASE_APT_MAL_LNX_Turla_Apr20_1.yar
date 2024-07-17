@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_MAL_LNX_Turla_Apr20_1 : FILE
 {
 	meta:

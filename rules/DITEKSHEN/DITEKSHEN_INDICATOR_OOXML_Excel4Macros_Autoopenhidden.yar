@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_OOXML_Excel4Macros_Autoopenhidden : FILE
 {
 	meta:

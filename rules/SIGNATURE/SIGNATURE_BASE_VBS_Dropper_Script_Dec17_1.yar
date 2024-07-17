@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_VBS_Dropper_Script_Dec17_1 : FILE
 {
 	meta:

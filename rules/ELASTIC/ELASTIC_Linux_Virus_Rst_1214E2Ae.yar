@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Virus_Rst_1214E2Ae : FILE MEMORY
 {
 	meta:

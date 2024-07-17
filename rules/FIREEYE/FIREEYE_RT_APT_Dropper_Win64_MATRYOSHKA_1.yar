@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Dropper_Win64_MATRYOSHKA_1 : FILE
 {
 	meta:

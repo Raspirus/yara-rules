@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Ragnarok_1Cab7Ea1 : BETA FILE MEMORY
 {
 	meta:

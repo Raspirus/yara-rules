@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Darkshell_Auto : FILE
 {
 	meta:

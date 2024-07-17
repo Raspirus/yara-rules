@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Fake_Document_Software_Indicators_Nov23 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Processhacker_3D01069E : FILE
 {
 	meta:

@@ -1,3 +1,15 @@
+import "dotnet"
+
+
+import "dotnet"
+
+
+import "dotnet"
+
+
+import "dotnet"
+
+
 rule EMBEERESEARCH_Win_Cobalt_Strike_Loader_Shellcode_Jun_2023 : FILE
 {
 	meta:

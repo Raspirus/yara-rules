@@ -1,3 +1,4 @@
+
 rule EMBEERESEARCH_Win_Cobalt_Sleep_Encrypt : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_PDB_Strings_Keylogger_Backdoor : HIGHVOL FILE
 {
 	meta:

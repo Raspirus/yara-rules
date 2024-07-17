@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Apt_RU_Turla_Kazuar_Debugview_Pefeatures : FILE
 {
 	meta:

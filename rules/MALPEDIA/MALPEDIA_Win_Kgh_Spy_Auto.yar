@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Kgh_Spy_Auto : FILE
 {
 	meta:

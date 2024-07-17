@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_M_APT_Downloader_BEATDROP : FILE
 {
 	meta:

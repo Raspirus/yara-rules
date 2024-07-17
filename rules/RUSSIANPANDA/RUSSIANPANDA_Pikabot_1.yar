@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Pikabot_1 : FILE
 {
 	meta:

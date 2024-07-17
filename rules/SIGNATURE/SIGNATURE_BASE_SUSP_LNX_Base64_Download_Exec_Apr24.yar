@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_LNX_Base64_Download_Exec_Apr24 : SCRIPT
 {
 	meta:

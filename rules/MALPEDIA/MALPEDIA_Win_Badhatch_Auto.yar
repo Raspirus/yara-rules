@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Badhatch_Auto : FILE
 {
 	meta:

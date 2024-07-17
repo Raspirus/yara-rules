@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Oskistealer_A158B1E3 : FILE MEMORY
 {
 	meta:

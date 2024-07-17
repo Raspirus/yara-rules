@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Solarmarker_Loader_PS2EXE : FILE
 {
 	meta:

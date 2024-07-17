@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cuegoe_Auto : FILE
 {
 	meta:

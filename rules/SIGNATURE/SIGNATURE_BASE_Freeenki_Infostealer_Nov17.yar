@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Freeenki_Infostealer_Nov17 : FILE
 {
 	meta:

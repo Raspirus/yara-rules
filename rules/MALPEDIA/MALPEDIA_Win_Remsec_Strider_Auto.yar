@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Remsec_Strider_Auto : FILE
 {
 	meta:

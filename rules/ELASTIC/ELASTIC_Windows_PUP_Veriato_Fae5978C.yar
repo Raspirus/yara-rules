@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_PUP_Veriato_Fae5978C : FILE MEMORY
 {
 	meta:

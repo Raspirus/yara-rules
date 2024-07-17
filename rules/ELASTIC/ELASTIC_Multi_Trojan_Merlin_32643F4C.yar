@@ -1,3 +1,4 @@
+
 rule ELASTIC_Multi_Trojan_Merlin_32643F4C : FILE MEMORY
 {
 	meta:

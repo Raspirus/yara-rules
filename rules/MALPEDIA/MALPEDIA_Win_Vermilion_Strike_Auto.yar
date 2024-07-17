@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Vermilion_Strike_Auto : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_Fake_AMSI_DLL_Jun23_1 : FILE
 {
 	meta:

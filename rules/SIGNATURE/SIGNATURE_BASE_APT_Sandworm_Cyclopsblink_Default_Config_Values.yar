@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Sandworm_Cyclopsblink_Default_Config_Values : FILE
 {
 	meta:

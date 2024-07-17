@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Bad_PDF : FILE
 {
 	meta:

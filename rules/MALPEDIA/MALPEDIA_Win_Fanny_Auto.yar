@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Fanny_Auto : FILE
 {
 	meta:

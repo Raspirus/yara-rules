@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_WIPER_Bibi_Oct23 : FILE
 {
 	meta:

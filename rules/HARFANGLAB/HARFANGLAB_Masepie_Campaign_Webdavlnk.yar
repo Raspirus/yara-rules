@@ -1,3 +1,4 @@
+
 rule HARFANGLAB_Masepie_Campaign_Webdavlnk : FILE
 {
 	meta:

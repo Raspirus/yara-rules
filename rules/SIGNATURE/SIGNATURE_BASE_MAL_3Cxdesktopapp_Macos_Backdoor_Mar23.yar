@@ -1,3 +1,15 @@
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_3Cxdesktopapp_Macos_Backdoor_Mar23 : FILE
 {
 	meta:

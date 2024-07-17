@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_ALFA_SHELL : FILE
 {
 	meta:

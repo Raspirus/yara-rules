@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Apt28_Win_Zebrocy_Golang_Loader_Modified : FILE
 {
 	meta:

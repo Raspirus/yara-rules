@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Keylogger_Win64_REDFLARE_1 : FILE
 {
 	meta:

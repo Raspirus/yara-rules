@@ -1,3 +1,4 @@
+
 rule CAPE_Hancitor : FILE
 {
 	meta:

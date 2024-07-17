@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Colony_Auto : FILE
 {
 	meta:

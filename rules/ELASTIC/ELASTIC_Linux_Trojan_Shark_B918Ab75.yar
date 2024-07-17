@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Shark_B918Ab75 : FILE MEMORY
 {
 	meta:

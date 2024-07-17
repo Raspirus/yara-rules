@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Thanatos_Auto : FILE
 {
 	meta:

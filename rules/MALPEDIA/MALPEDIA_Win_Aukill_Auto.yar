@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Aukill_Auto : FILE
 {
 	meta:

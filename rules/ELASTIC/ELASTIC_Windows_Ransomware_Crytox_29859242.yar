@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Crytox_29859242 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Dropper_LNK_Lnksmasher_1 : FILE
 {
 	meta:

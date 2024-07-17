@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Snessik_D166F98C : FILE MEMORY
 {
 	meta:

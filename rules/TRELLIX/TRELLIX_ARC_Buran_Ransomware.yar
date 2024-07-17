@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Buran_Ransomware : RANSOMWARE FILE
 {
 	meta:

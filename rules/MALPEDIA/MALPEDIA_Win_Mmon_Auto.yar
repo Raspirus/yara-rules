@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mmon_Auto : FILE
 {
 	meta:

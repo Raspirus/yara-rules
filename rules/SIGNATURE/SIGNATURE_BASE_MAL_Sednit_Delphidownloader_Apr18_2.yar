@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Sednit_Delphidownloader_Apr18_2 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Cryptominer_Generic_4E7D4488 : FILE MEMORY
 {
 	meta:

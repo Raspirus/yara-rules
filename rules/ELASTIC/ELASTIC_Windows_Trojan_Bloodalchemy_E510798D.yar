@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Bloodalchemy_E510798D : FILE MEMORY
 {
 	meta:

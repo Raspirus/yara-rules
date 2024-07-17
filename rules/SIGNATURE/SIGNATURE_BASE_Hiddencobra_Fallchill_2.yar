@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Hiddencobra_Fallchill_2 : FILE
 {
 	meta:

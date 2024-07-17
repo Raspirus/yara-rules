@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_TA17_318A_Success_Fail_Codes_Fallchill : FILE
 {
 	meta:

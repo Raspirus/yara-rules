@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Webc2_Ugx_Auto : FILE
 {
 	meta:

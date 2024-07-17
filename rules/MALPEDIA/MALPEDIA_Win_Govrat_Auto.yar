@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Govrat_Auto : FILE
 {
 	meta:

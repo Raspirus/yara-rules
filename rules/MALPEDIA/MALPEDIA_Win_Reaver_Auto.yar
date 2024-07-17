@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Reaver_Auto : FILE
 {
 	meta:

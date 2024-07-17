@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_STEALER_Lokibot : STEALER FILE
 {
 	meta:

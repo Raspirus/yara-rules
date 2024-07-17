@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_PUA_WIN_XMRIG_Cryptocoin_Miner_Dec20 : FILE
 {
 	meta:

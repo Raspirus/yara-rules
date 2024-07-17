@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Blackmatter_8394F6D5 : FILE MEMORY
 {
 	meta:

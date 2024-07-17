@@ -1,3 +1,12 @@
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_MAL_Signingcert_Feb24_1 : CVE_2024_1708 CVE_2024_1709 FILE
 {
 	meta:

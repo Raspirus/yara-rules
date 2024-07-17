@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Milkmaid_Auto : FILE
 {
 	meta:

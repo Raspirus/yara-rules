@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sanny_Auto : FILE
 {
 	meta:

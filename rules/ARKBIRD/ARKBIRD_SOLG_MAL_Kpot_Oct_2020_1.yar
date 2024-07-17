@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_MAL_Kpot_Oct_2020_1 : FILE
 {
 	meta:

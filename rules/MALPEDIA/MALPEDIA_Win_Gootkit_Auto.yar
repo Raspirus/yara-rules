@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gootkit_Auto : FILE
 {
 	meta:

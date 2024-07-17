@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Webshell_Aspx_Sportsball : WEBSHELL
 {
 	meta:

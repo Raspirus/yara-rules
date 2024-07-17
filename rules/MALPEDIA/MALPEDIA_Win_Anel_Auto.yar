@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Anel_Auto : FILE
 {
 	meta:

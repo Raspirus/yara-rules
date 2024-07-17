@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Avaddon_Auto : FILE
 {
 	meta:

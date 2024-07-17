@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Goggles_Auto : FILE
 {
 	meta:

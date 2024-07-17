@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Psybnc_F07357F1 : FILE MEMORY
 {
 	meta:

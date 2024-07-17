@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Bscope_348B7Fa0 : FILE MEMORY
 {
 	meta:

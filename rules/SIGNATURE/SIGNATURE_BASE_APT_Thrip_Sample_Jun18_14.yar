@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Thrip_Sample_Jun18_14 : FILE
 {
 	meta:

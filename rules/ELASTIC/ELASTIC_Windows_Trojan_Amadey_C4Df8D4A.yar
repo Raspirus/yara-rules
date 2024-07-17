@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Amadey_C4Df8D4A : FILE MEMORY
 {
 	meta:

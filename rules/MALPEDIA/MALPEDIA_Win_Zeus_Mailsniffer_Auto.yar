@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Zeus_Mailsniffer_Auto : FILE
 {
 	meta:

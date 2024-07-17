@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Remcos_Auto : FILE
 {
 	meta:

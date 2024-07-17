@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_Zoho_RCE_Fix_Lines_Dec21_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Htran_Auto : FILE
 {
 	meta:

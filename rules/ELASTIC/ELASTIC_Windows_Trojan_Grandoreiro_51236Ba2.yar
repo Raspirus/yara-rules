@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Grandoreiro_51236Ba2 : FILE MEMORY
 {
 	meta:

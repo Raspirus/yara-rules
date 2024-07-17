@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Doppelpaymer_6660D29F : BETA FILE MEMORY
 {
 	meta:

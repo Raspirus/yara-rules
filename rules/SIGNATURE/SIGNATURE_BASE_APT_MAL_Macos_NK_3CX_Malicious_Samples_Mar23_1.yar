@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_MAL_Macos_NK_3CX_Malicious_Samples_Mar23_1 : FILE
 {
 	meta:

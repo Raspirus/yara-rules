@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Elise_Auto : FILE
 {
 	meta:

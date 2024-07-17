@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SBOUSSEADEN_Susp_Msoffice_Addins_Wxll : FILE
 {
 	meta:

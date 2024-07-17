@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_DOC_Phishingpatterns : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Xorddos_93Fa87F1 : FILE MEMORY
 {
 	meta:

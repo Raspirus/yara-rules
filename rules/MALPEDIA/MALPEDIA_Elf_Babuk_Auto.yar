@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Elf_Babuk_Auto : FILE
 {
 	meta:

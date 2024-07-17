@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Wslink_Auto : FILE
 {
 	meta:

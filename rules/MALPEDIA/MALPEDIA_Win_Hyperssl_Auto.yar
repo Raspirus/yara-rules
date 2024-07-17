@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hyperssl_Auto : FILE
 {
 	meta:

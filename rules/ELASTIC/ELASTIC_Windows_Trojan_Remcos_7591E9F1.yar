@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Remcos_7591E9F1 : FILE MEMORY
 {
 	meta:

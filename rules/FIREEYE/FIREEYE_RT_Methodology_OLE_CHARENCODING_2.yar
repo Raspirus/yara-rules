@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Methodology_OLE_CHARENCODING_2 : FILE
 {
 	meta:

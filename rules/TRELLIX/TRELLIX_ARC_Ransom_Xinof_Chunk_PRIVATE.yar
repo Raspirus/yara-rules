@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Ransom_Xinof_Chunk_PRIVATE : RANSOMWARE
 {
 	meta:

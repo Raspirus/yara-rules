@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Rb_Rokrat_Loader : INKYSQUID
 {
 	meta:

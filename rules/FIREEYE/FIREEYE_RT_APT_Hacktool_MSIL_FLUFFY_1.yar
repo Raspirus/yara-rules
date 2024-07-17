@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Hacktool_MSIL_FLUFFY_1 : FILE
 {
 	meta:

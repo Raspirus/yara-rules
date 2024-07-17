@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Exilerat_Feb19_1 : FILE
 {
 	meta:

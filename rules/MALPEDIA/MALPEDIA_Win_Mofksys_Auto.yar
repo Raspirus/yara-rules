@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mofksys_Auto : FILE
 {
 	meta:

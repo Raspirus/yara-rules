@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Wiper_Caddywiper_484Bd98A : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Caesarkbd_32Bb198B : FILE
 {
 	meta:

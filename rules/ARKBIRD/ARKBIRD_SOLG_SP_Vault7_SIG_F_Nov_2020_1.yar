@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_SP_Vault7_SIG_F_Nov_2020_1 : FILE
 {
 	meta:

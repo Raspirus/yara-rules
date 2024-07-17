@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Win_Powerstar_Decrypt_Function : CHARMINGKITTEN
 {
 	meta:

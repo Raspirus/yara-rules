@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Evilbunny_Auto : FILE
 {
 	meta:

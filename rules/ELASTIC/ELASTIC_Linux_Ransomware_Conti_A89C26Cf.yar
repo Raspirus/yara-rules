@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Conti_A89C26Cf : FILE MEMORY
 {
 	meta:

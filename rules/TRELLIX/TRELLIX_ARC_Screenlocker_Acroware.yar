@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Screenlocker_Acroware : RANSOMWARE FILE
 {
 	meta:

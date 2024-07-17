@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nemim_Auto : FILE
 {
 	meta:

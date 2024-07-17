@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Polyvice_Auto : FILE
 {
 	meta:

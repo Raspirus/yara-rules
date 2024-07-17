@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Metastealer_Auto : FILE
 {
 	meta:

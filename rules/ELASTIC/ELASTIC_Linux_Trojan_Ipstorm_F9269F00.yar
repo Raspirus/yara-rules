@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Ipstorm_F9269F00 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Oddjob_Auto : FILE
 {
 	meta:

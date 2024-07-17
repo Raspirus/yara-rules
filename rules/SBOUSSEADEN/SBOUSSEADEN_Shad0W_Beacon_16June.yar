@@ -1,3 +1,4 @@
+
 rule SBOUSSEADEN_Shad0W_Beacon_16June : FILE
 {
 	meta:

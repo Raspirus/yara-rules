@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Maze_20Caee5B : BETA FILE MEMORY
 {
 	meta:

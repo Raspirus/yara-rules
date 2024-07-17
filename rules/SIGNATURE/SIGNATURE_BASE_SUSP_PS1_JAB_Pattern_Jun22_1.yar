@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_PS1_JAB_Pattern_Jun22_1 : FILE
 {
 	meta:

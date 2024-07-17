@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Two_Byte_XOR_PE_And_MZ : FILE
 {
 	meta:

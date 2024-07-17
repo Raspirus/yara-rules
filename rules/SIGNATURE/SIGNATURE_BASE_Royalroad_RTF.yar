@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Royalroad_RTF : FILE
 {
 	meta:

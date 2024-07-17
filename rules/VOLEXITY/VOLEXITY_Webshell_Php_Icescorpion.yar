@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Webshell_Php_Icescorpion : COMMODITY WEBSHELL FILE
 {
 	meta:

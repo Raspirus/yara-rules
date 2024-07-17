@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Win_Gimmick_Dotnet_Base : STORMCLOUD
 {
 	meta:

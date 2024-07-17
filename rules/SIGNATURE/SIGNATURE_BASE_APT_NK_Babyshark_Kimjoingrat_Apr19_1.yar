@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_NK_Babyshark_Kimjoingrat_Apr19_1 : FILE
 {
 	meta:

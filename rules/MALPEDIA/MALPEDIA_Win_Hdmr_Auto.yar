@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hdmr_Auto : FILE
 {
 	meta:

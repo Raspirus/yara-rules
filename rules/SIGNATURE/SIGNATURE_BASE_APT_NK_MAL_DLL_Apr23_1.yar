@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_NK_MAL_DLL_Apr23_1 : FILE
 {
 	meta:

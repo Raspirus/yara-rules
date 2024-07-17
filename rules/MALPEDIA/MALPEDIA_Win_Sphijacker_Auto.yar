@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sphijacker_Auto : FILE
 {
 	meta:

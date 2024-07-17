@@ -1,3 +1,4 @@
+
 rule NCSC_Nautilus_Rc4_Key : FILE
 {
 	meta:

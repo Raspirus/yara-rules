@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Badrabbit_Mimikatz_Comp : FILE
 {
 	meta:

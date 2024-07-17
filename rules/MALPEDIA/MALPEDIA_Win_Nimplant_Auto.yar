@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nimplant_Auto : FILE
 {
 	meta:

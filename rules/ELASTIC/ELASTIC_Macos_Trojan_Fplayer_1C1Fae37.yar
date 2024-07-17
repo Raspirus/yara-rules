@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Fplayer_1C1Fae37 : FILE MEMORY
 {
 	meta:

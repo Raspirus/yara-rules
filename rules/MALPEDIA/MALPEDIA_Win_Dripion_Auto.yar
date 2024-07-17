@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dripion_Auto : FILE
 {
 	meta:

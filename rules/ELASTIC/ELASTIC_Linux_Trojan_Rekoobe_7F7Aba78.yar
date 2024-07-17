@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Rekoobe_7F7Aba78 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Cryptonar_Ransomware : RANSOMWARE FILE
 {
 	meta:

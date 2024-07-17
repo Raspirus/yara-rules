@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tandfuy_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_UNC5221_Ivanti_Forensicartifacts_Jan24_1 : FILE
 {
 	meta:

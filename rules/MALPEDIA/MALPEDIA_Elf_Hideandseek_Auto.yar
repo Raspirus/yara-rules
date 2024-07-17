@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Elf_Hideandseek_Auto : FILE
 {
 	meta:

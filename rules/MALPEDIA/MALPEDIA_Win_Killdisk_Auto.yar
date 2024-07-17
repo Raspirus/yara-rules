@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Killdisk_Auto : FILE
 {
 	meta:

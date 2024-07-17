@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Xtier_F4760D4A : FILE
 {
 	meta:

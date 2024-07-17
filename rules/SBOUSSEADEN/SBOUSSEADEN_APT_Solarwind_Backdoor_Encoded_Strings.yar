@@ -1,3 +1,4 @@
+
 rule SBOUSSEADEN_APT_Solarwind_Backdoor_Encoded_Strings : FILE
 {
 	meta:

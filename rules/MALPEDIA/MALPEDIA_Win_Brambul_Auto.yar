@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Brambul_Auto : FILE
 {
 	meta:

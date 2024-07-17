@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Olympicdestroyer_Gen2 : FILE
 {
 	meta:

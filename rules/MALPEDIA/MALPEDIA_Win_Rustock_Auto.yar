@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rustock_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_ELF_Reverseshell_Sslshell_Jun23_1 : CVE_2023_2868 FILE
 {
 	meta:

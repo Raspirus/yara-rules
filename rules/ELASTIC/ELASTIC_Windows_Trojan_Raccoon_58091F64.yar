@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Raccoon_58091F64 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Htbot_Auto : FILE
 {
 	meta:

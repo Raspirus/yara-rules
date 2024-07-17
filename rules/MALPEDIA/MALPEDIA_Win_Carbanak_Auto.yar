@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Carbanak_Auto : FILE
 {
 	meta:

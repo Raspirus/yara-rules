@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Glupteba_4669Dcd6 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule EMBEERESEARCH_Win_Gracewire_Loader_Dec_2022 : FILE
 {
 	meta:

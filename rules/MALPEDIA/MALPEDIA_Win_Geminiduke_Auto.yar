@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Geminiduke_Auto : FILE
 {
 	meta:

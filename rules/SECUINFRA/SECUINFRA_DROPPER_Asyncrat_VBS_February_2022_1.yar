@@ -1,3 +1,4 @@
+
 rule SECUINFRA_DROPPER_Asyncrat_VBS_February_2022_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule COD3NYM_SUSP_Direct_Syscall_Shellcode_Invocation_Jan24 : FILE
 {
 	meta:

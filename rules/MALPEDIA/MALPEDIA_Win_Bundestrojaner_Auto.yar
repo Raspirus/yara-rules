@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bundestrojaner_Auto : FILE
 {
 	meta:

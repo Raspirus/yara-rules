@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Taidoor_Auto : FILE
 {
 	meta:

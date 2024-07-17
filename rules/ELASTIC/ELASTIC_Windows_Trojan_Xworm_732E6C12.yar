@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Xworm_732E6C12 : FILE MEMORY
 {
 	meta:

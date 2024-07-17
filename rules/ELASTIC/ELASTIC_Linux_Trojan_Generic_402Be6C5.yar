@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Generic_402Be6C5 : FILE MEMORY
 {
 	meta:

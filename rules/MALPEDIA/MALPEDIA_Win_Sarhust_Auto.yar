@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sarhust_Auto : FILE
 {
 	meta:

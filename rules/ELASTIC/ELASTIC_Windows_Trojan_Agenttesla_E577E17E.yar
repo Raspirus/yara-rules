@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Agenttesla_E577E17E : FILE MEMORY
 {
 	meta:

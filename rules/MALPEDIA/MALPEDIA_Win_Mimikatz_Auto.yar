@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mimikatz_Auto : FILE
 {
 	meta:

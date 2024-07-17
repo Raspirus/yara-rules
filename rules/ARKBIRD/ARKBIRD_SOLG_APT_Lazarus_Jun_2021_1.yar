@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_APT_Lazarus_Jun_2021_1 : FILE
 {
 	meta:

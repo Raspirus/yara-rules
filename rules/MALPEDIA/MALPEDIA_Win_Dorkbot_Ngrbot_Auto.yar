@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dorkbot_Ngrbot_Auto : FILE
 {
 	meta:

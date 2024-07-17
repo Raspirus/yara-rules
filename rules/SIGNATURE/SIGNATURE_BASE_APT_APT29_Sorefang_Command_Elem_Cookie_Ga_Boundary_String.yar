@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_APT29_Sorefang_Command_Elem_Cookie_Ga_Boundary_String : FILE
 {
 	meta:

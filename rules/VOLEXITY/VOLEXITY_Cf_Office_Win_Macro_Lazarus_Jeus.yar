@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Cf_Office_Win_Macro_Lazarus_Jeus : LAZARUS
 {
 	meta:

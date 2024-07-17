@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Webshell_Aspx_Regeorg : FILE MEMORY
 {
 	meta:

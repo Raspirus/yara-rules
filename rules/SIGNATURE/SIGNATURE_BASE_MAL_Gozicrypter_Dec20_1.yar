@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Gozicrypter_Dec20_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Yayih_Auto : FILE
 {
 	meta:

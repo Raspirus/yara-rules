@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_LOG_EXPL_Sharepoint_CVE_2023_29357_Sep23_1 : CVE_2023_29357
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Xored_Mozilla : FILE
 {
 	meta:

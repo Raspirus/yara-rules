@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Listrix_Auto : FILE
 {
 	meta:

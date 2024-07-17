@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Karius_Auto : FILE
 {
 	meta:

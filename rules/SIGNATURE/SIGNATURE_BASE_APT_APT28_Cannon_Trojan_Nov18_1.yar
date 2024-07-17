@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_APT28_Cannon_Trojan_Nov18_1 : FILE
 {
 	meta:

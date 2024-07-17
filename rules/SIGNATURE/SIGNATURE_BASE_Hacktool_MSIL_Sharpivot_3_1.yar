@@ -1,3 +1,15 @@
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_Hacktool_MSIL_Sharpivot_3_1 : FILE
 {
 	meta:

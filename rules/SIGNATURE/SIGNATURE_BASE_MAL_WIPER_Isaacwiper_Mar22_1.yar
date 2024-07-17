@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_WIPER_Isaacwiper_Mar22_1 : FILE
 {
 	meta:

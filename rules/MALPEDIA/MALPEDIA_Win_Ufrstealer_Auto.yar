@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ufrstealer_Auto : FILE
 {
 	meta:

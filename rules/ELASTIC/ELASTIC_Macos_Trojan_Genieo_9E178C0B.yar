@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Genieo_9E178C0B : FILE MEMORY
 {
 	meta:

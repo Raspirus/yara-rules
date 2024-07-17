@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Floki_Bot_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Wipbot_Auto : FILE
 {
 	meta:

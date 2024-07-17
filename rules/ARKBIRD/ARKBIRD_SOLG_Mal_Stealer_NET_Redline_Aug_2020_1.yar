@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_Mal_Stealer_NET_Redline_Aug_2020_1 : FILE
 {
 	meta:

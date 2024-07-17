@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Email_Suspicious_Onenote_Attachment_Jan23_2 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_NET_Msil_Suspicious_Use_Strreverse : FILE
 {
 	meta:

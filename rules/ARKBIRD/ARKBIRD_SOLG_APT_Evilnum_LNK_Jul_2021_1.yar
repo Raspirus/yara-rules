@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_APT_Evilnum_LNK_Jul_2021_1 : FILE
 {
 	meta:

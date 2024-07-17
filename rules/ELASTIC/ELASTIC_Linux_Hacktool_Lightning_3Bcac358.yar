@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Hacktool_Lightning_3Bcac358 : FILE MEMORY
 {
 	meta:

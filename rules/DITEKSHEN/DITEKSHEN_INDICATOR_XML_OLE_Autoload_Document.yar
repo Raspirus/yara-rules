@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_XML_OLE_Autoload_Document : FILE
 {
 	meta:

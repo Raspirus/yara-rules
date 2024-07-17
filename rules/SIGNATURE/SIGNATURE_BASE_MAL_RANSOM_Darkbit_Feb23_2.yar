@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_RANSOM_Darkbit_Feb23_2 : FILE
 {
 	meta:

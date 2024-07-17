@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Prilex_Auto : FILE
 {
 	meta:

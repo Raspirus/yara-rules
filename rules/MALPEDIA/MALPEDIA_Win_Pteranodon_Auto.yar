@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pteranodon_Auto : FILE
 {
 	meta:

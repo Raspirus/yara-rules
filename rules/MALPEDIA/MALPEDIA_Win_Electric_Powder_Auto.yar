@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Electric_Powder_Auto : FILE
 {
 	meta:

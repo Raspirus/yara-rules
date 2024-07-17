@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gcman_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lightwork_Auto : FILE
 {
 	meta:

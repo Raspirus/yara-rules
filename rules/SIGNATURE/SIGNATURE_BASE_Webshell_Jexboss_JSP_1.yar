@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Webshell_Jexboss_JSP_1 : FILE
 {
 	meta:

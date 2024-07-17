@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule DITEKSHEN_INDICATOR_TOOL_PET_Mulit_Venomagent : FILE
 {
 	meta:

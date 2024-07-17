@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Common_Magic_Auto : FILE
 {
 	meta:

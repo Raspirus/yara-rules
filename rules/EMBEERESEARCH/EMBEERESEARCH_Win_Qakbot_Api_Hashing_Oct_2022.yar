@@ -1,3 +1,4 @@
+
 rule EMBEERESEARCH_Win_Qakbot_Api_Hashing_Oct_2022 : FILE
 {
 	meta:

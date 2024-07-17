@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Anchor_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Leigod_3F5C98C4 : FILE
 {
 	meta:

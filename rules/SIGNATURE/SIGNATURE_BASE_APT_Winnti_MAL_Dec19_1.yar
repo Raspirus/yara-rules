@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Winnti_MAL_Dec19_1 : FILE
 {
 	meta:

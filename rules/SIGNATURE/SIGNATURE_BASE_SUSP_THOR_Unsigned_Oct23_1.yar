@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_THOR_Unsigned_Oct23_1 : FILE
 {
 	meta:

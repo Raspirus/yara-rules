@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_PUP_Generic_198B73Aa : FILE MEMORY
 {
 	meta:

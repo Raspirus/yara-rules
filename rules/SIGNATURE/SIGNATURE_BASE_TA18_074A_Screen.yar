@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_TA18_074A_Screen : FILE
 {
 	meta:

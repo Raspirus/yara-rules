@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_KB_ID_UNK01 : FILE
 {
 	meta:

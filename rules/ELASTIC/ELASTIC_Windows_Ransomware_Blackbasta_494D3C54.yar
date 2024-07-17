@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Blackbasta_494D3C54 : FILE MEMORY
 {
 	meta:

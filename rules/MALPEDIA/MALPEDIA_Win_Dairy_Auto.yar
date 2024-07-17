@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dairy_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Trojan_Raw_Generic_4 : FILE
 {
 	meta:

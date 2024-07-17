@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_ROKRAT_Dropper_Nov17 : FILE
 {
 	meta:

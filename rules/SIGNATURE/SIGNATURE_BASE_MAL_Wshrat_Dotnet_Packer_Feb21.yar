@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Wshrat_Dotnet_Packer_Feb21 : FILE
 {
 	meta:

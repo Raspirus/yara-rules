@@ -1,3 +1,4 @@
+
 rule ELASTIC_Multi_Hacktool_Nps_F76F257D : FILE MEMORY
 {
 	meta:

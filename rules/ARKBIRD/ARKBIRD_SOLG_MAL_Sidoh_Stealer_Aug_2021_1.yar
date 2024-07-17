@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_MAL_Sidoh_Stealer_Aug_2021_1 : FILE
 {
 	meta:

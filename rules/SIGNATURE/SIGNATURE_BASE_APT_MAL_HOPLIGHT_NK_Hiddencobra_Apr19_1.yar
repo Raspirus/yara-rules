@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_MAL_HOPLIGHT_NK_Hiddencobra_Apr19_1 : FILE
 {
 	meta:

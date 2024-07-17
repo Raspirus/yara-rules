@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Polpo_Auto : FILE
 {
 	meta:

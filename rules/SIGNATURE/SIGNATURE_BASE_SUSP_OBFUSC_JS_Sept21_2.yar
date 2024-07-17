@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_OBFUSC_JS_Sept21_2 : FILE
 {
 	meta:

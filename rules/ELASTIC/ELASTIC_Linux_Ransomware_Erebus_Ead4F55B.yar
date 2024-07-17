@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Erebus_Ead4F55B : FILE MEMORY
 {
 	meta:

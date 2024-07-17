@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Grief_9953339A : FILE MEMORY
 {
 	meta:

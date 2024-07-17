@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cmstar_Auto : FILE
 {
 	meta:

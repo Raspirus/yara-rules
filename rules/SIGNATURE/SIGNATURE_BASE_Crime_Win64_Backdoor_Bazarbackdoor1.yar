@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Crime_Win64_Backdoor_Bazarbackdoor1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Juicy_Potato_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_MALW_Cobaltrike : BACKDOOR FILE
 {
 	meta:

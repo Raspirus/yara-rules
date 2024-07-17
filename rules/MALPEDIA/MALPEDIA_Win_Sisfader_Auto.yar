@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sisfader_Auto : FILE
 {
 	meta:

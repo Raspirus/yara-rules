@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Latrodectus_841Ff697 : FILE MEMORY
 {
 	meta:

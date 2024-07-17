@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Doubleback_Auto : FILE
 {
 	meta:

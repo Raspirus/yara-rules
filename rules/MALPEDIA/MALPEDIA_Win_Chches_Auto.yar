@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Chches_Auto : FILE
 {
 	meta:

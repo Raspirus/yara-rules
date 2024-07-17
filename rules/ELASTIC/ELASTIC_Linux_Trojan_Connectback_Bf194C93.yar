@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Connectback_Bf194C93 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule DR4K0NIA_MAL_MSIL_NET_Typhonlogger_Jul23 : FILE
 {
 	meta:

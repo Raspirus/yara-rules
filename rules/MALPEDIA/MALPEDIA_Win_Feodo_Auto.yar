@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Feodo_Auto : FILE
 {
 	meta:

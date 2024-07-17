@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Cobaltstrike_8Ee55Ee5 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Netfilter_Dropper_Jun_2021_1_1 : FILE
 {
 	meta:

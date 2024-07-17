@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Informational_Win_3Cx_Msi : UTA0040
 {
 	meta:

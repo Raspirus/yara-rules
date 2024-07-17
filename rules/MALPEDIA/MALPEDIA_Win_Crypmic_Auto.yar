@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Crypmic_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Blackbasta_96Eb3F20 : FILE MEMORY
 {
 	meta:

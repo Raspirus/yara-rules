@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Shimrat_Auto : FILE
 {
 	meta:

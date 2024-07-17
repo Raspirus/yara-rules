@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Blackmagic_Auto : FILE
 {
 	meta:

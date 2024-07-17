@@ -1,3 +1,6 @@
+import "dotnet"
+
+
 rule EMBEERESEARCH_Win_Quasar_Rat_Client : FILE
 {
 	meta:

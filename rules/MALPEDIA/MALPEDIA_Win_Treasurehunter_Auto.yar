@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Treasurehunter_Auto : FILE
 {
 	meta:

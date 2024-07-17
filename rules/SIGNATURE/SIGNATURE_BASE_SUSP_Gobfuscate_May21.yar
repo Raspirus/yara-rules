@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Gobfuscate_May21 : FILE
 {
 	meta:

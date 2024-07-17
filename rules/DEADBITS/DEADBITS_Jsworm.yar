@@ -1,3 +1,4 @@
+
 rule DEADBITS_Jsworm : MALWARE FILE
 {
 	meta:

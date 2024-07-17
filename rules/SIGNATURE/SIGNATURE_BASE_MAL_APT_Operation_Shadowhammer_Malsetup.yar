@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_APT_Operation_Shadowhammer_Malsetup : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Win32Dll_String : FILE
 {
 	meta:

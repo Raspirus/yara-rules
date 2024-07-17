@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gacrux_Auto : FILE
 {
 	meta:

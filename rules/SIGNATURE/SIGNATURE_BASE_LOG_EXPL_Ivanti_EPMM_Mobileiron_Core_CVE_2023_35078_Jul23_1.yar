@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_LOG_EXPL_Ivanti_EPMM_Mobileiron_Core_CVE_2023_35078_Jul23_1 : CVE_2023_35078
 {
 	meta:

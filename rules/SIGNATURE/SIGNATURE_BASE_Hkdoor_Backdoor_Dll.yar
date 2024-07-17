@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Hkdoor_Backdoor_Dll : FILE
 {
 	meta:

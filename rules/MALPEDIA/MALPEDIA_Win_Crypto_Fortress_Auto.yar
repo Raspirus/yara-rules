@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Crypto_Fortress_Auto : FILE
 {
 	meta:

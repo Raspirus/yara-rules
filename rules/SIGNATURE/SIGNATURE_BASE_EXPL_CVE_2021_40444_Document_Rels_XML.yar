@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_CVE_2021_40444_Document_Rels_XML : CVE_2021_40444 FILE
 {
 	meta:

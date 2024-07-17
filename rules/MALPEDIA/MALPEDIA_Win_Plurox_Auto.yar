@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Plurox_Auto : FILE
 {
 	meta:

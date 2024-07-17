@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Iox_98Cd1Cd8 : FILE MEMORY
 {
 	meta:

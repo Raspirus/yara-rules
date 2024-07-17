@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Snakekeylogger_Af3Faa65 : FILE MEMORY
 {
 	meta:

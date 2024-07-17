@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Pornoasset_927F314F : FILE MEMORY
 {
 	meta:

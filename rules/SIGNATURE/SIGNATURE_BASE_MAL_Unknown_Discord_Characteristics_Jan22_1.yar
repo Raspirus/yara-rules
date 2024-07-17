@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Unknown_Discord_Characteristics_Jan22_1 : FILE
 {
 	meta:

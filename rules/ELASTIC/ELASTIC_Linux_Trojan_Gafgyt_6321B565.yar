@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Gafgyt_6321B565 : FILE MEMORY
 {
 	meta:

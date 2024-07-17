@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Darkhydrus_Jul18_3 : FILE
 {
 	meta:

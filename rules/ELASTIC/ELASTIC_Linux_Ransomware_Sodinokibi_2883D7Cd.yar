@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Sodinokibi_2883D7Cd : FILE MEMORY
 {
 	meta:

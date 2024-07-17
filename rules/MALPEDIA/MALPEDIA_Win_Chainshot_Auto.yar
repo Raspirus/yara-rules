@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Chainshot_Auto : FILE
 {
 	meta:

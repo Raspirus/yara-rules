@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_APT_APT34_Dustman_Apr_2021_1 : FILE
 {
 	meta:

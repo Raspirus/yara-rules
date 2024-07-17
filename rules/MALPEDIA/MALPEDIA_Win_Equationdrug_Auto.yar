@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Equationdrug_Auto : FILE
 {
 	meta:

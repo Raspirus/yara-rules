@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule RUSSIANPANDA_Ducktail_Mainbot : FILE
 {
 	meta:

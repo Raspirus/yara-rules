@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Nanocore_RAT_Feb18_2 : FILE
 {
 	meta:

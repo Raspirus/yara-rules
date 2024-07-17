@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_OLE_Excel4Macros_DL3 : FILE
 {
 	meta:

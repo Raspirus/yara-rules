@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Lockfile_74185716 : FILE MEMORY
 {
 	meta:

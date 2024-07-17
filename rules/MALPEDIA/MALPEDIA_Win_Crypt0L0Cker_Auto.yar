@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Crypt0L0Cker_Auto : FILE
 {
 	meta:

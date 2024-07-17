@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Seasalt_Auto : FILE
 {
 	meta:

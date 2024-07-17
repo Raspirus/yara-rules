@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Limpdemon_95C748E0 : FILE MEMORY
 {
 	meta:

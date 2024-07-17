@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Hacktool_Py_Pysoxy : FILE MEMORY
 {
 	meta:

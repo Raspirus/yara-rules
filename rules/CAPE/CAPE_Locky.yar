@@ -1,3 +1,4 @@
+
 rule CAPE_Locky : FILE
 {
 	meta:

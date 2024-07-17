@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Eagerbee_7029Ba21 : FILE MEMORY
 {
 	meta:

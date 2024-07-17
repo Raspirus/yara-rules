@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Safenet_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Thiefquest_1F4Bac78 : FILE MEMORY
 {
 	meta:

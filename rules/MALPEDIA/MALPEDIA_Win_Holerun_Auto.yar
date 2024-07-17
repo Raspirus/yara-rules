@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Holerun_Auto : FILE
 {
 	meta:

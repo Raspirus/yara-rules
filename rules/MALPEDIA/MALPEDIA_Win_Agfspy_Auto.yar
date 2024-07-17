@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Agfspy_Auto : FILE
 {
 	meta:

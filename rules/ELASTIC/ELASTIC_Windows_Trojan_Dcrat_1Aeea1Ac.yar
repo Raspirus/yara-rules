@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Dcrat_1Aeea1Ac : FILE MEMORY
 {
 	meta:

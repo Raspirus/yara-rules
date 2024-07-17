@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Typehash_Auto : FILE
 {
 	meta:

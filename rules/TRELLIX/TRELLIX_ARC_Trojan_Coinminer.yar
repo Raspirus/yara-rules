@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule TRELLIX_ARC_Trojan_Coinminer : FILE
 {
 	meta:

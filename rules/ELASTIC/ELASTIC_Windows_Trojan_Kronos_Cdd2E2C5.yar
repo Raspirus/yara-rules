@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Kronos_Cdd2E2C5 : FILE MEMORY
 {
 	meta:

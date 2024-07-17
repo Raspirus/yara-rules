@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Catb_Auto : FILE
 {
 	meta:

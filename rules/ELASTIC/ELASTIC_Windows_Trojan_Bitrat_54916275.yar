@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Bitrat_54916275 : FILE MEMORY
 {
 	meta:

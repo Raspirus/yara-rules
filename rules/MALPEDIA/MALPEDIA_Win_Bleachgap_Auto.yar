@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bleachgap_Auto : FILE
 {
 	meta:

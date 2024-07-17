@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Guloader_8F10Fa66 : FILE MEMORY
 {
 	meta:

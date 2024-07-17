@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Wiper_Isaacwiper_239Cd2Dc : FILE MEMORY
 {
 	meta:

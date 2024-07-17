@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Webshell_Generic_41A5Fa40 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Arpot_09C714C5 : FILE
 {
 	meta:

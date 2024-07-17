@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Virus_Thebe_1Eb5985A : FILE MEMORY
 {
 	meta:

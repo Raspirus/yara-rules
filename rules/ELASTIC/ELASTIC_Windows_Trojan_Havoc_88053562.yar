@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Havoc_88053562 : FILE MEMORY
 {
 	meta:

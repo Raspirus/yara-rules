@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_MAL_VEILEDSIGNAL_Backdoor_Apr23 : FILE
 {
 	meta:

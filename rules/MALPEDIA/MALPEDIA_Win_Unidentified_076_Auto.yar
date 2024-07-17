@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Unidentified_076_Auto : FILE
 {
 	meta:

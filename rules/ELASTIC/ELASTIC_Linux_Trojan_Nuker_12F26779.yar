@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Nuker_12F26779 : FILE MEMORY
 {
 	meta:

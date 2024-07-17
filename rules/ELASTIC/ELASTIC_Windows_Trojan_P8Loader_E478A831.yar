@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_P8Loader_E478A831 : FILE MEMORY
 {
 	meta:

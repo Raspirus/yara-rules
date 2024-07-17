@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Banload_D5E1C189 : FILE MEMORY
 {
 	meta:

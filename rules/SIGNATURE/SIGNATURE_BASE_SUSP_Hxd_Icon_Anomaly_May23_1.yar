@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_Hxd_Icon_Anomaly_May23_1 : FILE
 {
 	meta:

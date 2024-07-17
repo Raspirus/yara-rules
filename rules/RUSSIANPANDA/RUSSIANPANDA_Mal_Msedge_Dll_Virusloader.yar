@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Mal_Msedge_Dll_Virusloader : FILE
 {
 	meta:

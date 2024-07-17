@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Physmem_B3Fa382B : FILE
 {
 	meta:

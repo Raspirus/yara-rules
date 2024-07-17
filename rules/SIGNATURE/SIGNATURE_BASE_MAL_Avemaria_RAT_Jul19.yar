@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Avemaria_RAT_Jul19 : FILE
 {
 	meta:

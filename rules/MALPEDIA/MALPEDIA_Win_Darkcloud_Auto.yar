@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Darkcloud_Auto : FILE
 {
 	meta:

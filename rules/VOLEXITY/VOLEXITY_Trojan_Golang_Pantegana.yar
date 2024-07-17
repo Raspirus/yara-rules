@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Trojan_Golang_Pantegana : COMMODITY
 {
 	meta:

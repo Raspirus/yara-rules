@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Blackenergy_Auto : FILE
 {
 	meta:

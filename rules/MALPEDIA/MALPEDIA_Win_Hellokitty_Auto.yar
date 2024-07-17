@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hellokitty_Auto : FILE
 {
 	meta:

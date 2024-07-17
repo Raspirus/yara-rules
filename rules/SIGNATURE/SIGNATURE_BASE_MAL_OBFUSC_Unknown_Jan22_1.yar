@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_OBFUSC_Unknown_Jan22_1 : FILE
 {
 	meta:

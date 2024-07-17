@@ -1,3 +1,6 @@
+import "dotnet"
+
+
 rule DR4K0NIA_Msil_Susp_Obf_Xorstringsnet : FILE
 {
 	meta:

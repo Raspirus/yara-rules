@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Cuba_95A98E69 : FILE MEMORY
 {
 	meta:

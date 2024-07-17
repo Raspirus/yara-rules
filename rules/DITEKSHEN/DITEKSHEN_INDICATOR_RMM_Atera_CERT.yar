@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule DITEKSHEN_INDICATOR_RMM_Atera_CERT : FILE
 {
 	meta:

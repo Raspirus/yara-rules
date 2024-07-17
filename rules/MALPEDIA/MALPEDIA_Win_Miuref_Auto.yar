@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Miuref_Auto : FILE
 {
 	meta:

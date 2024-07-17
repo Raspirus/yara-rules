@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Emotet_BKA_Cleanup_Apr21 : FILE
 {
 	meta:

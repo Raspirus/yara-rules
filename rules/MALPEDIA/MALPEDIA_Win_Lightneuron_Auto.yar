@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lightneuron_Auto : FILE
 {
 	meta:

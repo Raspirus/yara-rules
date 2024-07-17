@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Crimsonrat_Mar18_1 : FILE
 {
 	meta:

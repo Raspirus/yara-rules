@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Darkvnc_Bd803C2E : FILE MEMORY
 {
 	meta:

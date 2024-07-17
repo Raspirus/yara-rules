@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Pipedance_01C18057 : FILE MEMORY
 {
 	meta:

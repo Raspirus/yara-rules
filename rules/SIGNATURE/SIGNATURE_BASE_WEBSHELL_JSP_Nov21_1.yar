@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_WEBSHELL_JSP_Nov21_1 : FILE
 {
 	meta:

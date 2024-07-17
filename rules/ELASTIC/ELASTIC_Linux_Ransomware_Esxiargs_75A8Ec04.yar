@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Esxiargs_75A8Ec04 : FILE MEMORY
 {
 	meta:

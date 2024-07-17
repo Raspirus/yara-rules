@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_Exchange_Proxyshell_Successful_Aug21_1 : SCRIPT
 {
 	meta:

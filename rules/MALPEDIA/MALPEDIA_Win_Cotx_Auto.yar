@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cotx_Auto : FILE
 {
 	meta:

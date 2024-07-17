@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SECUINFRA_SUSP_DOTNET_PE_List_AV : DOTNET AV FILE
 {
 	meta:

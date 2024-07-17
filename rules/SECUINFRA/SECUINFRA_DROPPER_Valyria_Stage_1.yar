@@ -1,3 +1,4 @@
+
 rule SECUINFRA_DROPPER_Valyria_Stage_1 : JAVASCRIPT VBS VALYRIA FILE
 {
 	meta:

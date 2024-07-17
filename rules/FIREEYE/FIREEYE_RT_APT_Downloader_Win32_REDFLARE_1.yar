@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Downloader_Win32_REDFLARE_1 : FILE
 {
 	meta:

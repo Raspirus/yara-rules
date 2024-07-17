@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Socks5_Systemz_Auto : FILE
 {
 	meta:

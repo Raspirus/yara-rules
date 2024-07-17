@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Atmosphere_Auto : FILE
 {
 	meta:

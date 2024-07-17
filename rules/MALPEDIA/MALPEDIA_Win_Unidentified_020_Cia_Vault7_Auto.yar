@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Unidentified_020_Cia_Vault7_Auto : FILE
 {
 	meta:

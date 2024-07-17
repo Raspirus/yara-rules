@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_ASP_DLL_HAFNIUM_Mar21_1 : FILE
 {
 	meta:

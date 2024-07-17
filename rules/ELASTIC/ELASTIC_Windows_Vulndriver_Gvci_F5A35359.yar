@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Gvci_F5A35359 : FILE
 {
 	meta:

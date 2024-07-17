@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Fabookie_024F8759 : FILE MEMORY
 {
 	meta:

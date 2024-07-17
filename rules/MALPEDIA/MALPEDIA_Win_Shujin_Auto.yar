@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Shujin_Auto : FILE
 {
 	meta:

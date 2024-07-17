@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Scieron_Auto : FILE
 {
 	meta:

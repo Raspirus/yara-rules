@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Glooxmail_Auto : FILE
 {
 	meta:

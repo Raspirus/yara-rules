@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Oldbait_Auto : FILE
 {
 	meta:

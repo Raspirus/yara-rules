@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Microsoft_RAR_SFX_Combo : FILE
 {
 	meta:

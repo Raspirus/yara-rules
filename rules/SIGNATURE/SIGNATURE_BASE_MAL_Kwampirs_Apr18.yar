@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Kwampirs_Apr18 : KWAMPIRS
 {
 	meta:

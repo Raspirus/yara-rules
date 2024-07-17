@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Ngioweb_D8573802 : FILE MEMORY
 {
 	meta:

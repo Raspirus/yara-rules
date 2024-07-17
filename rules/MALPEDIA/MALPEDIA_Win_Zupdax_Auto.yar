@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Zupdax_Auto : FILE
 {
 	meta:

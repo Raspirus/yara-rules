@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Vigilant_Cleaner_Auto : FILE
 {
 	meta:

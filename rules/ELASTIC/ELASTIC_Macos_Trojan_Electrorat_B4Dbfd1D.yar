@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Electrorat_B4Dbfd1D : FILE MEMORY
 {
 	meta:

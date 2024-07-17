@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_LNX_Camarodragon_Horseshell_Oct23 : FILE
 {
 	meta:

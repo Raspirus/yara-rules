@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_TA17_293A_Hacktool_Touch_MAC_Modification : FILE
 {
 	meta:

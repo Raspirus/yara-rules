@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_HKTL_NET_NAME_Gray_Hat_Csharp_Code : FILE
 {
 	meta:

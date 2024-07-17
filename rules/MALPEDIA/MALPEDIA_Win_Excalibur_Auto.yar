@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Excalibur_Auto : FILE
 {
 	meta:

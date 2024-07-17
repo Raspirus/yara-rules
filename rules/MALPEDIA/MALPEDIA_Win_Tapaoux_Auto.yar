@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tapaoux_Auto : FILE
 {
 	meta:

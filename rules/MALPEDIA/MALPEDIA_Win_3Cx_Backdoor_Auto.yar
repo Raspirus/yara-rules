@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_3Cx_Backdoor_Auto : FILE
 {
 	meta:

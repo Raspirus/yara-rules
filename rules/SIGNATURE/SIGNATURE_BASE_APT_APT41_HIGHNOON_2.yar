@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_APT41_HIGHNOON_2 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Enablecontent_String_Gen : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Koobface_Auto : FILE
 {
 	meta:

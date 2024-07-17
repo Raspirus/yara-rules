@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ncctrojan_Auto : FILE
 {
 	meta:

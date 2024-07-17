@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Doublepulsar_Auto : FILE
 {
 	meta:

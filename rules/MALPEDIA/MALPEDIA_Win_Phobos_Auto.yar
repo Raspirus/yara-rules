@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Phobos_Auto : FILE
 {
 	meta:

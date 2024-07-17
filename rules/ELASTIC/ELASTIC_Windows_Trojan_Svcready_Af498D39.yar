@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Svcready_Af498D39 : FILE MEMORY
 {
 	meta:

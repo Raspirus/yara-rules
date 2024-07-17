@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Karagany_Auto : FILE
 {
 	meta:

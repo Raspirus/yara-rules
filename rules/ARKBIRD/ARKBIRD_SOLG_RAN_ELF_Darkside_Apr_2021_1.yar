@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_RAN_ELF_Darkside_Apr_2021_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Sythe_02B2811A : FILE MEMORY
 {
 	meta:

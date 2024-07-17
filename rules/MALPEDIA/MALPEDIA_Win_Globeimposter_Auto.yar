@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Globeimposter_Auto : FILE
 {
 	meta:

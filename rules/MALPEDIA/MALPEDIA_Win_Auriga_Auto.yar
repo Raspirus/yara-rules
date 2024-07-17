@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Auriga_Auto : FILE
 {
 	meta:

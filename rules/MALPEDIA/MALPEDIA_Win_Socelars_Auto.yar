@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Socelars_Auto : FILE
 {
 	meta:

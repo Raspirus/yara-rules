@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Acidbox_Auto : FILE
 {
 	meta:

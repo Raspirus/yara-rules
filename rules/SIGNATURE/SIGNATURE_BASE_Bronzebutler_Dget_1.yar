@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Bronzebutler_Dget_1 : FILE
 {
 	meta:

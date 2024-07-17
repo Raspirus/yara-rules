@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Crime_Win32_Rat_Parallax_Shell_Bin : FILE
 {
 	meta:

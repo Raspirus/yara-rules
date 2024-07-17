@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Wiper_Hermeticwiper_7206A969 : FILE MEMORY
 {
 	meta:

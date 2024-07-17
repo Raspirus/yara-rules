@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Alice_Atm_Auto : FILE
 {
 	meta:

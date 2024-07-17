@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_8Base_Auto : FILE
 {
 	meta:

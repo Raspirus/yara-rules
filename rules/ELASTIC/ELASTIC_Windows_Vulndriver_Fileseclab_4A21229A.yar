@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Fileseclab_4A21229A : FILE
 {
 	meta:

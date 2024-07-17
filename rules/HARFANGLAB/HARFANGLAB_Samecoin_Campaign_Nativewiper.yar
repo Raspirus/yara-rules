@@ -1,3 +1,4 @@
+
 rule HARFANGLAB_Samecoin_Campaign_Nativewiper : FILE
 {
 	meta:

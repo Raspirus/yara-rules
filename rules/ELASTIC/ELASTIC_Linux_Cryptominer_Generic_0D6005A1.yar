@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Generic_0D6005A1 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_Ran_Ranzy_Locker_Nov_2020_1 : FILE
 {
 	meta:

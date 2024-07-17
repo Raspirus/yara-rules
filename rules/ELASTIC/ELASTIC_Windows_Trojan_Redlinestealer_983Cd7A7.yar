@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Redlinestealer_983Cd7A7 : FILE MEMORY
 {
 	meta:

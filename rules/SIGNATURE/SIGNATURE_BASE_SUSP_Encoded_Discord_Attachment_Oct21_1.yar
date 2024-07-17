@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Encoded_Discord_Attachment_Oct21_1 : FILE
 {
 	meta:

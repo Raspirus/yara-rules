@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule ARKBIRD_SOLG_APT_Sidewinder_NET_Loader_Aug_2020_1 : FILE
 {
 	meta:

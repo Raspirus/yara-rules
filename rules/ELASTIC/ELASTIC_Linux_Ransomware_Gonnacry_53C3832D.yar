@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Gonnacry_53C3832D : FILE MEMORY
 {
 	meta:

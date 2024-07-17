@@ -1,3 +1,4 @@
+
 rule ELASTIC_Multi_Generic_Threat_19854Dc2 : FILE MEMORY
 {
 	meta:

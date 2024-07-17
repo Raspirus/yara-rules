@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Prometei_Auto : FILE
 {
 	meta:

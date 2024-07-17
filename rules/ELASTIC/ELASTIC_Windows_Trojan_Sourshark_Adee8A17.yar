@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Sourshark_Adee8A17 : FILE MEMORY
 {
 	meta:

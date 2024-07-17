@@ -1,3 +1,4 @@
+
 rule NCSC_Neuron2_Loader_Strings : FILE
 {
 	meta:

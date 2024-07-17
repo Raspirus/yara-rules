@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Bronzebutler_Rarstar_1 : FILE
 {
 	meta:

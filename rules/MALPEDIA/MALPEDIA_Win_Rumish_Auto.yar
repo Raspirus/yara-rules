@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rumish_Auto : FILE
 {
 	meta:

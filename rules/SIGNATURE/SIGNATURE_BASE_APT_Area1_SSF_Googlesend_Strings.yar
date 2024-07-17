@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Area1_SSF_Googlesend_Strings : FILE
 {
 	meta:

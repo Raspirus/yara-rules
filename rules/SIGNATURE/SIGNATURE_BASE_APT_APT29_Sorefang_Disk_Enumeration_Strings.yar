@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_APT29_Sorefang_Disk_Enumeration_Strings : FILE
 {
 	meta:

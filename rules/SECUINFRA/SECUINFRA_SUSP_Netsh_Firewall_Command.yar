@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SECUINFRA_SUSP_Netsh_Firewall_Command : PE FILE
 {
 	meta:

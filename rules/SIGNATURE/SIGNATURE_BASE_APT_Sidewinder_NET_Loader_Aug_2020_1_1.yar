@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Sidewinder_NET_Loader_Aug_2020_1_1 : FILE
 {
 	meta:

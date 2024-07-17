@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Sandworm_Cyclopsblink_Modified_Install_Upgrade : FILE
 {
 	meta:

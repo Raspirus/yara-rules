@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Getshell_213D4D69 : FILE MEMORY
 {
 	meta:

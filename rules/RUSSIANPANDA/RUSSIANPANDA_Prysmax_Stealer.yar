@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Prysmax_Stealer : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule COD3NYM_Confuserex_Naming_Pattern : SUSPICIOUS OBFUSCATION FILE
 {
 	meta:

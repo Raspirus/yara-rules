@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Ghostengine_8Ea2Aa65 : FILE MEMORY
 {
 	meta:

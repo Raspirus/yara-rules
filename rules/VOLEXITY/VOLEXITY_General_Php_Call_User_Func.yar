@@ -1,3 +1,4 @@
+
 rule VOLEXITY_General_Php_Call_User_Func : GENERAL WEBSHELLS
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Winpeas_Ng_861D3264 : FILE MEMORY
 {
 	meta:

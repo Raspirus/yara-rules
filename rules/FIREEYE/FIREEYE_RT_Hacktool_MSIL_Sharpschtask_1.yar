@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Hacktool_MSIL_Sharpschtask_1 : FILE
 {
 	meta:

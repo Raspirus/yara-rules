@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Protonbot_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Solarbot_Auto : FILE
 {
 	meta:

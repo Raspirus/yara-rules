@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bravonc_Auto : FILE
 {
 	meta:

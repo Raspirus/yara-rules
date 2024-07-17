@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_APT29_Sorefang_Remove_Chars_Comma_Space_Dot : FILE
 {
 	meta:

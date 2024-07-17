@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cerbu_Miner_Auto : FILE
 {
 	meta:

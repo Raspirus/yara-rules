@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_Macos_Switcharoo_Indicator_Dec22 : CVE_2022_46689 FILE
 {
 	meta:

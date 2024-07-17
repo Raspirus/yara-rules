@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Zloader_4Fe0F7F1 : FILE MEMORY
 {
 	meta:

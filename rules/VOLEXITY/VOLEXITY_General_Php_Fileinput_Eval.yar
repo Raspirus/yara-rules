@@ -1,3 +1,4 @@
+
 rule VOLEXITY_General_Php_Fileinput_Eval : WEBSHELLS GENERAL
 {
 	meta:

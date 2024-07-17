@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Macos_Gimmick : STORMCLOUD
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Truecrypt_Crypter : FILE
 {
 	meta:

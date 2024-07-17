@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_CN_Disclosed_20180208_Lsls : FILE
 {
 	meta:

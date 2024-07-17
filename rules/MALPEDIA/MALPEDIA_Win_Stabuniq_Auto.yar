@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Stabuniq_Auto : FILE
 {
 	meta:

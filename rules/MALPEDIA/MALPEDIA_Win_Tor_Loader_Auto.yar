@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tor_Loader_Auto : FILE
 {
 	meta:

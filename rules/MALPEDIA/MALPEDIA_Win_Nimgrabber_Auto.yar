@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nimgrabber_Auto : FILE
 {
 	meta:

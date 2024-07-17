@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Stowaway_Auto : FILE
 {
 	meta:

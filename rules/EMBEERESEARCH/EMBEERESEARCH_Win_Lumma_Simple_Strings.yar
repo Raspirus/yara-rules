@@ -1,3 +1,6 @@
+import "dotnet"
+
+
 rule EMBEERESEARCH_Win_Lumma_Simple_Strings : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_UA_Hermetic_Wiper_Feb22_1 : FILE
 {
 	meta:

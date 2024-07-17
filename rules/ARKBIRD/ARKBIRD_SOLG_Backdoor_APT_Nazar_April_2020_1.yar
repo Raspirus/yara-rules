@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule ARKBIRD_SOLG_Backdoor_APT_Nazar_April_2020_1 : FILE
 {
 	meta:

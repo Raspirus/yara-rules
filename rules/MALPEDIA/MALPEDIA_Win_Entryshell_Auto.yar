@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Entryshell_Auto : FILE
 {
 	meta:

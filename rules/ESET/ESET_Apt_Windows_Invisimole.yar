@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule ESET_Apt_Windows_Invisimole : FILE
 {
 	meta:

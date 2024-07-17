@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Fusiondrive_Auto : FILE
 {
 	meta:

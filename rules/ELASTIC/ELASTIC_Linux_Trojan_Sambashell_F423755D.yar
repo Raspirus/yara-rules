@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Sambashell_F423755D : FILE MEMORY
 {
 	meta:

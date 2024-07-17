@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Arefty_Auto : FILE
 {
 	meta:

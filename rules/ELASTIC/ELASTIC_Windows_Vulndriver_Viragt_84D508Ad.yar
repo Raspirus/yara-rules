@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Viragt_84D508Ad : FILE
 {
 	meta:

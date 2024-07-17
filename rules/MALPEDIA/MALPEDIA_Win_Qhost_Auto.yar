@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Qhost_Auto : FILE
 {
 	meta:

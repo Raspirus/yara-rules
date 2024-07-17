@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pittytiger_Rat_Auto : FILE
 {
 	meta:

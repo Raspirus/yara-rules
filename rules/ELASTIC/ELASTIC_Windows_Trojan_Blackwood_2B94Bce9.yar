@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Blackwood_2B94Bce9 : FILE MEMORY
 {
 	meta:

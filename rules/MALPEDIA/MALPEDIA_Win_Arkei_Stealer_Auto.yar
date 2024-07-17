@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Arkei_Stealer_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Malxmr_12299814 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ccleaner_Backdoor_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lookback_Auto : FILE
 {
 	meta:

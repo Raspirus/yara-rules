@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Warmcookie_7D32Fa90 : FILE MEMORY
 {
 	meta:

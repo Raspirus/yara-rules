@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Racket_Auto : FILE
 {
 	meta:

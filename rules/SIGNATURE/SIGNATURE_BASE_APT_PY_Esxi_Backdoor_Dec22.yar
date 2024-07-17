@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_PY_Esxi_Backdoor_Dec22 : FILE
 {
 	meta:

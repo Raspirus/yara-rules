@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Sharpshooter_Excel4 : FILE
 {
 	meta:

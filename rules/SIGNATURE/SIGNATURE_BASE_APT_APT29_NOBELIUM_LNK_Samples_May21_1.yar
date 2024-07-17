@@ -1,3 +1,8 @@
+import "pe"
+
+import "math"
+
+
 rule SIGNATURE_BASE_APT_APT29_NOBELIUM_LNK_Samples_May21_1 : FILE
 {
 	meta:

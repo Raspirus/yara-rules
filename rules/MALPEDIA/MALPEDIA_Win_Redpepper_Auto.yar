@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Redpepper_Auto : FILE
 {
 	meta:

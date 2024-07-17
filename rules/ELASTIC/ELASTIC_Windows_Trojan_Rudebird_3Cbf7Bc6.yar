@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Rudebird_3Cbf7Bc6 : FILE MEMORY
 {
 	meta:

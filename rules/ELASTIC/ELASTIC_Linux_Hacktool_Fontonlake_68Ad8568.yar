@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Hacktool_Fontonlake_68Ad8568 : FILE MEMORY
 {
 	meta:

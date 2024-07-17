@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Virus_Staffcounter_D2D608A8 : FILE MEMORY
 {
 	meta:

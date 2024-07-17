@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cinobi_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bangat_Auto : FILE
 {
 	meta:

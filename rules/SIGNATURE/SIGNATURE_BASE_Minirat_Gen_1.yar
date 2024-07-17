@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Minirat_Gen_1 : FILE
 {
 	meta:

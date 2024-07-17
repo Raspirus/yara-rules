@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Loup_Auto : FILE
 {
 	meta:

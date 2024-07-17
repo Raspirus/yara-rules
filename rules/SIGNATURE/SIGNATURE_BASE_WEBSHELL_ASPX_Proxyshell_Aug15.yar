@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_WEBSHELL_ASPX_Proxyshell_Aug15 : FILE
 {
 	meta:

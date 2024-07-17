@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Alpc_Lpe_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Deadwood_Auto : FILE
 {
 	meta:

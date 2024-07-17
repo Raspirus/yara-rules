@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Truncpx_894D60F8 : FILE MEMORY
 {
 	meta:

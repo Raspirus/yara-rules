@@ -1,3 +1,6 @@
+import "dotnet"
+
+
 rule EMBEERESEARCH_Win_Qakbot_String_Decrypt_Nov_2022 : FILE
 {
 	meta:

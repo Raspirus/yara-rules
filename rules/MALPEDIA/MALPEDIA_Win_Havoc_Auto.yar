@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Havoc_Auto : FILE
 {
 	meta:

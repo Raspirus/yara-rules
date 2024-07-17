@@ -1,3 +1,4 @@
+
 rule COD3NYM_Reactor_Indicators : SUSPICIOUS OBFUSCATION FILE
 {
 	meta:

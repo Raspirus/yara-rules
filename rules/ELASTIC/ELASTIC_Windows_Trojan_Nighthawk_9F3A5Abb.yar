@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Nighthawk_9F3A5Abb : FILE MEMORY
 {
 	meta:

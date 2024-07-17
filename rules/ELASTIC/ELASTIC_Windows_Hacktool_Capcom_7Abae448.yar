@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Capcom_7Abae448 : FILE
 {
 	meta:

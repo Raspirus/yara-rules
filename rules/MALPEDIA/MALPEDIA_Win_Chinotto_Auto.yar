@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Chinotto_Auto : FILE
 {
 	meta:

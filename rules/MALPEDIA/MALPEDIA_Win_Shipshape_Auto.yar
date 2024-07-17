@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Shipshape_Auto : FILE
 {
 	meta:

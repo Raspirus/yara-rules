@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Shellcode_Generic_24B9Aa12 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Hacktool_MSIL_Sharphound_3 : FILE
 {
 	meta:

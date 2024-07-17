@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Miancha_646803Ef : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Solarphantom : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bamital_Auto : FILE
 {
 	meta:

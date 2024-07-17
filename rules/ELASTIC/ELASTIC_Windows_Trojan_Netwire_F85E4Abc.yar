@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Netwire_F85E4Abc : FILE MEMORY
 {
 	meta:

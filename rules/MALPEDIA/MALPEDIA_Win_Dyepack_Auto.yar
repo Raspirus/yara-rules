@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dyepack_Auto : FILE
 {
 	meta:

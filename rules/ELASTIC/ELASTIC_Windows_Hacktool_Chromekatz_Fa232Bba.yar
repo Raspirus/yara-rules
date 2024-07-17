@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Chromekatz_Fa232Bba : FILE MEMORY
 {
 	meta:

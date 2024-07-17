@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gozi_Auto : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SBOUSSEADEN_Maliciousdllgenerator : FILE
 {
 	meta:

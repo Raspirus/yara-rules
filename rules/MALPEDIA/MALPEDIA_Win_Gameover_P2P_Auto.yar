@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gameover_P2P_Auto : FILE
 {
 	meta:

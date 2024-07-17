@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Biostar_D6Cc23Af : FILE
 {
 	meta:

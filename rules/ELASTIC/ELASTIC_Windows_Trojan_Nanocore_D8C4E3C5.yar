@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Nanocore_D8C4E3C5 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Naikon_Auto : FILE
 {
 	meta:

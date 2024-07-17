@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SECUINFRA_SUSP_Discord_Attachments_URL : PE DOWNLOAD FILE
 {
 	meta:

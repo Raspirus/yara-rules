@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_TA17_318B_Volgmer : FILE
 {
 	meta:

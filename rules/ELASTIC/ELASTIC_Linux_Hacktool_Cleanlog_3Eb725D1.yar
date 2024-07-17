@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Hacktool_Cleanlog_3Eb725D1 : FILE MEMORY
 {
 	meta:

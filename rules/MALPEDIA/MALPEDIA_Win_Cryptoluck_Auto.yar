@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cryptoluck_Auto : FILE
 {
 	meta:

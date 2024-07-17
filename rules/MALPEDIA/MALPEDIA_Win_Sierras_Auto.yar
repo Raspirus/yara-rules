@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sierras_Auto : FILE
 {
 	meta:

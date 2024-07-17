@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hopscotch_Auto : FILE
 {
 	meta:

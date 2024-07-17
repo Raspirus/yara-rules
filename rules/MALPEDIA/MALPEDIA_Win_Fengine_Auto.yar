@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Fengine_Auto : FILE
 {
 	meta:

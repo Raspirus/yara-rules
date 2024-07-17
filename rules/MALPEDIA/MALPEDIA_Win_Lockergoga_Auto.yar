@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lockergoga_Auto : FILE
 {
 	meta:

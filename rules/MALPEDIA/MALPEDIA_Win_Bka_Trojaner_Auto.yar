@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bka_Trojaner_Auto : FILE
 {
 	meta:

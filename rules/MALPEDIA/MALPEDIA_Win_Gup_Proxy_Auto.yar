@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gup_Proxy_Auto : FILE
 {
 	meta:

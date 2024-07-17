@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Kutaki_Auto : FILE
 {
 	meta:

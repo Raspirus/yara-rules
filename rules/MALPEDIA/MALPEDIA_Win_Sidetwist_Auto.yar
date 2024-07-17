@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sidetwist_Auto : FILE
 {
 	meta:

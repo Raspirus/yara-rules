@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Dcsyncer_425579C5 : FILE MEMORY
 {
 	meta:

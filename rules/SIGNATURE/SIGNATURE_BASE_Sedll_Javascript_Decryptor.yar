@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Sedll_Javascript_Decryptor : FILE
 {
 	meta:

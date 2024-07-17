@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Freemilk_APT_Mal_1 : FILE
 {
 	meta:

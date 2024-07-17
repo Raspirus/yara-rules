@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Microcin_Sample_4 : FILE
 {
 	meta:

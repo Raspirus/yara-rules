@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Suspicious_JS_Script_Content : FILE
 {
 	meta:

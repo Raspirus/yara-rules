@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Powerpool_Auto : FILE
 {
 	meta:

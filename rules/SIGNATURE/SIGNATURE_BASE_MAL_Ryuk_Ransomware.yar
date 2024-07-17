@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Ryuk_Ransomware : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule CAPE_Magniber : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Misha_Auto : FILE
 {
 	meta:

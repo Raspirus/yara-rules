@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Beatdrop_Auto : FILE
 {
 	meta:

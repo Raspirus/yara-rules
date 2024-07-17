@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Jupiter_Auto : FILE
 {
 	meta:

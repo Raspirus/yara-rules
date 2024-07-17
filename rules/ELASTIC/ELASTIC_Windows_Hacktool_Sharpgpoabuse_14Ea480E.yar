@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sharpgpoabuse_14Ea480E : FILE MEMORY
 {
 	meta:

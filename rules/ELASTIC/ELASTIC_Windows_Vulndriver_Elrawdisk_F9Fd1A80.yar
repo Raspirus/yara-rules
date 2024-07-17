@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Elrawdisk_F9Fd1A80 : FILE
 {
 	meta:

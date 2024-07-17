@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Bazar_3A2Cc53B : FILE MEMORY
 {
 	meta:

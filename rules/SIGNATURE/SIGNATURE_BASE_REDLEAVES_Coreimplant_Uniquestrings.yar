@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_REDLEAVES_Coreimplant_Uniquestrings : FILE
 {
 	meta:

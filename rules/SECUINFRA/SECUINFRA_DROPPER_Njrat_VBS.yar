@@ -1,3 +1,4 @@
+
 rule SECUINFRA_DROPPER_Njrat_VBS : VBS NJRAT DROPPER FILE
 {
 	meta:

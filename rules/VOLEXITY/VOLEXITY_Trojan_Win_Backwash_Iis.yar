@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule VOLEXITY_Trojan_Win_Backwash_Iis : XEGROUP
 {
 	meta:

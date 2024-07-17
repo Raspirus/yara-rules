@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Blackshades_Be382Dac : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Doublefantasy_Auto : FILE
 {
 	meta:

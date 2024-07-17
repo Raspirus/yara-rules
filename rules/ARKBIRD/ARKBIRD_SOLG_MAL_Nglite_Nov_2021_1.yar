@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_MAL_Nglite_Nov_2021_1 : FILE
 {
 	meta:

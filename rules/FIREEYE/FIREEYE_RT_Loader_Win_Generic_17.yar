@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Loader_Win_Generic_17 : FILE
 {
 	meta:

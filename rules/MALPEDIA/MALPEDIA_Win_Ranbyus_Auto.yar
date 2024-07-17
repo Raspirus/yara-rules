@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ranbyus_Auto : FILE
 {
 	meta:

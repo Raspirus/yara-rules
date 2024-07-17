@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Stealc_Auto : FILE
 {
 	meta:

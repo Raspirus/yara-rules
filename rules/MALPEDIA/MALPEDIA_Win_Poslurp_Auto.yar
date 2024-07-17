@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Poslurp_Auto : FILE
 {
 	meta:

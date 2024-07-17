@@ -1,3 +1,4 @@
+
 rule SECUINFRA_OBFUS_Powershell_Replace_Tilde : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_LOG_APT_HAFNIUM_Exchange_Log_Traces_Mar21_1 : LOG
 {
 	meta:

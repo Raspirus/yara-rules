@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Stration_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_HKTL_Koh_Tokenstealer : FILE
 {
 	meta:

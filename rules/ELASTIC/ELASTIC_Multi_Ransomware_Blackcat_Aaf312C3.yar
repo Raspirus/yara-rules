@@ -1,3 +1,4 @@
+
 rule ELASTIC_Multi_Ransomware_Blackcat_Aaf312C3 : FILE MEMORY
 {
 	meta:

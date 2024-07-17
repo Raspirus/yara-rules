@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Chimera_Recordedtv_Modified : TROJAN FILE
 {
 	meta:

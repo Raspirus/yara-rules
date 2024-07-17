@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nocturnalstealer_Auto : FILE
 {
 	meta:

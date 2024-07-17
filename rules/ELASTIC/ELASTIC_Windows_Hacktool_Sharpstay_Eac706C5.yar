@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sharpstay_Eac706C5 : FILE MEMORY
 {
 	meta:

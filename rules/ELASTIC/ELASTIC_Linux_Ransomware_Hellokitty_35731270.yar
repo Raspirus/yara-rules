@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Hellokitty_35731270 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_Anydesk_Compromised_Certificate_Jan24_3 : FILE
 {
 	meta:

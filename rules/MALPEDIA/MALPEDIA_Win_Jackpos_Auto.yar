@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Jackpos_Auto : FILE
 {
 	meta:

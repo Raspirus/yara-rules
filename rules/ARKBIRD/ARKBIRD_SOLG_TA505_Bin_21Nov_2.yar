@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule ARKBIRD_SOLG_TA505_Bin_21Nov_2 : FILE
 {
 	meta:

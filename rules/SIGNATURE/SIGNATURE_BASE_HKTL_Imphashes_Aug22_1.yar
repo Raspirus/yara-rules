@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_Imphashes_Aug22_1 : FILE
 {
 	meta:

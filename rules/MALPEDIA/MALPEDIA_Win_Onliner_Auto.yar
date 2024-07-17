@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Onliner_Auto : FILE
 {
 	meta:

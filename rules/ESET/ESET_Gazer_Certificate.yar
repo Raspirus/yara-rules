@@ -1,3 +1,66 @@
+import "elf"
+
+
+import "pe"
+
+
+import "elf"
+
+
+import "elf"
+
+
+import "elf"
+
+
+import "elf"
+
+
+import "elf"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
 rule ESET_Gazer_Certificate : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Doc_Windowsinstaller_Call_Feb22_1 : FILE
 {
 	meta:

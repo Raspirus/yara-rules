@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Kelihos_Auto : FILE
 {
 	meta:

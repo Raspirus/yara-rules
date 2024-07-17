@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Rootkit_R77_D0367E28 : FILE MEMORY
 {
 	meta:

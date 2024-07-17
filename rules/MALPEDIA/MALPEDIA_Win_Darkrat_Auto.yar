@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Darkrat_Auto : FILE
 {
 	meta:

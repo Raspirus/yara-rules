@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Atomsilo_Auto : FILE
 {
 	meta:

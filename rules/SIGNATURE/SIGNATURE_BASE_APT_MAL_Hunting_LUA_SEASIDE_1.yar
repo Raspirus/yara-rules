@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_Hunting_LUA_SEASIDE_1 : FILE
 {
 	meta:

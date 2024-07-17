@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Winnti_BR_Report_Mockingjay : FILE
 {
 	meta:

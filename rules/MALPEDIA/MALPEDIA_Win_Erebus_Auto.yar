@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Erebus_Auto : FILE
 {
 	meta:

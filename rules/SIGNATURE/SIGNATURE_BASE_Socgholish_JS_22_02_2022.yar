@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Socgholish_JS_22_02_2022 : FILE
 {
 	meta:

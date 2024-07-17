@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_APT_Sidewinder_Nov_2020_1 : FILE
 {
 	meta:

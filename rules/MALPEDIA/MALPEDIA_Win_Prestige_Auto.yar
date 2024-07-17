@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Prestige_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Crime_H2Miner_Kinsing : FILE
 {
 	meta:

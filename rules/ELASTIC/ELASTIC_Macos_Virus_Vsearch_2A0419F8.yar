@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Virus_Vsearch_2A0419F8 : FILE MEMORY
 {
 	meta:

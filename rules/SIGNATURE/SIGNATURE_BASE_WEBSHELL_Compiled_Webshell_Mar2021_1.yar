@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_WEBSHELL_Compiled_Webshell_Mar2021_1 : FILE
 {
 	meta:

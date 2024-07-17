@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bitsran_Auto : FILE
 {
 	meta:

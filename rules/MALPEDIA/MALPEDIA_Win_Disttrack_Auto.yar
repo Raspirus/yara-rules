@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Disttrack_Auto : FILE
 {
 	meta:

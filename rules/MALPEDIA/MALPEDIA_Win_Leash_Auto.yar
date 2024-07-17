@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Leash_Auto : FILE
 {
 	meta:

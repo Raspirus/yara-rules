@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Bughatch_21269Be4 : FILE MEMORY
 {
 	meta:

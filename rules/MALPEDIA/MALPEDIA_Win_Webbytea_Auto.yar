@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Webbytea_Auto : FILE
 {
 	meta:

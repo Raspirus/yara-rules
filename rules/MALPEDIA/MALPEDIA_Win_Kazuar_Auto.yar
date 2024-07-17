@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Kazuar_Auto : FILE
 {
 	meta:

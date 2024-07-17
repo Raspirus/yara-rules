@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule ESET_Apt_Windows_TA410_Flowcloud_Malicious_Dll_Antianalysis : FILE
 {
 	meta:

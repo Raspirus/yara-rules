@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Diceloader_Auto : FILE
 {
 	meta:

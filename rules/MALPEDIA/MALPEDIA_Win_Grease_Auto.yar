@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Grease_Auto : FILE
 {
 	meta:

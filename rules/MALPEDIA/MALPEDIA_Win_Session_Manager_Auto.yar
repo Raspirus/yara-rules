@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Session_Manager_Auto : FILE
 {
 	meta:

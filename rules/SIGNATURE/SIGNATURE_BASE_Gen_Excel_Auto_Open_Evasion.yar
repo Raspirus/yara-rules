@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Gen_Excel_Auto_Open_Evasion : FILE
 {
 	meta:

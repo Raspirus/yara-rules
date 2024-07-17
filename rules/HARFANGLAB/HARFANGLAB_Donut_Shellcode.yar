@@ -1,3 +1,4 @@
+
 rule HARFANGLAB_Donut_Shellcode : FILE
 {
 	meta:

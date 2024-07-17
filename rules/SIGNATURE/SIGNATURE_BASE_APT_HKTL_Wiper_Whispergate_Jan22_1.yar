@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_HKTL_Wiper_Whispergate_Jan22_1 : FILE
 {
 	meta:

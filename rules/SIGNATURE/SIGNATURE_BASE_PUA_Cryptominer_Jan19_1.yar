@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_PUA_Cryptominer_Jan19_1 : FILE
 {
 	meta:

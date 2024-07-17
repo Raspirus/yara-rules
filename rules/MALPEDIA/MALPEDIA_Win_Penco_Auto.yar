@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Penco_Auto : FILE
 {
 	meta:

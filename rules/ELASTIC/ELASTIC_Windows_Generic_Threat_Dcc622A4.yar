@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Generic_Threat_Dcc622A4 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Huskloader_Auto : FILE
 {
 	meta:

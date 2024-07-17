@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Virus_Gmon_E544D891 : FILE MEMORY
 {
 	meta:

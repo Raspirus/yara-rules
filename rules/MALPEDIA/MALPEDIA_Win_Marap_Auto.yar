@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Marap_Auto : FILE
 {
 	meta:

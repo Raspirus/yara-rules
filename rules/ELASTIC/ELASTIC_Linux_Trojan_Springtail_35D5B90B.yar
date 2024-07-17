@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Springtail_35D5B90B : FILE MEMORY
 {
 	meta:

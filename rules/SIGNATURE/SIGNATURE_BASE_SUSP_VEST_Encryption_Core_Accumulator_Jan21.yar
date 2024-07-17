@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_VEST_Encryption_Core_Accumulator_Jan21 : FILE
 {
 	meta:

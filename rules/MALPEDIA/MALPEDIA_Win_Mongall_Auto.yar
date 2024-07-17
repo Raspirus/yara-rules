@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mongall_Auto : FILE
 {
 	meta:

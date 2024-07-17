@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ironhalo_Auto : FILE
 {
 	meta:

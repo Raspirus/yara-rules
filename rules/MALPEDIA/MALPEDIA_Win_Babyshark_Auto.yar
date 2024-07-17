@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Babyshark_Auto : FILE
 {
 	meta:

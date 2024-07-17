@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cadelspy_Auto : FILE
 {
 	meta:

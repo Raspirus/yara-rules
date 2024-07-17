@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Dinodasrat_1D371D10 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_EXPL_POC_Vmware_Workspace_ONE_CVE_2022_22954_Apr22 : CVE_2022_22954
 {
 	meta:

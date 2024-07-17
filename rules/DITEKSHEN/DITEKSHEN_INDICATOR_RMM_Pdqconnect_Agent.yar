@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule DITEKSHEN_INDICATOR_RMM_Pdqconnect_Agent : FILE
 {
 	meta:

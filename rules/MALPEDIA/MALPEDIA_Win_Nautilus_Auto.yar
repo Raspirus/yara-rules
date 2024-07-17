@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nautilus_Auto : FILE
 {
 	meta:

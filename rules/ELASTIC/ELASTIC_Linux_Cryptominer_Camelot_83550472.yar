@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Camelot_83550472 : FILE MEMORY
 {
 	meta:

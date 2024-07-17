@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Sshdoor_7C3Cfc62 : FILE MEMORY
 {
 	meta:

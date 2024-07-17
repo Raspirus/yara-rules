@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_RTF_Embedded_Excel_Urldownloadtofile : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Builder_MSIL_G2JS_1 : FILE
 {
 	meta:

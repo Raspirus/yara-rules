@@ -1,3 +1,4 @@
+
 rule DR4K0NIA_MAL_Msil_Net_Niximports_Loader : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Redcurl_Auto : FILE
 {
 	meta:

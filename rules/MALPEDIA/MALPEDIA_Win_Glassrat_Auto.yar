@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Glassrat_Auto : FILE
 {
 	meta:

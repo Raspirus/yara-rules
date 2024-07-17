@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_RANSOM_Suncrypt_Decryptor : RANSOMWARE FILE
 {
 	meta:

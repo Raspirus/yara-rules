@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_WEBSHELL_Mailbox_Export_PST_Proxyshell_Aug26 : FILE
 {
 	meta:

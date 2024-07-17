@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Maggie_Auto : FILE
 {
 	meta:

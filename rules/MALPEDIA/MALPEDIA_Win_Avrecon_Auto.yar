@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Avrecon_Auto : FILE
 {
 	meta:

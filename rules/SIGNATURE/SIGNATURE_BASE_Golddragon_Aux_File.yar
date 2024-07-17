@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Golddragon_Aux_File : FILE
 {
 	meta:

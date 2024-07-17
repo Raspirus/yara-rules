@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Ransom_Ragnarlocker_July_2020_1 : FILE
 {
 	meta:

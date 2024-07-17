@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Runningrat_Auto : FILE
 {
 	meta:

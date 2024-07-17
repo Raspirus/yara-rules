@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Minertr_9901E275 : FILE MEMORY
 {
 	meta:

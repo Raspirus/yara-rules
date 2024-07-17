@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Beacon_Unknown_Feb24_1 : CVE_2024_1708 CVE_2024_1709 FILE
 {
 	meta:

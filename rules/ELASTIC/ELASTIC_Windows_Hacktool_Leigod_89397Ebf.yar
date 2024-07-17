@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Leigod_89397Ebf : FILE
 {
 	meta:

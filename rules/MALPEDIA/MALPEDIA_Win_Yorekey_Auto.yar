@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Yorekey_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Quasar_RAT_Jan18_1 : FILE
 {
 	meta:

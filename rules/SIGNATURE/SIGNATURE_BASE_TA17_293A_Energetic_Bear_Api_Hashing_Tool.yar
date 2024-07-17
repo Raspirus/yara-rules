@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_TA17_293A_Energetic_Bear_Api_Hashing_Tool : FILE
 {
 	meta:

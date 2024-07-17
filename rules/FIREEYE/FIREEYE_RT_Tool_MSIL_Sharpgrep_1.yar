@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Tool_MSIL_Sharpgrep_1 : FILE
 {
 	meta:

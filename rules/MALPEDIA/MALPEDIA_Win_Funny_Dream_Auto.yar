@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Funny_Dream_Auto : FILE
 {
 	meta:

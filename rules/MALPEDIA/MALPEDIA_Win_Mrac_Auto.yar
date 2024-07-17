@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mrac_Auto : FILE
 {
 	meta:

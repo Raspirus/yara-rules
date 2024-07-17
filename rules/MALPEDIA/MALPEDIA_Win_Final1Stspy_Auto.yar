@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Final1Stspy_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Vapor_Rage_Auto : FILE
 {
 	meta:

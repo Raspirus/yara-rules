@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_W32Times_Auto : FILE
 {
 	meta:

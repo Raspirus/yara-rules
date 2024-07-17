@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_KB_LNK_BOI_MAC : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_HKTL_PS1_Powercat_Mar21 : FILE
 {
 	meta:

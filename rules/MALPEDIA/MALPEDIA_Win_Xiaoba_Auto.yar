@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Xiaoba_Auto : FILE
 {
 	meta:

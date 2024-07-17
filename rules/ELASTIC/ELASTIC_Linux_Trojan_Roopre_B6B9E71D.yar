@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Roopre_B6B9E71D : FILE MEMORY
 {
 	meta:

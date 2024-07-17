@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Triton_Trilog : FILE
 {
 	meta:

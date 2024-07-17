@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Netfilter_1Cae6E26 : FILE
 {
 	meta:

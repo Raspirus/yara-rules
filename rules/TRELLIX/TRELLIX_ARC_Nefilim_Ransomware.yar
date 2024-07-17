@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule TRELLIX_ARC_Nefilim_Ransomware : RANSOMWARE FILE
 {
 	meta:

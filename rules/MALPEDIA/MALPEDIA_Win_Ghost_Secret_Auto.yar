@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ghost_Secret_Auto : FILE
 {
 	meta:

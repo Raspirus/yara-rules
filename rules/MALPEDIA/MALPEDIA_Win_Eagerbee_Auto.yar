@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Eagerbee_Auto : FILE
 {
 	meta:

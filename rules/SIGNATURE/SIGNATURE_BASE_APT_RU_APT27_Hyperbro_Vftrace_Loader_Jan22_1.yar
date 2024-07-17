@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_RU_APT27_Hyperbro_Vftrace_Loader_Jan22_1 : FILE
 {
 	meta:

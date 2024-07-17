@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule RUSSIANPANDA_Purelogs_Stealer_Core : FILE
 {
 	meta:

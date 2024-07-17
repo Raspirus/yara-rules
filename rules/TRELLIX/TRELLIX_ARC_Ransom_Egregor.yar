@@ -1,3 +1,8 @@
+import "pe"
+
+import "hash"
+
+
 rule TRELLIX_ARC_Ransom_Egregor : RANSOMWARE FILE
 {
 	meta:

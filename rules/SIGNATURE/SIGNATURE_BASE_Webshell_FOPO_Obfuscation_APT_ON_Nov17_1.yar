@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Webshell_FOPO_Obfuscation_APT_ON_Nov17_1 : FILE
 {
 	meta:

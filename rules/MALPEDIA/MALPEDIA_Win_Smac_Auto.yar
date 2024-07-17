@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Smac_Auto : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_TA18_149A_Joanap_Sample3 : FILE
 {
 	meta:

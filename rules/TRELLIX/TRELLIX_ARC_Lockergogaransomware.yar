@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Lockergogaransomware : RANSOMWARE FILE
 {
 	meta:

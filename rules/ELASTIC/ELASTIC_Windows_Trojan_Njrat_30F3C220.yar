@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Njrat_30F3C220 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Rietspoof_Loader : RANSOMWARE FILE
 {
 	meta:

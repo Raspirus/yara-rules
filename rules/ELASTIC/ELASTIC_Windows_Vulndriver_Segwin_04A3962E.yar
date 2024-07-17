@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Segwin_04A3962E : FILE
 {
 	meta:

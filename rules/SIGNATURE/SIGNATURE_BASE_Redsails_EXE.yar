@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Redsails_EXE : FILE
 {
 	meta:

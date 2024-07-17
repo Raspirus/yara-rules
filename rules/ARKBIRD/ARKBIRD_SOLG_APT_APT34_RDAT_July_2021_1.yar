@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_APT_APT34_RDAT_July_2021_1 : FILE
 {
 	meta:

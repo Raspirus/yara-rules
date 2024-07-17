@@ -1,3 +1,4 @@
+
 rule CAPE_Petya : FILE
 {
 	meta:

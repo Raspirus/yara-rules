@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_EXPL_Strings_CVE_POC_May19_1 : FILE
 {
 	meta:

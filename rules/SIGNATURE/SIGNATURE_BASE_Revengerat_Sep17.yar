@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Revengerat_Sep17 : FILE
 {
 	meta:

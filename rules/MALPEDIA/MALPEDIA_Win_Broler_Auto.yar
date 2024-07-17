@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Broler_Auto : FILE
 {
 	meta:

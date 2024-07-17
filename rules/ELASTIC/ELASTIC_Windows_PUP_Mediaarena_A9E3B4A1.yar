@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_PUP_Mediaarena_A9E3B4A1 : FILE MEMORY
 {
 	meta:

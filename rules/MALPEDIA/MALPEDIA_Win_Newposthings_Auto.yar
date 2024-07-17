@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Newposthings_Auto : FILE
 {
 	meta:

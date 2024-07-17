@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_WEBSHELL_PHP_Sandworm_May20_1 : FILE
 {
 	meta:

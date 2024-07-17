@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_NET_GUID_Stealth_Kid_RAT : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tinyloader_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sappycache_Auto : FILE
 {
 	meta:

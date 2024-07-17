@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nymaim2_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Msdt_Artefact_Jun22_2 : CVE_2022_30190 FILE
 {
 	meta:

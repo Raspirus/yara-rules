@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Neshta_Generic : HIGHVOL FILE
 {
 	meta:

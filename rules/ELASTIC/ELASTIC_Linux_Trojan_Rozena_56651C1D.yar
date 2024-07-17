@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Rozena_56651C1D : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Taintedscribe_Auto : FILE
 {
 	meta:

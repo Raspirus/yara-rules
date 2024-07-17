@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Concealment_Troy_Auto : FILE
 {
 	meta:

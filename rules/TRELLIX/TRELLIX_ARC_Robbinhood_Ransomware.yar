@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Robbinhood_Ransomware : RANSOMWARE FILE
 {
 	meta:

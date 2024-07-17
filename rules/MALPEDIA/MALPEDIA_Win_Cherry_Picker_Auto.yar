@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cherry_Picker_Auto : FILE
 {
 	meta:

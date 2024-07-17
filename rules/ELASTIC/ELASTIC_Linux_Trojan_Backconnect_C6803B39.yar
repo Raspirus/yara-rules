@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Backconnect_C6803B39 : FILE MEMORY
 {
 	meta:

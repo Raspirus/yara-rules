@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_MAL_Cobaltstrike_Oct_2021_1 : FILE
 {
 	meta:

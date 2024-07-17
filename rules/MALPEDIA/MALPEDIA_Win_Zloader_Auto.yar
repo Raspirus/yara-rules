@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Zloader_Auto : FILE
 {
 	meta:

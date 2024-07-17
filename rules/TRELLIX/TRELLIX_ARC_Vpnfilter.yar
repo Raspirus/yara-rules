@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Vpnfilter : BACKDOOR FILE
 {
 	meta:

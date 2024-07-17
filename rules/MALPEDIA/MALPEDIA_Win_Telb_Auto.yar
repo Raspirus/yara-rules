@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Telb_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dorshel_Auto : FILE
 {
 	meta:

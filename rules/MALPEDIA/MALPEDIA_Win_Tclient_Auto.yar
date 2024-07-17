@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tclient_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Rootkit_Dakkatoni_010D3Ac2 : FILE MEMORY
 {
 	meta:

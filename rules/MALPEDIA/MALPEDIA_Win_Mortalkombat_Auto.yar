@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mortalkombat_Auto : FILE
 {
 	meta:

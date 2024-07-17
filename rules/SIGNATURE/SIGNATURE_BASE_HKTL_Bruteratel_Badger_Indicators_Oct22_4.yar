@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_HKTL_Bruteratel_Badger_Indicators_Oct22_4 : FILE
 {
 	meta:

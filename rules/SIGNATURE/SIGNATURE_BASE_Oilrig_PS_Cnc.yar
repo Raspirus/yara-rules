@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Oilrig_PS_Cnc : FILE
 {
 	meta:

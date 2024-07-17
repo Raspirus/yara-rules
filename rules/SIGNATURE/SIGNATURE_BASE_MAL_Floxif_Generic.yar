@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Floxif_Generic : FILE
 {
 	meta:

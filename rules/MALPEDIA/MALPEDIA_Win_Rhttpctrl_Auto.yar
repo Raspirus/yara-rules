@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rhttpctrl_Auto : FILE
 {
 	meta:

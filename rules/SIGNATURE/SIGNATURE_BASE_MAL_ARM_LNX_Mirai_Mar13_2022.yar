@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_ARM_LNX_Mirai_Mar13_2022 : FILE
 {
 	meta:

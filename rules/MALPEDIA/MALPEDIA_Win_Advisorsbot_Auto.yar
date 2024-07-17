@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Advisorsbot_Auto : FILE
 {
 	meta:

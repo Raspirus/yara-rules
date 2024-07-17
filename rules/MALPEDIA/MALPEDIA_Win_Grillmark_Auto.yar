@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Grillmark_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Llaccess_C57534E8 : FILE
 {
 	meta:

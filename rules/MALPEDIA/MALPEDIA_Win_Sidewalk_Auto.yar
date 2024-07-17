@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sidewalk_Auto : FILE
 {
 	meta:

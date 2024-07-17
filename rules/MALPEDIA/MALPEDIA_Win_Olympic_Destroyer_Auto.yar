@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Olympic_Destroyer_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Masslogger_511B001E : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Yarat_Auto : FILE
 {
 	meta:

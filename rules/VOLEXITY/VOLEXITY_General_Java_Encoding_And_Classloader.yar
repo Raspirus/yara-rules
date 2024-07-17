@@ -1,3 +1,4 @@
+
 rule VOLEXITY_General_Java_Encoding_And_Classloader : WEBSHELLS GENERAL FILE
 {
 	meta:

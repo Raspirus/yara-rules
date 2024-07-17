@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Hvs_APT37_Cred_Tool : FILE
 {
 	meta:

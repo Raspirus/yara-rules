@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nettraveler_Auto : FILE
 {
 	meta:

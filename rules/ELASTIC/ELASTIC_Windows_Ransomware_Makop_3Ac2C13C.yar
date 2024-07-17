@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Makop_3Ac2C13C : FILE MEMORY
 {
 	meta:

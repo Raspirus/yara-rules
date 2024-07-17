@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Seatbelt_674Fd535 : FILE MEMORY
 {
 	meta:

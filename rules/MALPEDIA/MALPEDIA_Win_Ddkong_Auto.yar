@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ddkong_Auto : FILE
 {
 	meta:

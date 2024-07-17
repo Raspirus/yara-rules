@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_OSX_Fancybear_Agent_Jul18_1 : FILE
 {
 	meta:

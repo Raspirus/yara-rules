@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Clop_728Cf32A : FILE MEMORY
 {
 	meta:

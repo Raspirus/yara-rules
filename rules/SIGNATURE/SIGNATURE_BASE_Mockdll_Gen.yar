@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Mockdll_Gen : FILE
 {
 	meta:

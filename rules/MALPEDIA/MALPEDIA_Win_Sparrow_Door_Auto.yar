@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sparrow_Door_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_SUSP_Outlook_CVE_2023_23397_Exfil_IP_Mar23 : CVE_2023_23397 FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Godzilla_Loader_Auto : FILE
 {
 	meta:

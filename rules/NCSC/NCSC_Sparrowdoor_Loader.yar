@@ -1,3 +1,4 @@
+
 rule NCSC_Sparrowdoor_Loader : FILE
 {
 	meta:

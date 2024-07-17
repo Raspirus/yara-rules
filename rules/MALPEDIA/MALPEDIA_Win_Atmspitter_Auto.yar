@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Atmspitter_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bluelight_Auto : FILE
 {
 	meta:

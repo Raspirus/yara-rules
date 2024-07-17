@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Generic_Shellcode_Downloader_Specific : FILE
 {
 	meta:

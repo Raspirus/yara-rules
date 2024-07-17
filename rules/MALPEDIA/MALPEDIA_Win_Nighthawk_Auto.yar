@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nighthawk_Auto : FILE
 {
 	meta:

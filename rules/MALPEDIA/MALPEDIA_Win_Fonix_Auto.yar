@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Fonix_Auto : FILE
 {
 	meta:

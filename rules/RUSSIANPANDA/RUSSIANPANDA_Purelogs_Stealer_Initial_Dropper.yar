@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule RUSSIANPANDA_Purelogs_Stealer_Initial_Dropper : FILE
 {
 	meta:

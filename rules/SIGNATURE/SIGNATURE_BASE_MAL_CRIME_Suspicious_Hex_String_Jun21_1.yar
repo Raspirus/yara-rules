@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_CRIME_Suspicious_Hex_String_Jun21_1 : CRIME PE FILE
 {
 	meta:

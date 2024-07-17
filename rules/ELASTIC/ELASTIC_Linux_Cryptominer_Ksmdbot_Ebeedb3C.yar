@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Ksmdbot_Ebeedb3C : FILE MEMORY
 {
 	meta:

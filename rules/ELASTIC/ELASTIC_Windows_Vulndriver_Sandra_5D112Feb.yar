@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Sandra_5D112Feb : FILE
 {
 	meta:

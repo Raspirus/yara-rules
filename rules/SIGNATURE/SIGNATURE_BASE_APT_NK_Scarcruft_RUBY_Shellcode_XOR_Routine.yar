@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_NK_Scarcruft_RUBY_Shellcode_XOR_Routine : APT
 {
 	meta:

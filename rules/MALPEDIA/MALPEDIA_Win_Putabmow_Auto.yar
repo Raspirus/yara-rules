@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Putabmow_Auto : FILE
 {
 	meta:

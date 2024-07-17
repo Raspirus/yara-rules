@@ -1,3 +1,4 @@
+
 rule NCSC_Neuron2_Dotnet_Strings : FILE
 {
 	meta:

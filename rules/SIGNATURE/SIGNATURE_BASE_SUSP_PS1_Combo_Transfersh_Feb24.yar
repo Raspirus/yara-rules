@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_PS1_Combo_Transfersh_Feb24 : SCRIPT
 {
 	meta:

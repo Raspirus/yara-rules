@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Lurker_0Ee51802 : FILE
 {
 	meta:

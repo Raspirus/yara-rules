@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Purplewave_Auto : FILE
 {
 	meta:

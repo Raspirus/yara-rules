@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Badencript_Auto : FILE
 {
 	meta:

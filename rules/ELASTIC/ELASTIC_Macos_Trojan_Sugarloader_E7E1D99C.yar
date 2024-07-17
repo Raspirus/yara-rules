@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Sugarloader_E7E1D99C : FILE MEMORY
 {
 	meta:

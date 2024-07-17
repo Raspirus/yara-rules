@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Backdoor_Win_C3_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nefilim_Auto : FILE
 {
 	meta:

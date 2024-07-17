@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Danbot_Auto : FILE
 {
 	meta:

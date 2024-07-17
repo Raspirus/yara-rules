@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Elf_Bashlite_Auto : FILE
 {
 	meta:

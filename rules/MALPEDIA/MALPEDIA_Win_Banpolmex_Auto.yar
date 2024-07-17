@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Banpolmex_Auto : FILE
 {
 	meta:

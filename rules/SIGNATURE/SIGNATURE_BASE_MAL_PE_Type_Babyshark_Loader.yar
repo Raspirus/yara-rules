@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_PE_Type_Babyshark_Loader : FILE
 {
 	meta:

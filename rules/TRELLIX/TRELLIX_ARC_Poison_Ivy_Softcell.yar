@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule TRELLIX_ARC_Poison_Ivy_Softcell : RAT FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "math"
+
+
 rule SIGNATURE_BASE_WEBSHELL_JSP_Generic_Processbuilder : FILE
 {
 	meta:

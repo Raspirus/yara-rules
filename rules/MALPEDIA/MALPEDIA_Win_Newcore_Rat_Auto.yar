@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Newcore_Rat_Auto : FILE
 {
 	meta:

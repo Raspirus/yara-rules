@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule RUSSIANPANDA_Metastealer_NET_Reactor_Packer : FILE
 {
 	meta:

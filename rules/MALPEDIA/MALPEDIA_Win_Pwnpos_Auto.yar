@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pwnpos_Auto : FILE
 {
 	meta:

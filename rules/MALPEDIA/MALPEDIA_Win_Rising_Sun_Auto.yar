@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rising_Sun_Auto : FILE
 {
 	meta:

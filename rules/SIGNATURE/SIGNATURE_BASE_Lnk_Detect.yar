@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Lnk_Detect : FILE
 {
 	meta:

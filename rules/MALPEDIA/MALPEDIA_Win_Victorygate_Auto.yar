@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Victorygate_Auto : FILE
 {
 	meta:

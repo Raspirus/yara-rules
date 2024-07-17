@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Burningumbrella_Sample_13 : FILE
 {
 	meta:

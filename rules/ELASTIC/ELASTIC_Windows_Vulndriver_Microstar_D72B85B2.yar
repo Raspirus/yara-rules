@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Microstar_D72B85B2 : FILE
 {
 	meta:

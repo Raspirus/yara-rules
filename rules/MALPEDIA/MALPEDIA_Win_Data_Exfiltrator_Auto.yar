@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Data_Exfiltrator_Auto : FILE
 {
 	meta:

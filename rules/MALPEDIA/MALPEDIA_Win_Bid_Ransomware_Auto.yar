@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bid_Ransomware_Auto : FILE
 {
 	meta:

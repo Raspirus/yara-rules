@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Andromeda_Auto : FILE
 {
 	meta:

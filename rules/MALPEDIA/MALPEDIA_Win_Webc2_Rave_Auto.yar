@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Webc2_Rave_Auto : FILE
 {
 	meta:

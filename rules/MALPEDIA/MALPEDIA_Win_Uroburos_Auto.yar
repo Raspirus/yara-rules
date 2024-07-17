@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Uroburos_Auto : FILE
 {
 	meta:

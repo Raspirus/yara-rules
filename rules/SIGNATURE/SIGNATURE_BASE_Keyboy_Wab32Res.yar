@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Keyboy_Wab32Res : FILE
 {
 	meta:

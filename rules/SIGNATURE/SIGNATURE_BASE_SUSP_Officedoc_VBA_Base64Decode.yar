@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Officedoc_VBA_Base64Decode : FILE
 {
 	meta:

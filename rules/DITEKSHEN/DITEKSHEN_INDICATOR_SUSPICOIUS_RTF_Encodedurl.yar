@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_SUSPICOIUS_RTF_Encodedurl : FILE
 {
 	meta:

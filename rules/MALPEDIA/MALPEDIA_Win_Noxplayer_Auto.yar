@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Noxplayer_Auto : FILE
 {
 	meta:

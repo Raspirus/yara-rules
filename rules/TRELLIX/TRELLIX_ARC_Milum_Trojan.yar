@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule TRELLIX_ARC_Milum_Trojan : TROJAN FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_OBFUSC_Indiators_XML_Officedoc_Sep21_2 : WINDOWS CVE FILE
 {
 	meta:

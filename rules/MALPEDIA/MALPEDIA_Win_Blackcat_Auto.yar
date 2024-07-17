@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Blackcat_Auto : FILE
 {
 	meta:

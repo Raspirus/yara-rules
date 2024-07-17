@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Delivery_Web_Js_Jmask_Str_Array_Variant : EVILBAMBOO FILE
 {
 	meta:

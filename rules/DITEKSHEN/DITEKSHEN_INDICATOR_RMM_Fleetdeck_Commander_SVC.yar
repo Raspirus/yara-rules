@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule DITEKSHEN_INDICATOR_RMM_Fleetdeck_Commander_SVC : FILE
 {
 	meta:

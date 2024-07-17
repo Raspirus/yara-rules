@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Poweliks_Auto : FILE
 {
 	meta:

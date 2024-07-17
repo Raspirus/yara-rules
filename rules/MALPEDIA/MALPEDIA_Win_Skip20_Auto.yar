@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Skip20_Auto : FILE
 {
 	meta:

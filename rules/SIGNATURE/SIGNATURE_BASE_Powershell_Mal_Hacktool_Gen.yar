@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Powershell_Mal_Hacktool_Gen : FILE
 {
 	meta:

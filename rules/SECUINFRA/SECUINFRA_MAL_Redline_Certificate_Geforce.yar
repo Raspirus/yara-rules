@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SECUINFRA_MAL_Redline_Certificate_Geforce : FILE
 {
 	meta:

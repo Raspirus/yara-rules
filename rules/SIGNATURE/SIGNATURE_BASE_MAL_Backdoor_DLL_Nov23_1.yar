@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Backdoor_DLL_Nov23_1 : CVE_2023_4966 FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_VUL_Jquery_Fileupload_CVE_2018_9206 : CVE_2018_9206
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sunorcal_Auto : FILE
 {
 	meta:

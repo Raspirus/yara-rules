@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Casper_Auto : FILE
 {
 	meta:

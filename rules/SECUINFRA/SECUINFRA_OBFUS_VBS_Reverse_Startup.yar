@@ -1,3 +1,4 @@
+
 rule SECUINFRA_OBFUS_VBS_Reverse_Startup : FILE
 {
 	meta:

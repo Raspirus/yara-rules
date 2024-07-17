@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Darkgate_Fa1F1338 : FILE MEMORY
 {
 	meta:

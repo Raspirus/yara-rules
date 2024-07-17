@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Grabbot_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Gmer_8Aabdd5E : FILE
 {
 	meta:

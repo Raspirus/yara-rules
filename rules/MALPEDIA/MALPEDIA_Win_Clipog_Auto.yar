@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Clipog_Auto : FILE
 {
 	meta:

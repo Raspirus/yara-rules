@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_Ran_Regretlocker_Oct_2020_1 : FILE
 {
 	meta:

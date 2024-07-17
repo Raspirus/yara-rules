@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Hiddencobra_Ghostsecret_2 : FILE
 {
 	meta:

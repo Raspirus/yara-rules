@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Kuluoz_Auto : FILE
 {
 	meta:

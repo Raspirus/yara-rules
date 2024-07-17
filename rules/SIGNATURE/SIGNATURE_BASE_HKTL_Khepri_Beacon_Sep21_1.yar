@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_HKTL_Khepri_Beacon_Sep21_1 : FILE
 {
 	meta:

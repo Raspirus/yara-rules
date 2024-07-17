@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Onlylogger_Ec14D5F2 : FILE MEMORY
 {
 	meta:

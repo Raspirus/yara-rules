@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mocton_Auto : FILE
 {
 	meta:

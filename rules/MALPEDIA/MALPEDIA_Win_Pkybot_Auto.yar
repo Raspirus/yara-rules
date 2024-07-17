@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pkybot_Auto : FILE
 {
 	meta:

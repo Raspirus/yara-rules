@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Backdoor_Macos_GORAT_1 : FILE
 {
 	meta:

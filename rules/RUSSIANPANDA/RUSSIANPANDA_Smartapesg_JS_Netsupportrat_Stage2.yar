@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Smartapesg_JS_Netsupportrat_Stage2 : FILE
 {
 	meta:

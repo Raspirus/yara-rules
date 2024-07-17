@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Crytox_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_HKTL_Sentinelone_Remotepotato0_Privesc : FILE
 {
 	meta:

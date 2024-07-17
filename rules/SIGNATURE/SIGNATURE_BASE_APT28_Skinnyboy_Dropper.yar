@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT28_Skinnyboy_Dropper : RUSSIA FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_LNX_Hunting_Linux_WHIRLPOOL_1 : FILE
 {
 	meta:

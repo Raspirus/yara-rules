@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Gozi_Fd494041 : FILE MEMORY
 {
 	meta:

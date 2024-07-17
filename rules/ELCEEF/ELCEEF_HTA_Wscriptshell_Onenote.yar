@@ -1,3 +1,4 @@
+
 rule ELCEEF_HTA_Wscriptshell_Onenote : FILE
 {
 	meta:

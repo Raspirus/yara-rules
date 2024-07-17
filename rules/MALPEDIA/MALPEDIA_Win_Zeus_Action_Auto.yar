@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Zeus_Action_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Crenufs_Auto : FILE
 {
 	meta:

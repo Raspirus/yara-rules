@@ -1,3 +1,12 @@
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_Htran_Go : FILE
 {
 	meta:

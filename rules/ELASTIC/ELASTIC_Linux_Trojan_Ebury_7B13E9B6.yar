@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Ebury_7B13E9B6 : FILE MEMORY
 {
 	meta:

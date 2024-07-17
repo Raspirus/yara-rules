@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Eneio_6E01882F : FILE
 {
 	meta:

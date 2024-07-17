@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Cpuz_A53D1446 : FILE
 {
 	meta:

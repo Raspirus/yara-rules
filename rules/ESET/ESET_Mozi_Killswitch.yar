@@ -1,3 +1,4 @@
+
 rule ESET_Mozi_Killswitch : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Snatch_Loader_Auto : FILE
 {
 	meta:

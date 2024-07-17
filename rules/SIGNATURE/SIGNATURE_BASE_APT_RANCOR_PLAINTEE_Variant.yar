@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_RANCOR_PLAINTEE_Variant : FILE
 {
 	meta:

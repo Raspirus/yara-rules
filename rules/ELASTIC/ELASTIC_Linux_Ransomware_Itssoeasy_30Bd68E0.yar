@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Itssoeasy_30Bd68E0 : FILE MEMORY
 {
 	meta:

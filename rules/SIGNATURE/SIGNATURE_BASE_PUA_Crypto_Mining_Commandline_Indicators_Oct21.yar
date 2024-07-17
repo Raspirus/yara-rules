@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_PUA_Crypto_Mining_Commandline_Indicators_Oct21 : SCRIPT FILE
 {
 	meta:

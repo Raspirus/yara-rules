@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Matryoshka_Rat_Auto : FILE
 {
 	meta:

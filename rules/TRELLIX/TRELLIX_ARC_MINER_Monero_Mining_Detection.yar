@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_MINER_Monero_Mining_Detection : MINER FILE
 {
 	meta:

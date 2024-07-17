@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Trojan_Any_Pupyrat_B : COMMODITY
 {
 	meta:

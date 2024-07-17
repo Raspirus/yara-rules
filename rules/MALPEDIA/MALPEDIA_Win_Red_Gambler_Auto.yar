@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Red_Gambler_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Hacktool_Portscan_E191222D : FILE MEMORY
 {
 	meta:

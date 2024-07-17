@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_Loa_JS_Gootkit_Nov_2020_1 : FILE
 {
 	meta:

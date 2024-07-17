@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Orbit_57C23178 : FILE MEMORY
 {
 	meta:

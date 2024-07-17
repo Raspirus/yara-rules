@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Hive_55619Cd0 : FILE MEMORY
 {
 	meta:

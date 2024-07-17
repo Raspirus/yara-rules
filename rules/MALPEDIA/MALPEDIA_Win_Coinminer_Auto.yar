@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Coinminer_Auto : FILE
 {
 	meta:

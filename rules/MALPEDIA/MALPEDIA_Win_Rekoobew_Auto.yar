@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rekoobew_Auto : FILE
 {
 	meta:

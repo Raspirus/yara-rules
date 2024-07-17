@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Op_Blockbuster_Auto : FILE
 {
 	meta:

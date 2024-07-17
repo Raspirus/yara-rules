@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_RTF_Equation_Powershell_Downloader : FILE
 {
 	meta:

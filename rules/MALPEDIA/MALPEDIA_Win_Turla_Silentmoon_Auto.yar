@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Turla_Silentmoon_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELCEEF_Suspicious_SFX : FILE
 {
 	meta:

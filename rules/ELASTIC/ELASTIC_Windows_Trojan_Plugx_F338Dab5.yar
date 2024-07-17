@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Plugx_F338Dab5 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tinytyphon_Auto : FILE
 {
 	meta:

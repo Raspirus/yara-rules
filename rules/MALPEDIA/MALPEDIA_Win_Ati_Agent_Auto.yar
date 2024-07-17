@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ati_Agent_Auto : FILE
 {
 	meta:

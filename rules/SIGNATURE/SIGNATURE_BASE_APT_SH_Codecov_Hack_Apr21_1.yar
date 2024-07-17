@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_SH_Codecov_Hack_Apr21_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hlux_Auto : FILE
 {
 	meta:

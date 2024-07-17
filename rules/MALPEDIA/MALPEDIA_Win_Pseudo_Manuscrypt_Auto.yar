@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pseudo_Manuscrypt_Auto : FILE
 {
 	meta:

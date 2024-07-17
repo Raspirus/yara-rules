@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_Ke3Chang_Ketrican_Jun20_1 : FILE
 {
 	meta:

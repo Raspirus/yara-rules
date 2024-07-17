@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SBOUSSEADEN_Shad0W_Beacon : FILE
 {
 	meta:

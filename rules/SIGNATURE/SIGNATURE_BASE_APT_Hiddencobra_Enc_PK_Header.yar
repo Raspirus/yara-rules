@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Hiddencobra_Enc_PK_Header : HIDDEN_COBRA TYPEFRAME FILE
 {
 	meta:

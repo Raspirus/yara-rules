@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Egregor_4Ec2B90C : BETA FILE MEMORY
 {
 	meta:

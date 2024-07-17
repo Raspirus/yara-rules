@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Powerseal_2E50F393 : FILE MEMORY
 {
 	meta:

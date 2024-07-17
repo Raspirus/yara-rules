@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Elf_Persirai_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Cryptominer_Generic_F53Cfb9B : FILE MEMORY
 {
 	meta:

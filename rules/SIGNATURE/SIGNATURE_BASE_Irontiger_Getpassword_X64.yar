@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Irontiger_Getpassword_X64 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tinyfluff_Auto : FILE
 {
 	meta:

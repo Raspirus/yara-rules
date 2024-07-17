@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Zexaf_B90E7683 : FILE MEMORY
 {
 	meta:

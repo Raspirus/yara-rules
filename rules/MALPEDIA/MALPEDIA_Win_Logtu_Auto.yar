@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Logtu_Auto : FILE
 {
 	meta:

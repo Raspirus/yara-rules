@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Susp_Powershell_Sep17_2 : FILE
 {
 	meta:

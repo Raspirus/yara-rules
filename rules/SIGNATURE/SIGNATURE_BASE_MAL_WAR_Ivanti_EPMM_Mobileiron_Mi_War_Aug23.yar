@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_WAR_Ivanti_EPMM_Mobileiron_Mi_War_Aug23 : CVE_2023_35078 FILE
 {
 	meta:

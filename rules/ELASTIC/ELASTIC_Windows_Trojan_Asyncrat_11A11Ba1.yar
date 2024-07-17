@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Asyncrat_11A11Ba1 : FILE MEMORY
 {
 	meta:

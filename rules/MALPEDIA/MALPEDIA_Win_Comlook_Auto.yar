@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Comlook_Auto : FILE
 {
 	meta:

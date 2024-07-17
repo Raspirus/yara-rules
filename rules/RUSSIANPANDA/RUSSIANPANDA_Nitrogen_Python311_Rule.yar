@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule RUSSIANPANDA_Nitrogen_Python311_Rule : FILE
 {
 	meta:

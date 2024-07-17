@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pipemon_Auto : FILE
 {
 	meta:

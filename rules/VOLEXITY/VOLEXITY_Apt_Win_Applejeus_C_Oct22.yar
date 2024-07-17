@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Win_Applejeus_C_Oct22 : LAZARUS
 {
 	meta:

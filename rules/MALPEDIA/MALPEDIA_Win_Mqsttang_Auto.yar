@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mqsttang_Auto : FILE
 {
 	meta:

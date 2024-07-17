@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rofin_Auto : FILE
 {
 	meta:

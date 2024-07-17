@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Doubleback_D2246A35 : FILE MEMORY
 {
 	meta:

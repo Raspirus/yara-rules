@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Magala_Auto : FILE
 {
 	meta:

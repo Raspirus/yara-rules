@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule VOLEXITY_Apt_Win_Freshfire : APT29
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Trojan_DLL_Nov23 : CVE_2023_4966 FILE
 {
 	meta:

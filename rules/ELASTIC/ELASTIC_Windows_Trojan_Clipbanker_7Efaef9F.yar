@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Clipbanker_7Efaef9F : FILE MEMORY
 {
 	meta:

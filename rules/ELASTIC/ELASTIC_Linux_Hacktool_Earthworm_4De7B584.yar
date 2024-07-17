@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Hacktool_Earthworm_4De7B584 : FILE MEMORY
 {
 	meta:

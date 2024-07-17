@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Keyboy_876_0X4E20000 : FILE
 {
 	meta:

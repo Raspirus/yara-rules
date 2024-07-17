@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Irontiger_Gtalk_Trojan : FILE
 {
 	meta:

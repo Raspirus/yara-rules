@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Servhelper_370C5287 : FILE MEMORY
 {
 	meta:

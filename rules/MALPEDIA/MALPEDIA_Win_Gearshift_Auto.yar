@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gearshift_Auto : FILE
 {
 	meta:

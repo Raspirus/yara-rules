@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Xtreme_Sep17_3 : FILE
 {
 	meta:

@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_FIN7_Sample_Aug18_2 : FILE
 {
 	meta:

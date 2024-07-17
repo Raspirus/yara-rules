@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Apt_CN_Tetris_JS_Advanced_1 : FILE
 {
 	meta:

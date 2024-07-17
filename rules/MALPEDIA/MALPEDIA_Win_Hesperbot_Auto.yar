@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hesperbot_Auto : FILE
 {
 	meta:

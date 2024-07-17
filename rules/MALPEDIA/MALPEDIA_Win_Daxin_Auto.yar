@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Daxin_Auto : FILE
 {
 	meta:

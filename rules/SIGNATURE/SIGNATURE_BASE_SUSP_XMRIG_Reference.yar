@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_XMRIG_Reference : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_TA17_318A_Rc4_Stack_Key_Fallchill : FILE
 {
 	meta:

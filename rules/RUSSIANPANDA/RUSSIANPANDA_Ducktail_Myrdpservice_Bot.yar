@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule RUSSIANPANDA_Ducktail_Myrdpservice_Bot : FILE
 {
 	meta:

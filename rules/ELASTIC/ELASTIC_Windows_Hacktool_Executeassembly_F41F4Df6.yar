@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Executeassembly_F41F4Df6 : FILE MEMORY
 {
 	meta:

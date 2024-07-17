@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Snowlight_F5C83D35 : FILE MEMORY
 {
 	meta:

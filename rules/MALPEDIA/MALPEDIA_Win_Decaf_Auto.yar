@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Decaf_Auto : FILE
 {
 	meta:

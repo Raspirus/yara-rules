@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Httpsuploader_Auto : FILE
 {
 	meta:

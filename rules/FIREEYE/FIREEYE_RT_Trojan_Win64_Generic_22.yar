@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Trojan_Win64_Generic_22 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Sandworm_SSH_Key_May20_1 : FILE
 {
 	meta:

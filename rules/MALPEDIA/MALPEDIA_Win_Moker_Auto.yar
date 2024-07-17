@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Moker_Auto : FILE
 {
 	meta:

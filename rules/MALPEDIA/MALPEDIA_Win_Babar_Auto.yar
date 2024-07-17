@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Babar_Auto : FILE
 {
 	meta:

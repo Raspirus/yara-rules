@@ -1,3 +1,4 @@
+
 rule EMBEERESEARCH_Win_Emotet_String_Patterns_Oct_2022 : FILE
 {
 	meta:

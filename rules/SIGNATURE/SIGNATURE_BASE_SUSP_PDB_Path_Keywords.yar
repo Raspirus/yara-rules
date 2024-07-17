@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_PDB_Path_Keywords : FILE
 {
 	meta:

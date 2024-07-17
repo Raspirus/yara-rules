@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Helloxd_0C50F01B : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rombertik_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dmsniff_Auto : FILE
 {
 	meta:

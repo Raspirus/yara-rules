@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Emotet_Jan20_1 : FILE
 {
 	meta:

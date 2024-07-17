@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Vbox_1B1C5Cd5 : FILE
 {
 	meta:

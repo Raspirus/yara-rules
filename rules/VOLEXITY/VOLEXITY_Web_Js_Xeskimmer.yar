@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule VOLEXITY_Web_Js_Xeskimmer : XEGROUP
 {
 	meta:

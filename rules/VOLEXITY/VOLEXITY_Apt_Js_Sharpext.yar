@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Js_Sharpext : SHARPTONGUE
 {
 	meta:

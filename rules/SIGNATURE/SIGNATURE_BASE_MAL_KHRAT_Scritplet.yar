@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_KHRAT_Scritplet : FILE
 {
 	meta:

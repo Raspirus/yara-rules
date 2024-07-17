@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_OLE_Suspicious_Reverse : FILE
 {
 	meta:

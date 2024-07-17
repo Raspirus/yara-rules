@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Webmonitor_RAT : FILE
 {
 	meta:

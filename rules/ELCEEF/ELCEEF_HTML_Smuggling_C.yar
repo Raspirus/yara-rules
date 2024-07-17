@@ -1,3 +1,4 @@
+
 rule ELCEEF_HTML_Smuggling_C : T1027 FILE
 {
 	meta:

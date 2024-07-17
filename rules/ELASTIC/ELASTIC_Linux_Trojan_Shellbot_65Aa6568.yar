@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Shellbot_65Aa6568 : FILE MEMORY
 {
 	meta:

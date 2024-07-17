@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Locdoor_Ransomware : RANSOMWARE FILE
 {
 	meta:

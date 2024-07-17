@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_OSX_Backdoor_Bella : FILE
 {
 	meta:

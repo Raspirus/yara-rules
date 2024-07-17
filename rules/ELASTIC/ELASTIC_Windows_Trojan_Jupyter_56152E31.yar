@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Jupyter_56152E31 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Marut_47Af730D : FILE MEMORY
 {
 	meta:

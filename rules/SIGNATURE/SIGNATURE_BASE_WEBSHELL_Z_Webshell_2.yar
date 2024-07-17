@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_WEBSHELL_Z_Webshell_2 : FILE
 {
 	meta:

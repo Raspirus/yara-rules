@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mapiget_Auto : FILE
 {
 	meta:

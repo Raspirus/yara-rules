@@ -1,3 +1,4 @@
+
 rule JPCERTCC_Elf_Wellmess : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cryptoshield_Auto : FILE
 {
 	meta:

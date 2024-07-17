@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Qakbot_Configextraction_Feb23 : FILE
 {
 	meta:

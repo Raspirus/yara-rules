@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Oski_Auto : FILE
 {
 	meta:

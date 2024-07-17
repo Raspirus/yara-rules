@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_PPT_Mastermana : FILE
 {
 	meta:

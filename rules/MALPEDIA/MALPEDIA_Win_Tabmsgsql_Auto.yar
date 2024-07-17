@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tabmsgsql_Auto : FILE
 {
 	meta:

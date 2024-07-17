@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Moonbounce_Auto : FILE
 {
 	meta:

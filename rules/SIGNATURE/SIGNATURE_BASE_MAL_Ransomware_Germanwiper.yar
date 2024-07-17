@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Ransomware_Germanwiper : FILE
 {
 	meta:

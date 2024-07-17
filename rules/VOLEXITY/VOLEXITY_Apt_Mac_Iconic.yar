@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Mac_Iconic : UTA0040
 {
 	meta:

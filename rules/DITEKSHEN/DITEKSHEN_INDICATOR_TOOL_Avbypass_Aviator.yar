@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule DITEKSHEN_INDICATOR_TOOL_Avbypass_Aviator : FILE
 {
 	meta:

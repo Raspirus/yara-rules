@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Collectorgoomba_Auto : FILE
 {
 	meta:

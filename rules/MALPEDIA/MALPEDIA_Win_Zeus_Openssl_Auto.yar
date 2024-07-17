@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Zeus_Openssl_Auto : FILE
 {
 	meta:

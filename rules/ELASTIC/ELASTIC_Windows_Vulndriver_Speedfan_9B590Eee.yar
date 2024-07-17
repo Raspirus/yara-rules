@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Speedfan_9B590Eee : FILE
 {
 	meta:

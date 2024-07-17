@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_UNC4736_NK_MAL_TAXHAUL_3CX_Apr23_1 : FILE
 {
 	meta:

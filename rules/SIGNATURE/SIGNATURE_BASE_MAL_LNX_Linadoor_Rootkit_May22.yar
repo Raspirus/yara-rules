@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_LNX_Linadoor_Rootkit_May22 : FILE
 {
 	meta:

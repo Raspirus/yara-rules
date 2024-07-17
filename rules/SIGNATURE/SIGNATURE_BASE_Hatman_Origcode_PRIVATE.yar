@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Hatman_Origcode_PRIVATE : HATMAN
 {
 	meta:

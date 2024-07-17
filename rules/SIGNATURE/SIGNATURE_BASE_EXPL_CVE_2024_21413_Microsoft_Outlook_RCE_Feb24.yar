@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_CVE_2024_21413_Microsoft_Outlook_RCE_Feb24 : CVE_2024_21413 FILE
 {
 	meta:

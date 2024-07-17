@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Vawtrak_Auto : FILE
 {
 	meta:

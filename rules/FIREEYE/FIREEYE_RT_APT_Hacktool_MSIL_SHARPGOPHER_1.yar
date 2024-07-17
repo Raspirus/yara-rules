@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Hacktool_MSIL_SHARPGOPHER_1 : FILE
 {
 	meta:

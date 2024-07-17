@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Avast_Disabler_Auto : FILE
 {
 	meta:

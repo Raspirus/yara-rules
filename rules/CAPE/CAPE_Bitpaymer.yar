@@ -1,3 +1,4 @@
+
 rule CAPE_Bitpaymer : FILE
 {
 	meta:

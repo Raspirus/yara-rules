@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lambert_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Script_AUS_4 : FILE
 {
 	meta:

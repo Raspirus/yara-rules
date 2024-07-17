@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_RTF_Embedded_OLE_PE : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Sodinokibi_83F05Fbe : BETA FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_MAL_Beacon_Vermilion_Strike_Sep_2021_1 : FILE
 {
 	meta:

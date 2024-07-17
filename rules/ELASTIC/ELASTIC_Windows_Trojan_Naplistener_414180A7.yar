@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Naplistener_414180A7 : FILE MEMORY
 {
 	meta:

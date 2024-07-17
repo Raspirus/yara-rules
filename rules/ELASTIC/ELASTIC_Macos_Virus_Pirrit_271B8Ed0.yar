@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Virus_Pirrit_271B8Ed0 : FILE MEMORY
 {
 	meta:

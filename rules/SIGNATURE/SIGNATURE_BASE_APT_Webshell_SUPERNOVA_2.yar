@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Webshell_SUPERNOVA_2 : FILE
 {
 	meta:

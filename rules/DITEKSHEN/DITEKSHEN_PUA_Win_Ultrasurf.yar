@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule DITEKSHEN_PUA_Win_Ultrasurf : FILE
 {
 	meta:

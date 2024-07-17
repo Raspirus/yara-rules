@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Hiddad_E35Bff7B : FILE MEMORY
 {
 	meta:

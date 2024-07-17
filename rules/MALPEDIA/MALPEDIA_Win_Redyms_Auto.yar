@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Redyms_Auto : FILE
 {
 	meta:

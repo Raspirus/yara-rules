@@ -1,3 +1,4 @@
+
 rule HARFANGLAB_Muddywater_Ateraagent_Operators : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "math"
+
+
 rule SIGNATURE_BASE_WEBSHELL_Cookie_Post_Obfuscation : FILE
 {
 	meta:

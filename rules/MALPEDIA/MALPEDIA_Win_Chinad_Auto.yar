@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Chinad_Auto : FILE
 {
 	meta:

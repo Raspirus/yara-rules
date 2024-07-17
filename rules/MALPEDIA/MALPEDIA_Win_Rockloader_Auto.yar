@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rockloader_Auto : FILE
 {
 	meta:

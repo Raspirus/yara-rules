@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Py_Bluelight_Ldr : INKYSQUID
 {
 	meta:

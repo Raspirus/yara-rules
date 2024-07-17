@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Eggshell_Ddacf7B9 : FILE MEMORY
 {
 	meta:

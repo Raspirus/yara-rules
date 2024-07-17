@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Balkan_Door_Auto : FILE
 {
 	meta:

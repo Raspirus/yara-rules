@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Dharma_Aa5Eefed : BETA FILE MEMORY
 {
 	meta:

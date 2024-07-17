@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_ME_Rawdisk_Agent_Jan20_2 : FILE
 {
 	meta:

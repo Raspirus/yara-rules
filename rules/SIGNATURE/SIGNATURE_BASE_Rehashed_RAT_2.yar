@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Rehashed_RAT_2 : FILE
 {
 	meta:

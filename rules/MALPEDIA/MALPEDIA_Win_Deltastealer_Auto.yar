@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Deltastealer_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Tofsee_26124Fe4 : FILE MEMORY
 {
 	meta:

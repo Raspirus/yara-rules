@@ -1,3 +1,4 @@
+
 rule CAPE_Qakbot4 : FILE
 {
 	meta:

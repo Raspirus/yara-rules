@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule R3C0NST_Nighthawk_RAT : FILE
 {
 	meta:

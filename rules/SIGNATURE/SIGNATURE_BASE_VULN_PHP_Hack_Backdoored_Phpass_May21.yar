@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_VULN_PHP_Hack_Backdoored_Phpass_May21 : FILE
 {
 	meta:

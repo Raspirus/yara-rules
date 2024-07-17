@@ -1,3 +1,4 @@
+
 rule ELASTIC_Multi_Trojan_Coreimpact_37703Dc3 : FILE MEMORY
 {
 	meta:

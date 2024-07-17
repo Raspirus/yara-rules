@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_Exchange_Proxynotshell_Patterns_CVE_2022_41040_Oct22_1 : SCRIPT
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Mountlocker_126A76E2 : FILE MEMORY
 {
 	meta:

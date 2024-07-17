@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Diceloader_15Eeb7B9 : FILE MEMORY
 {
 	meta:

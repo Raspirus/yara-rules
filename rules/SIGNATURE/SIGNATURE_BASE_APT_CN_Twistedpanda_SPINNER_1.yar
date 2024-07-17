@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_CN_Twistedpanda_SPINNER_1 : FILE
 {
 	meta:

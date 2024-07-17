@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Loader_Win64_MATRYOSHKA_2 : FILE
 {
 	meta:

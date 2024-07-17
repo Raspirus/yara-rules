@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Electricfish_Auto : FILE
 {
 	meta:

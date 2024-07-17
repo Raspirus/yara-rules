@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Taleret_Auto : FILE
 {
 	meta:

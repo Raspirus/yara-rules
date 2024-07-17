@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Himan_Auto : FILE
 {
 	meta:

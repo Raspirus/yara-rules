@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nachocheese_Auto : FILE
 {
 	meta:

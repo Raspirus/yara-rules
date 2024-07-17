@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Graphican_Auto : FILE
 {
 	meta:

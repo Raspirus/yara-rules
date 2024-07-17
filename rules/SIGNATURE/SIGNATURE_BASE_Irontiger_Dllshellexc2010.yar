@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Irontiger_Dllshellexc2010 : FILE
 {
 	meta:

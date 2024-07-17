@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Webshell_AUS_Jscript_3 : FILE
 {
 	meta:

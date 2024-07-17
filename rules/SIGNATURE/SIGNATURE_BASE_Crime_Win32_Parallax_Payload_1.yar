@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Crime_Win32_Parallax_Payload_1 : FILE
 {
 	meta:

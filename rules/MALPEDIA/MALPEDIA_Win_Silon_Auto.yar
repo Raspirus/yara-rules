@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Silon_Auto : FILE
 {
 	meta:

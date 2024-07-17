@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Shellcode_Mykins_Botnet : SHELLCODE FILE
 {
 	meta:

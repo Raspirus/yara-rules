@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Datper_Auto : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule DITEKSHEN_INDICATOR_Tool_Forensia : FILE
 {
 	meta:

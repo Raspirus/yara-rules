@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gcleaner_Auto : FILE
 {
 	meta:

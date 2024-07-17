@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Winagent_Badpatch_1 : FILE
 {
 	meta:

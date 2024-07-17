@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rc2Fm_Auto : FILE
 {
 	meta:

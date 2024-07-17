@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_RAN_Avoslocker_July_2021_1 : FILE
 {
 	meta:

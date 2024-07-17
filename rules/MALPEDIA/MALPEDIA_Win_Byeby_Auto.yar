@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Byeby_Auto : FILE
 {
 	meta:

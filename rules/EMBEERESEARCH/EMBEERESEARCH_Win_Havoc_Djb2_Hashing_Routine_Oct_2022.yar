@@ -1,3 +1,4 @@
+
 rule EMBEERESEARCH_Win_Havoc_Djb2_Hashing_Routine_Oct_2022 : FILE
 {
 	meta:

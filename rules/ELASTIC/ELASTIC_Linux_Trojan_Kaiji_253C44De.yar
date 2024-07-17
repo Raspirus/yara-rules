@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Kaiji_253C44De : FILE MEMORY
 {
 	meta:

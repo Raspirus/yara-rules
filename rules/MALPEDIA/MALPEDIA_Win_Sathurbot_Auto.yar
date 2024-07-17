@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sathurbot_Auto : FILE
 {
 	meta:

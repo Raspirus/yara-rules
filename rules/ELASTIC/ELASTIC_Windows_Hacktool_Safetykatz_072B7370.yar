@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Safetykatz_072B7370 : FILE MEMORY
 {
 	meta:

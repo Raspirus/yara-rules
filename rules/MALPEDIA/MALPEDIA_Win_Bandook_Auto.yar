@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bandook_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Attacksimulation_Hovercraft_F5C7178F : FILE MEMORY
 {
 	meta:

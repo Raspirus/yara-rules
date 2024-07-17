@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Loader_MSIL_Csharpsectioninjection_1 : FILE
 {
 	meta:

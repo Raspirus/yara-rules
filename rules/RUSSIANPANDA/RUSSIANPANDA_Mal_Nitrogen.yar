@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Mal_Nitrogen : FILE
 {
 	meta:

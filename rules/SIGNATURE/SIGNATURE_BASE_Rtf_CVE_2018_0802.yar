@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Rtf_CVE_2018_0802 : CVE_2018_0802 FILE
 {
 	meta:

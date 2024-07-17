@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Azov_Wiper_Auto : FILE
 {
 	meta:

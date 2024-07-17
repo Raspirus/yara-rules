@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Casdet_5D0D33Be : FILE MEMORY
 {
 	meta:

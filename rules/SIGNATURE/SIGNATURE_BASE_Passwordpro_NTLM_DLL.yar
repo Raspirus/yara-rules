@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Passwordpro_NTLM_DLL : FILE
 {
 	meta:

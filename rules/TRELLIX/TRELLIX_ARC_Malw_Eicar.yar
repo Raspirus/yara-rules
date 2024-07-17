@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Malw_Eicar : EICAR
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_Keepass_CVE_2023_24055_Jan23 : CVE_2023_24055 FILE
 {
 	meta:

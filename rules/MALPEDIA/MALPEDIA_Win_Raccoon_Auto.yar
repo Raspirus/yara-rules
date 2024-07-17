@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Raccoon_Auto : FILE
 {
 	meta:

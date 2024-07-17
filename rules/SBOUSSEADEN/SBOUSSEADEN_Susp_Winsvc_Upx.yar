@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SBOUSSEADEN_Susp_Winsvc_Upx : FILE
 {
 	meta:

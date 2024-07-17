@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Pikabot_5441F511 : FILE MEMORY
 {
 	meta:

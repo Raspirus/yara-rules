@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_RANSOM_Darkside_DLL_May2021 : RANSOM FILE
 {
 	meta:

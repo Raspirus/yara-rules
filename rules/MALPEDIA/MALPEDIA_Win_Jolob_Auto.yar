@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Jolob_Auto : FILE
 {
 	meta:

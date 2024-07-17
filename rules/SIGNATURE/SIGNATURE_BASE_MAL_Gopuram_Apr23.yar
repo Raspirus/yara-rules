@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Gopuram_Apr23 : FILE
 {
 	meta:

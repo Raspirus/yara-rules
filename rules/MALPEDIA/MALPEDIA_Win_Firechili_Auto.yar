@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Firechili_Auto : FILE
 {
 	meta:

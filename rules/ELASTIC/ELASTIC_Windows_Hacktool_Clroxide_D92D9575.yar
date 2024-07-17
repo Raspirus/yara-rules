@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Clroxide_D92D9575 : FILE MEMORY
 {
 	meta:

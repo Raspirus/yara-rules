@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sharpup_E5C87C9A : FILE MEMORY
 {
 	meta:

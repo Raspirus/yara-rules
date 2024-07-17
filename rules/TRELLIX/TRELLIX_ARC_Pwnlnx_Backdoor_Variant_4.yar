@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule TRELLIX_ARC_Pwnlnx_Backdoor_Variant_4 : BACKDOOR FILE
 {
 	meta:

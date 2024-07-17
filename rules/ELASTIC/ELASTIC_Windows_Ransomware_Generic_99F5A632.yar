@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Generic_99F5A632 : FILE MEMORY
 {
 	meta:

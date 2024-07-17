@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Adlibrary_2E908E5F : FILE MEMORY
 {
 	meta:

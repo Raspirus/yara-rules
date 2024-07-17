@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mespinoza_Auto : FILE
 {
 	meta:

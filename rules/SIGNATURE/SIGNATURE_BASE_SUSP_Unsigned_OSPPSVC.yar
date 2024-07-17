@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_Unsigned_OSPPSVC : FILE
 {
 	meta:

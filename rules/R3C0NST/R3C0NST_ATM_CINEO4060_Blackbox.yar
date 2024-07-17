@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule R3C0NST_ATM_CINEO4060_Blackbox : FILE
 {
 	meta:

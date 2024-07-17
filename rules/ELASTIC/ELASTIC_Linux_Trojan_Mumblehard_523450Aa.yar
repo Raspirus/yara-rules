@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Mumblehard_523450Aa : FILE MEMORY
 {
 	meta:

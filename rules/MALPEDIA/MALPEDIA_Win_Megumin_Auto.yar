@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Megumin_Auto : FILE
 {
 	meta:

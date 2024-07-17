@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Flusihoc_Auto : FILE
 {
 	meta:

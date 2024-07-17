@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Powerprofiler_2Eedff78 : FILE
 {
 	meta:

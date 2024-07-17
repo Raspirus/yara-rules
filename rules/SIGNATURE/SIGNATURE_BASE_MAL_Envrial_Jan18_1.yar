@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Envrial_Jan18_1 : FILE
 {
 	meta:

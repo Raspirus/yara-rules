@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_MAL_Tinyturla_Sep21_1 : FILE
 {
 	meta:

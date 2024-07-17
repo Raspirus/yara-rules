@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Remoteadmin_Ultravnc_965F054A : FILE MEMORY
 {
 	meta:

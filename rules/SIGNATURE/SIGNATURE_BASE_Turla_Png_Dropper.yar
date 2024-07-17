@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Turla_Png_Dropper : FILE
 {
 	meta:

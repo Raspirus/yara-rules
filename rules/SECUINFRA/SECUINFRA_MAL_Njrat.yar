@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SECUINFRA_MAL_Njrat : FILE
 {
 	meta:

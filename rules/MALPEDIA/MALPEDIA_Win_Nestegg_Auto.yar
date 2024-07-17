@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nestegg_Auto : FILE
 {
 	meta:

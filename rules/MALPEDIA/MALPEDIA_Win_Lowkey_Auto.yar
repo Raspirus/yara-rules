@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lowkey_Auto : FILE
 {
 	meta:

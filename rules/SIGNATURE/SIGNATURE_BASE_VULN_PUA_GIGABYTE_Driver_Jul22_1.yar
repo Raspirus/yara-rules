@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_VULN_PUA_GIGABYTE_Driver_Jul22_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Meduzastealer_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Calmthorn_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Goopic_Auto : FILE
 {
 	meta:

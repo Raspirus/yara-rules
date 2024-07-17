@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Forest_Tiger_Auto : FILE
 {
 	meta:

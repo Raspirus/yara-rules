@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Xfsadm_Auto : FILE
 {
 	meta:

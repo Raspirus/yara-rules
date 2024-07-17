@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Loader_MSIL_PGF_1 : FILE
 {
 	meta:

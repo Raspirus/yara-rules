@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Gazer_Logfile_Name_1 : FILE
 {
 	meta:

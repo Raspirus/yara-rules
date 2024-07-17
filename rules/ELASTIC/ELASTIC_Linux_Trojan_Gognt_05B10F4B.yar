@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Gognt_05B10F4B : FILE MEMORY
 {
 	meta:

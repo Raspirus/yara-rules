@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Lockbit_89E64044 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Hacktool_MSIL_SHARPWEBCRAWLER_1 : FILE
 {
 	meta:

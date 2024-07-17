@@ -1,3 +1,4 @@
+
 rule DEADBITS_Dnspionage : APT DNSCHANGER FILE
 {
 	meta:

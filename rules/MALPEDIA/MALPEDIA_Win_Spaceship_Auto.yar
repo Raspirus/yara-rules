@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Spaceship_Auto : FILE
 {
 	meta:

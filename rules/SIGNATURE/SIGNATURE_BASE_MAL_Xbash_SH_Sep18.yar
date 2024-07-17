@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Xbash_SH_Sep18 : FILE
 {
 	meta:

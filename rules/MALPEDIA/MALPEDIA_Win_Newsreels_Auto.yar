@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Newsreels_Auto : FILE
 {
 	meta:

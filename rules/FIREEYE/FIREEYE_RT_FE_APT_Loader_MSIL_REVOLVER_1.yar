@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule FIREEYE_RT_FE_APT_Loader_MSIL_REVOLVER_1 : FILE
 {
 	meta:

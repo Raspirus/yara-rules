@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Polyglot_Ransom_Auto : FILE
 {
 	meta:

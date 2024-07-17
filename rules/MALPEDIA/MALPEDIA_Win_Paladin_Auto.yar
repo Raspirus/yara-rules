@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Paladin_Auto : FILE
 {
 	meta:

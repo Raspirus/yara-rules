@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lowball_Auto : FILE
 {
 	meta:

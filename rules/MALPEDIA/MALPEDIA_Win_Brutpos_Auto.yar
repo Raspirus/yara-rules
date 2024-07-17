@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Brutpos_Auto : FILE
 {
 	meta:

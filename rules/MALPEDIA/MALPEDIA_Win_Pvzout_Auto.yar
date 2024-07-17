@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pvzout_Auto : FILE
 {
 	meta:

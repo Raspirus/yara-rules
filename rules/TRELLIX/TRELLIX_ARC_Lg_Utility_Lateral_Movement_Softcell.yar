@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule TRELLIX_ARC_Lg_Utility_Lateral_Movement_Softcell : UTILITY FILE
 {
 	meta:

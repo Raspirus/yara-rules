@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Win_3Cx_Backdoored_Lib : UTA0040
 {
 	meta:

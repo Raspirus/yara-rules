@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_BKA_Goldenspy_Aug20_1 : FILE
 {
 	meta:

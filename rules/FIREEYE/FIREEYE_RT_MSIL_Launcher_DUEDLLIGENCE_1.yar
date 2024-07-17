@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_MSIL_Launcher_DUEDLLIGENCE_1 : FILE
 {
 	meta:

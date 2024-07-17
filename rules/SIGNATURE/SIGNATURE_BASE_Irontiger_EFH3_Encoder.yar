@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Irontiger_EFH3_Encoder : FILE
 {
 	meta:

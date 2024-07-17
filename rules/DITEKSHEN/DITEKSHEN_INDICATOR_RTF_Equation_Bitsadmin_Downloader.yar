@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_RTF_Equation_Bitsadmin_Downloader : FILE
 {
 	meta:

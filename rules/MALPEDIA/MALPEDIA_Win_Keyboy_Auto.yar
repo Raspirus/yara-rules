@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Keyboy_Auto : FILE
 {
 	meta:

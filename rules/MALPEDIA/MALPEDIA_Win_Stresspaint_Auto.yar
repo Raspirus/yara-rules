@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Stresspaint_Auto : FILE
 {
 	meta:

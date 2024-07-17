@@ -1,3 +1,4 @@
+
 rule COD3NYM_Eazfuscator_String_Encryption : SUSPICIOUS OBFUSCATION FILE
 {
 	meta:

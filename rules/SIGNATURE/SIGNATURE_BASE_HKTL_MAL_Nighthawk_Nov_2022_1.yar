@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_MAL_Nighthawk_Nov_2022_1 : NIGHTHAWK BEACON FILE
 {
 	meta:

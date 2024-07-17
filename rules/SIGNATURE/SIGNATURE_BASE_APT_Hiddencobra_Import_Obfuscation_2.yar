@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Hiddencobra_Import_Obfuscation_2 : HIDDEN_COBRA TYPEFRAME FILE
 {
 	meta:

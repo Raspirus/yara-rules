@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Vyveva_Auto : FILE
 {
 	meta:

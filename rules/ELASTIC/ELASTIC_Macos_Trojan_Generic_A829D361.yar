@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Generic_A829D361 : FILE MEMORY
 {
 	meta:

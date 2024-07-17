@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Sfloost_69A5343A : FILE MEMORY
 {
 	meta:

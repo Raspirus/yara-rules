@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cerber_Auto : FILE
 {
 	meta:

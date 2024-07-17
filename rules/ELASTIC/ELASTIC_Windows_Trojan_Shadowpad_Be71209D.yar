@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Shadowpad_Be71209D : FILE MEMORY
 {
 	meta:

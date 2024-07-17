@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Disk_Knight_Auto : FILE
 {
 	meta:

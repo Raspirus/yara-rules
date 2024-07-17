@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Spedear_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Regretlocker_Auto : FILE
 {
 	meta:

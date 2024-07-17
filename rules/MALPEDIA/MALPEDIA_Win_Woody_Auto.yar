@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Woody_Auto : FILE
 {
 	meta:

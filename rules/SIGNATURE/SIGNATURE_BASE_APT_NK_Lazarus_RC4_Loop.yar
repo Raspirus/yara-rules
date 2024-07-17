@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_NK_Lazarus_RC4_Loop : FILE
 {
 	meta:

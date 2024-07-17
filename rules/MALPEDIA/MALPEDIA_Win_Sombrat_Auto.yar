@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sombrat_Auto : FILE
 {
 	meta:

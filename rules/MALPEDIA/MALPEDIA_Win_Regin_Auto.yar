@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Regin_Auto : FILE
 {
 	meta:

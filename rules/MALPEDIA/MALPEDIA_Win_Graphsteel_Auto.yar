@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Graphsteel_Auto : FILE
 {
 	meta:

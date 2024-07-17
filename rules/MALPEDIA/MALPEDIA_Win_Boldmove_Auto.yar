@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Boldmove_Auto : FILE
 {
 	meta:

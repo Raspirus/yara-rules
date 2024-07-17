@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Flowershop_Auto : FILE
 {
 	meta:

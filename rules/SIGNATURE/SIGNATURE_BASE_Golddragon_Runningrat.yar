@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Golddragon_Runningrat : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_NET_GUID_Disable_Windows_Defender : FILE
 {
 	meta:

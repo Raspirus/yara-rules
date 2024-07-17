@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_HKTL_NET_NAME_Recon_AD : FILE
 {
 	meta:

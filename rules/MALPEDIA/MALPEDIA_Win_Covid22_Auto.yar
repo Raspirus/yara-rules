@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Covid22_Auto : FILE
 {
 	meta:

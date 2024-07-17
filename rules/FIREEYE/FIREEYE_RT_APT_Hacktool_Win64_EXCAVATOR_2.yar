@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Hacktool_Win64_EXCAVATOR_2 : FILE
 {
 	meta:

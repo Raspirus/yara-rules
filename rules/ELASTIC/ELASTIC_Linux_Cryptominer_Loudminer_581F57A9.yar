@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Loudminer_581F57A9 : FILE MEMORY
 {
 	meta:

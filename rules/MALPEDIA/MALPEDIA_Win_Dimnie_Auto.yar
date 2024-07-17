@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dimnie_Auto : FILE
 {
 	meta:

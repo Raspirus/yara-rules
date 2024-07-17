@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sharpdump_7C17D8B1 : FILE MEMORY
 {
 	meta:

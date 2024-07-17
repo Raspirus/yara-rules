@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Miniasp_Auto : FILE
 {
 	meta:

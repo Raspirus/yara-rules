@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Gazer_Certificate_1 : FILE
 {
 	meta:

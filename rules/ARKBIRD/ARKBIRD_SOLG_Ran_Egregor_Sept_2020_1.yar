@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_Ran_Egregor_Sept_2020_1 : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Trickbot_Oct19_3 : FILE
 {
 	meta:

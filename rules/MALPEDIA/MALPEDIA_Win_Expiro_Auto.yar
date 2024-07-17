@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Expiro_Auto : FILE
 {
 	meta:

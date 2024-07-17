@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_RAN_ELF_Qnapcrypt_Aug_2021_1 : FILE
 {
 	meta:

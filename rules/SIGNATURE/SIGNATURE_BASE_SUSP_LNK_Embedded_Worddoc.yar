@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_LNK_Embedded_Worddoc : FILE
 {
 	meta:

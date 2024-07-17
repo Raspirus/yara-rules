@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pcshare_Auto : FILE
 {
 	meta:

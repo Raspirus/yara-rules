@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bubblewrap_Auto : FILE
 {
 	meta:

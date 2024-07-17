@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Scarecrow_Auto : FILE
 {
 	meta:

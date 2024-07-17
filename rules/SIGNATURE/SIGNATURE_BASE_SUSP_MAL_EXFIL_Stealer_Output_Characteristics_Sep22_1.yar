@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_MAL_EXFIL_Stealer_Output_Characteristics_Sep22_1 : FILE
 {
 	meta:

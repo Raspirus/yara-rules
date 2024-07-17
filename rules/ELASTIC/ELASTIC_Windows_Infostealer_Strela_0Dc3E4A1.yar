@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Infostealer_Strela_0Dc3E4A1 : MEMORY
 {
 	meta:

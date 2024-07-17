@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Bulz_2Aa8Fbb5 : FILE MEMORY
 {
 	meta:

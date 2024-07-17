@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Webshell_AUS_Tiny_2 : FILE
 {
 	meta:

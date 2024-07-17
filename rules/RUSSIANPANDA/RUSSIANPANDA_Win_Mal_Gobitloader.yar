@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Win_Mal_Gobitloader : FILE
 {
 	meta:

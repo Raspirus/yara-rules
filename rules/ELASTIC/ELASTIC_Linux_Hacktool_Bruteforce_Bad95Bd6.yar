@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Hacktool_Bruteforce_Bad95Bd6 : FILE MEMORY
 {
 	meta:

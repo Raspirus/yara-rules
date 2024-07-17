@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_Winntilinux_Main_Azazelfork_May19 : FILE
 {
 	meta:

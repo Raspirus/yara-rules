@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tildeb_Auto : FILE
 {
 	meta:

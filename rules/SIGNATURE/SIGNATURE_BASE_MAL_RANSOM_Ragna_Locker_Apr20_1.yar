@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_RANSOM_Ragna_Locker_Apr20_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Hacktool_MSIL_REVOLVER_1 : FILE
 {
 	meta:

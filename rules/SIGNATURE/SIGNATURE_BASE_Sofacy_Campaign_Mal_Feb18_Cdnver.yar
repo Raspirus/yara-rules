@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Sofacy_Campaign_Mal_Feb18_Cdnver : FILE
 {
 	meta:

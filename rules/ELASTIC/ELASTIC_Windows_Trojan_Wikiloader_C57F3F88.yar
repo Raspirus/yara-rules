@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Wikiloader_C57F3F88 : FILE MEMORY
 {
 	meta:

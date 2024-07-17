@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Vmzeus_Auto : FILE
 {
 	meta:

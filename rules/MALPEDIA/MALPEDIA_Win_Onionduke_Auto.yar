@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Onionduke_Auto : FILE
 {
 	meta:

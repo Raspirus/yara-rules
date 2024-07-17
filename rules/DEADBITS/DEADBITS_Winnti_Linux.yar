@@ -1,3 +1,4 @@
+
 rule DEADBITS_Winnti_Linux : LINUXMALWARE FILE
 {
 	meta:

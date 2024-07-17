@@ -1,3 +1,4 @@
+
 rule WITHSECURELABS_Ducktail_Artifacts : FILE
 {
 	meta:

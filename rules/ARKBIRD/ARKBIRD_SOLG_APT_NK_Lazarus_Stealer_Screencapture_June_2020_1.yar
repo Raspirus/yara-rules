@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule ARKBIRD_SOLG_APT_NK_Lazarus_Stealer_Screencapture_June_2020_1 : FILE
 {
 	meta:

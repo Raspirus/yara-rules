@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pipcreat_Auto : FILE
 {
 	meta:

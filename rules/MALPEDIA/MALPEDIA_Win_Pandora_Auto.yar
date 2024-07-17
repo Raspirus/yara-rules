@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pandora_Auto : FILE
 {
 	meta:

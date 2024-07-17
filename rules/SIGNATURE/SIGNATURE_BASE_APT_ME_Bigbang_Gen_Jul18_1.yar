@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_ME_Bigbang_Gen_Jul18_1 : FILE
 {
 	meta:

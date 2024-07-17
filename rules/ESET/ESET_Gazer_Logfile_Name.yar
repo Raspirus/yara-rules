@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule ESET_Gazer_Logfile_Name : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gsecdump_Auto : FILE
 {
 	meta:

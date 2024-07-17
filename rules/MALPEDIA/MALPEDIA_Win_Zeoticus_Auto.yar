@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Zeoticus_Auto : FILE
 {
 	meta:

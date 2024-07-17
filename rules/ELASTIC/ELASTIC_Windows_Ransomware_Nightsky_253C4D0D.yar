@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Nightsky_253C4D0D : FILE MEMORY
 {
 	meta:

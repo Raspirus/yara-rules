@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gophe_Auto : FILE
 {
 	meta:

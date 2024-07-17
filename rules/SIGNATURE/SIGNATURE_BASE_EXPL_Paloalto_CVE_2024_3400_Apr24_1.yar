@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_Paloalto_CVE_2024_3400_Apr24_1 : CVE_2024_3400
 {
 	meta:

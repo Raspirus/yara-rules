@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Backdoor_Win_GORAT_4_1 : FILE
 {
 	meta:

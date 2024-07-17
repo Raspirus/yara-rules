@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Unknown_Pwdumper_Apr18_3 : FILE
 {
 	meta:

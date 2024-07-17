@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Wineloader_13E8860A : FILE MEMORY
 {
 	meta:

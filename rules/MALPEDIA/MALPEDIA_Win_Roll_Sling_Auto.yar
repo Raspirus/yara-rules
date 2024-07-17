@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Roll_Sling_Auto : FILE
 {
 	meta:

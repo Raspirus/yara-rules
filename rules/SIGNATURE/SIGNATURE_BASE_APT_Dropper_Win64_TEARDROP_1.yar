@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Dropper_Win64_TEARDROP_1 : FILE
 {
 	meta:

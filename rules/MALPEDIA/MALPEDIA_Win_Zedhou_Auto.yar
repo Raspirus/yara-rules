@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Zedhou_Auto : FILE
 {
 	meta:

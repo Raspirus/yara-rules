@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ldr4_Auto : FILE
 {
 	meta:

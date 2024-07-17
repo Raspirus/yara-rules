@@ -1,3 +1,4 @@
+
 rule ELASTIC_Multi_Trojan_Sparkrat_9A21E541 : FILE MEMORY
 {
 	meta:

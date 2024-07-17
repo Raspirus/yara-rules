@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Fallchill_RC4_Keys : FILE
 {
 	meta:

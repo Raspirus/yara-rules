@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Hawkeye_Keylogger_Feb18_1 : FILE
 {
 	meta:

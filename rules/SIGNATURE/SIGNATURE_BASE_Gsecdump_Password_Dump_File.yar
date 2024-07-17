@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Gsecdump_Password_Dump_File : FILE
 {
 	meta:

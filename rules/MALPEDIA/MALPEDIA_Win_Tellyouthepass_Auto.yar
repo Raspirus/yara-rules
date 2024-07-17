@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tellyouthepass_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Meterpreter_A82F5D21 : FILE MEMORY
 {
 	meta:

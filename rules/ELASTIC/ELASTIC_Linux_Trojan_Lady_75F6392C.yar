@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Lady_75F6392C : FILE MEMORY
 {
 	meta:

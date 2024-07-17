@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_LNX_Kobalos_SSH_Credential_Stealer : FILE
 {
 	meta:

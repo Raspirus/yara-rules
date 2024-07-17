@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Fuxsocy_Auto : FILE
 {
 	meta:

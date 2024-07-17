@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Parasite_Http_Auto : FILE
 {
 	meta:

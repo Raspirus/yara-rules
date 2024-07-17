@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Webc2_Qbp_Auto : FILE
 {
 	meta:

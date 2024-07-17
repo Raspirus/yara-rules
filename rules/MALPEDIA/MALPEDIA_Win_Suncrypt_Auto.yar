@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Suncrypt_Auto : FILE
 {
 	meta:

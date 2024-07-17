@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Metasploit_293Bfea9 : FILE MEMORY
 {
 	meta:

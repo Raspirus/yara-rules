@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Phorpiex_Auto : FILE
 {
 	meta:

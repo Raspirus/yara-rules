@@ -1,3 +1,4 @@
+
 rule ELCEEF_Polymorph_BAT_CAB : FILE
 {
 	meta:

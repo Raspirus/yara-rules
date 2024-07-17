@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Malxmr_7054A0D0 : FILE MEMORY
 {
 	meta:

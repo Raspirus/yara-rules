@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Obscene_Auto : FILE
 {
 	meta:

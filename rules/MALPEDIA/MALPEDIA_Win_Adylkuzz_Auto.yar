@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Adylkuzz_Auto : FILE
 {
 	meta:

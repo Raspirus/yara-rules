@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Curator_Auto : FILE
 {
 	meta:

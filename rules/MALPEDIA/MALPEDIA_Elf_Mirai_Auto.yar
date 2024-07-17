@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Elf_Mirai_Auto : FILE
 {
 	meta:

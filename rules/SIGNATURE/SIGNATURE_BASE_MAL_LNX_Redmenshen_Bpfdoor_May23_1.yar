@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_LNX_Redmenshen_Bpfdoor_May23_1 : FILE
 {
 	meta:

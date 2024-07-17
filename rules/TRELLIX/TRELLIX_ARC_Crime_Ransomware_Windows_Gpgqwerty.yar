@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Crime_Ransomware_Windows_Gpgqwerty : RANSOMWARE
 {
 	meta:

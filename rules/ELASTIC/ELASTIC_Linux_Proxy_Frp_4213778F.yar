@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Proxy_Frp_4213778F : FILE MEMORY
 {
 	meta:

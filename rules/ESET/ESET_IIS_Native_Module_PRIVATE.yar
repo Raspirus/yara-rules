@@ -1,3 +1,12 @@
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
 rule ESET_IIS_Native_Module_PRIVATE : FILE
 {
 	meta:

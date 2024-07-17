@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Octopus_15813E26 : FILE MEMORY
 {
 	meta:

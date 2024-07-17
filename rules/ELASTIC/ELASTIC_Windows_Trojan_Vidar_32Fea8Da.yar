@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Vidar_32Fea8Da : FILE MEMORY
 {
 	meta:

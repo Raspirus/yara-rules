@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_TA17_293A_Hacktool_PS_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Satana_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule R3C0NST_Stealbit : FILE
 {
 	meta:

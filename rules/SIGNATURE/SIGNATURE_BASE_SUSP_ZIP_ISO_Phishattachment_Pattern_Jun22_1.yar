@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_ZIP_ISO_Phishattachment_Pattern_Jun22_1 : FILE
 {
 	meta:

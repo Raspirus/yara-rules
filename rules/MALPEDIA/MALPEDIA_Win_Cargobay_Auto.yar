@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cargobay_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Phoreal_66E91De3 : FILE MEMORY
 {
 	meta:

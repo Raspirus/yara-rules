@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Viragt_5F92F226 : FILE
 {
 	meta:

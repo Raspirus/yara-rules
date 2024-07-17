@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_RTF_Malver_Objects : FILE
 {
 	meta:

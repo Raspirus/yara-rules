@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Netsupportmanager_Rat_Auto : FILE
 {
 	meta:

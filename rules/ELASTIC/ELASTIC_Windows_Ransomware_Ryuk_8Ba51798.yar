@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Ryuk_8Ba51798 : BETA FILE MEMORY
 {
 	meta:

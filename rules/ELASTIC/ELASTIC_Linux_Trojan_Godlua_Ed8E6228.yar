@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Godlua_Ed8E6228 : FILE MEMORY
 {
 	meta:

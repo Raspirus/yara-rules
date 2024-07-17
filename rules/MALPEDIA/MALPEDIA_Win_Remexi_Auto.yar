@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Remexi_Auto : FILE
 {
 	meta:

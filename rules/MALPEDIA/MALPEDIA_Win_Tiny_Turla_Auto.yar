@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tiny_Turla_Auto : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_Screenconnect_User_Poc_Com_Used_Feb24 : FILE
 {
 	meta:

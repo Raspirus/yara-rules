@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_Unlicensed_Cobaltstrike_EICAR_Jul18_5 : FILE
 {
 	meta:

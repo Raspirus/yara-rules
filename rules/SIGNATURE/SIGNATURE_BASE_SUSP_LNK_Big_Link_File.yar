@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_LNK_Big_Link_File : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Rbot_366F1599 : FILE MEMORY
 {
 	meta:

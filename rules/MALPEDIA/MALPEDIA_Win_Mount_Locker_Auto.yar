@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mount_Locker_Auto : FILE
 {
 	meta:

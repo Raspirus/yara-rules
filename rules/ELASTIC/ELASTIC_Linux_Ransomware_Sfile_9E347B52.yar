@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Sfile_9E347B52 : FILE MEMORY
 {
 	meta:

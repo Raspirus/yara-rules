@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Arkeistealer_84C7086A : FILE MEMORY
 {
 	meta:

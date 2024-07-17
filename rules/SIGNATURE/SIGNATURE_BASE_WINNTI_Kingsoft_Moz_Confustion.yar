@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_WINNTI_Kingsoft_Moz_Confustion : FILE
 {
 	meta:

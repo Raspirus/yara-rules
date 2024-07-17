@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Shadowhammer_Auto : FILE
 {
 	meta:

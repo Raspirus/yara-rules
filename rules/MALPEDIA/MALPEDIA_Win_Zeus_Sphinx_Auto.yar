@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Zeus_Sphinx_Auto : FILE
 {
 	meta:

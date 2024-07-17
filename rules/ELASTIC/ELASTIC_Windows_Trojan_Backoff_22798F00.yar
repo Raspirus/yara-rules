@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Backoff_22798F00 : FILE MEMORY
 {
 	meta:

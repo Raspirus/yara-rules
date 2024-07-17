@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_BKDR_Xzutil_Script_CVE_2024_3094_Mar24_1 : CVE_2024_3094
 {
 	meta:

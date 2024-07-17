@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Neuron_Common_Strings : FILE
 {
 	meta:

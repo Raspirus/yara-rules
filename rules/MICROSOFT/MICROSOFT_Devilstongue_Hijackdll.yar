@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule MICROSOFT_Devilstongue_Hijackdll : FILE
 {
 	meta:

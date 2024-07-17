@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Generic_Threat_6D7Ec30A : FILE MEMORY
 {
 	meta:

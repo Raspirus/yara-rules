@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Xbash_PY_Sep18 : FILE
 {
 	meta:

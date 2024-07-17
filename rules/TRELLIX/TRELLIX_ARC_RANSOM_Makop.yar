@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_RANSOM_Makop : RANSOMWARE FILE
 {
 	meta:

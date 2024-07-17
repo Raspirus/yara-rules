@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_NVIDIA_LAPSUS_Leak_Compromised_Cert_Mar22_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hardrain_Auto : FILE
 {
 	meta:

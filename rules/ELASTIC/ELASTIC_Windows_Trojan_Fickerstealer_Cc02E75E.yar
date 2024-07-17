@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Fickerstealer_Cc02E75E : FILE MEMORY
 {
 	meta:

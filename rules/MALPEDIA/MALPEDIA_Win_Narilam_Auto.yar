@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Narilam_Auto : FILE
 {
 	meta:

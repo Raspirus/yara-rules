@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Babylon_Rat_Auto : FILE
 {
 	meta:

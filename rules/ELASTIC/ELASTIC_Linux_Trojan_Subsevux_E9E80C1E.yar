@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Subsevux_E9E80C1E : FILE MEMORY
 {
 	meta:

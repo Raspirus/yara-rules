@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gold_Dragon_Auto : FILE
 {
 	meta:

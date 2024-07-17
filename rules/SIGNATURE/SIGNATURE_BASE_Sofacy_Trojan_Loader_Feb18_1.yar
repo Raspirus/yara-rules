@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Sofacy_Trojan_Loader_Feb18_1 : FILE
 {
 	meta:

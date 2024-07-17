@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Metasploit_Framework_UA : FILE
 {
 	meta:

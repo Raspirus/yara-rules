@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_APT_Unknown_Middle_East_Feb_2020_1 : FILE
 {
 	meta:

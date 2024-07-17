@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_RANSOM_COVID19_Apr20_1 : FILE
 {
 	meta:

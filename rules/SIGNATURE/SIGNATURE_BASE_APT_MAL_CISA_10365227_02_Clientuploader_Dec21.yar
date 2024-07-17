@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_CISA_10365227_02_Clientuploader_Dec21 : FILE
 {
 	meta:

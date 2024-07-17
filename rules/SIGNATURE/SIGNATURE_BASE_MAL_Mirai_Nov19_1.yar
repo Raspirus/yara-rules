@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Mirai_Nov19_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Hacktool_Aduh_6Cae7C78 : FILE MEMORY
 {
 	meta:

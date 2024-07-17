@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Iispy_Auto : FILE
 {
 	meta:

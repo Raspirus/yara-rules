@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Hatman_Nullsub_PRIVATE : HATMAN
 {
 	meta:

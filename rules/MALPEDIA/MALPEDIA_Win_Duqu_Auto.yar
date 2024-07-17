@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Duqu_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Shellcode_Rdi_Eee75D2C : FILE MEMORY
 {
 	meta:

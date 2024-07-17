@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Conficker_Auto : FILE
 {
 	meta:

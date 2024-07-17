@@ -1,3 +1,4 @@
+
 rule ELASTIC_Multi_Trojan_Sliver_3Bde542D : FILE MEMORY
 {
 	meta:

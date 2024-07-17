@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Atmii_Auto : FILE
 {
 	meta:

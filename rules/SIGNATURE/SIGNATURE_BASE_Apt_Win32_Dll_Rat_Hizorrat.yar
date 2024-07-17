@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Apt_Win32_Dll_Rat_Hizorrat : FILE
 {
 	meta:

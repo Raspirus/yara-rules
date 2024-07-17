@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Raspberryrobin_4B4D6899 : FILE MEMORY
 {
 	meta:

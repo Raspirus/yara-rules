@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Stak_Ae8B98A9 : FILE MEMORY
 {
 	meta:

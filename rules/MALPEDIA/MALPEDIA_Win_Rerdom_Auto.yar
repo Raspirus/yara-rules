@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rerdom_Auto : FILE
 {
 	meta:

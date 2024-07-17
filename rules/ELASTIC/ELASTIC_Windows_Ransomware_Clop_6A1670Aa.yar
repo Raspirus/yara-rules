@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Clop_6A1670Aa : BETA FILE MEMORY
 {
 	meta:

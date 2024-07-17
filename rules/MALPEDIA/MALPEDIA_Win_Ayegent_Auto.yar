@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ayegent_Auto : FILE
 {
 	meta:

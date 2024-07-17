@@ -1,3 +1,4 @@
+
 rule BINARYALERT_Hacktool_Windows_Cobaltstrike_Powershell : FILE
 {
 	meta:

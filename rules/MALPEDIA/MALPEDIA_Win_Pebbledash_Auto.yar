@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pebbledash_Auto : FILE
 {
 	meta:

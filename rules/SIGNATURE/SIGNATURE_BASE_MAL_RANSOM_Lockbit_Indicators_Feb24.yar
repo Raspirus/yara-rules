@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_RANSOM_Lockbit_Indicators_Feb24 : CVE_2024_1708 CVE_2024_1709 FILE
 {
 	meta:

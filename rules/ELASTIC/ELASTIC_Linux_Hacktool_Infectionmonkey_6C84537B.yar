@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Hacktool_Infectionmonkey_6C84537B : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Golang_Base64_Enc : FILE
 {
 	meta:

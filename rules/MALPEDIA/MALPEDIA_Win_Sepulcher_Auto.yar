@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sepulcher_Auto : FILE
 {
 	meta:

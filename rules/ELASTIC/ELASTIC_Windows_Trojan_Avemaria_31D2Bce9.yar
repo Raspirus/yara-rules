@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Avemaria_31D2Bce9 : FILE MEMORY
 {
 	meta:

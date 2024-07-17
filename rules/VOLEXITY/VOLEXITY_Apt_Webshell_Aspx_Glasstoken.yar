@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Webshell_Aspx_Glasstoken : UTA0178 FILE MEMORY
 {
 	meta:

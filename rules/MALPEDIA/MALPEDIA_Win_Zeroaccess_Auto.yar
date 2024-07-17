@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Zeroaccess_Auto : FILE
 {
 	meta:

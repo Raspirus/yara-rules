@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Ransom_Linux_Hellokitty_0721 : RANSOMWARE FILE
 {
 	meta:

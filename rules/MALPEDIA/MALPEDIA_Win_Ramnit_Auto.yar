@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ramnit_Auto : FILE
 {
 	meta:

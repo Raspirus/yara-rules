@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Hacktool_Win64_Andrewspecial_1 : FILE
 {
 	meta:

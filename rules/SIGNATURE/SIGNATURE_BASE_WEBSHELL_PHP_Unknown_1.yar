@@ -1,3 +1,6 @@
+import "math"
+
+
 rule SIGNATURE_BASE_WEBSHELL_PHP_Unknown_1 : FILE
 {
 	meta:

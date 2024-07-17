@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Yanluowang_Auto : FILE
 {
 	meta:

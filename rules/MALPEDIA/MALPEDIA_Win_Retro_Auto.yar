@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Retro_Auto : FILE
 {
 	meta:

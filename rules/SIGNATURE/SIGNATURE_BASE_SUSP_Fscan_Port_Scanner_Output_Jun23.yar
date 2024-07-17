@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Fscan_Port_Scanner_Output_Jun23 : SCRIPT FILE
 {
 	meta:

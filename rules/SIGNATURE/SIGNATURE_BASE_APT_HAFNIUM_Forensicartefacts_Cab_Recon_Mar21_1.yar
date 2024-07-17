@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_HAFNIUM_Forensicartefacts_Cab_Recon_Mar21_1 : FILE
 {
 	meta:

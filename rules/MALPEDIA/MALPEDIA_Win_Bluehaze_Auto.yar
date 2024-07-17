@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bluehaze_Auto : FILE
 {
 	meta:

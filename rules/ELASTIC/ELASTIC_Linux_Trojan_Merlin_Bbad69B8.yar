@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Merlin_Bbad69B8 : FILE MEMORY
 {
 	meta:

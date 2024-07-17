@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nokoyawa_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Backdoor_Win_GORAT_1 : FILE
 {
 	meta:

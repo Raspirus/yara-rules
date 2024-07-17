@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_BSMI_65223B8D : FILE
 {
 	meta:

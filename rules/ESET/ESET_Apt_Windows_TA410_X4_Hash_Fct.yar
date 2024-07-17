@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule ESET_Apt_Windows_TA410_X4_Hash_Fct : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Matrix_Banker_Auto : FILE
 {
 	meta:

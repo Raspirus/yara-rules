@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pay2Key_Auto : FILE
 {
 	meta:

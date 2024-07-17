@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Compromised_Cert_Ducktail_Stealer_Jun23 : FILE
 {
 	meta:

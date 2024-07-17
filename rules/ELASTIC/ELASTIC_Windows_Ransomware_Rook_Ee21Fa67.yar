@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Rook_Ee21Fa67 : FILE MEMORY
 {
 	meta:

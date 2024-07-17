@@ -1,3 +1,4 @@
+
 rule COD3NYM_Eazfuscator_Code_Virtualization : SUSPICIOUS OBFUSCATION FILE
 {
 	meta:

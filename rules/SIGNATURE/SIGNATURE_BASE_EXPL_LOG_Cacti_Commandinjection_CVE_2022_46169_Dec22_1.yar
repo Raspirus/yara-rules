@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_LOG_Cacti_Commandinjection_CVE_2022_46169_Dec22_1 : CVE_2022_46169
 {
 	meta:

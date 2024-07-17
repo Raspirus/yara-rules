@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Xpmmap_7Dcc3534 : FILE MEMORY
 {
 	meta:

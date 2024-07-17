@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Lokibot_Dropper_Scancopypdf_Feb18 : FILE
 {
 	meta:

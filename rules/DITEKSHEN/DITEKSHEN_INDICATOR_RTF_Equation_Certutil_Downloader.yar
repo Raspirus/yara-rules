@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_RTF_Equation_Certutil_Downloader : FILE
 {
 	meta:

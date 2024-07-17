@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Bitpaymer_Bca25Ac6 : BETA FILE MEMORY
 {
 	meta:

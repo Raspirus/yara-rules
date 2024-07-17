@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Zhcat_Auto : FILE
 {
 	meta:

@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_NET_GUID_Asyncrat_C_Sharp : FILE
 {
 	meta:

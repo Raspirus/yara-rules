@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Crackmapexec_EXE : FILE
 {
 	meta:

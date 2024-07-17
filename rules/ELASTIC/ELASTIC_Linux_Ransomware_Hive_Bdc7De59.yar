@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Hive_Bdc7De59 : FILE MEMORY
 {
 	meta:

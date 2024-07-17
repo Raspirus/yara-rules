@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_RAN_Medusalocker_Aug_2021_1 : FILE
 {
 	meta:

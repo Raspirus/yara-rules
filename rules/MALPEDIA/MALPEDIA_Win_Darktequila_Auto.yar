@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Darktequila_Auto : FILE
 {
 	meta:

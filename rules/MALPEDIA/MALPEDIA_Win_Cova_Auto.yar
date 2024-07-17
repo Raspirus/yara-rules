@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cova_Auto : FILE
 {
 	meta:

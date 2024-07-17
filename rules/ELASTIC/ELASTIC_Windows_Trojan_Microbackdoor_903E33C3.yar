@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Microbackdoor_903E33C3 : FILE MEMORY
 {
 	meta:

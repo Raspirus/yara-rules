@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Redshawl_Auto : FILE
 {
 	meta:

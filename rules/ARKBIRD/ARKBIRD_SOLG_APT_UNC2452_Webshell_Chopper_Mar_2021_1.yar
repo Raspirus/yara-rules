@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_APT_UNC2452_Webshell_Chopper_Mar_2021_1 : FILE
 {
 	meta:

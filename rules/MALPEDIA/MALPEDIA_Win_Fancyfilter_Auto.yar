@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Fancyfilter_Auto : FILE
 {
 	meta:

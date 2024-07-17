@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Muddywater_Droppedtask_Jun18_1 : FILE
 {
 	meta:

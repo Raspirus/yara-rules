@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Formbook_1112E116 : FILE MEMORY
 {
 	meta:

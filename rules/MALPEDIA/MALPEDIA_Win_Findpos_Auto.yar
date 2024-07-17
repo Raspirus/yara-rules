@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Findpos_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule DEADBITS_Silenttrinity_Delivery_Document : FILE
 {
 	meta:

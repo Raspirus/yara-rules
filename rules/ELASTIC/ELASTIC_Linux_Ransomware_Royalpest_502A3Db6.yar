@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Royalpest_502A3Db6 : FILE MEMORY
 {
 	meta:

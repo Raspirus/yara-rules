@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Keylogger_Apt3_Auto : FILE
 {
 	meta:

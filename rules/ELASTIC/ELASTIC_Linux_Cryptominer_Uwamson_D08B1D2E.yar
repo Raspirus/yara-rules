@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Uwamson_D08B1D2E : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Badbee_231Cb054 : FILE MEMORY
 {
 	meta:

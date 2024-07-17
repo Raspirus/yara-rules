@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nullmixer_Auto : FILE
 {
 	meta:

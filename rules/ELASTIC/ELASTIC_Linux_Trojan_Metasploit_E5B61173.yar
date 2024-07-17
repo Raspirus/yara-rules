@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Metasploit_E5B61173 : FILE MEMORY
 {
 	meta:

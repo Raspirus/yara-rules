@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tinba_Auto : FILE
 {
 	meta:

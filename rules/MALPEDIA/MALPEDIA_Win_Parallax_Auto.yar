@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Parallax_Auto : FILE
 {
 	meta:

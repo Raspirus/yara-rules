@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Nullsoftinst_Combo_Oct20_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Targetcompany_Auto : FILE
 {
 	meta:

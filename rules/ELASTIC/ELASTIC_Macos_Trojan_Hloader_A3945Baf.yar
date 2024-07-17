@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Hloader_A3945Baf : FILE MEMORY
 {
 	meta:

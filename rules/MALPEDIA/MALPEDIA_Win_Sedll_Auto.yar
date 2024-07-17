@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sedll_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_MAL_Redxor_Feb_2021_1 : FILE
 {
 	meta:

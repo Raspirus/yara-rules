@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Buerloader_C8A60F46 : FILE MEMORY
 {
 	meta:

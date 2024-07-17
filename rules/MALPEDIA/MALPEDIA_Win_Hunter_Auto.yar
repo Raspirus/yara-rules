@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hunter_Auto : FILE
 {
 	meta:

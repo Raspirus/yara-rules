@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Royal_Dns_Auto : FILE
 {
 	meta:

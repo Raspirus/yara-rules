@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Backdoor_Useragent_1A02Fc3A : FILE MEMORY
 {
 	meta:

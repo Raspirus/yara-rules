@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Msio_Ce0Bda23 : FILE
 {
 	meta:

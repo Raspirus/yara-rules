@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_APT_APT28_Downdelph_Feb_2021_1 : FILE
 {
 	meta:

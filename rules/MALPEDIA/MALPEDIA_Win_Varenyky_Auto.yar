@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Varenyky_Auto : FILE
 {
 	meta:

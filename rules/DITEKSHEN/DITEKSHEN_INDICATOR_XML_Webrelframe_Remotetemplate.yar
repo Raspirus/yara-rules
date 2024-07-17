@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_XML_Webrelframe_Remotetemplate : FILE
 {
 	meta:

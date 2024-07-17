@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_PS1_Sysaid_EXPL_Forensicartifacts_Nov23_1 : SCRIPT CVE_2023_47246
 {
 	meta:

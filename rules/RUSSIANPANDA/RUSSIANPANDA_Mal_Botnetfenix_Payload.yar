@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Mal_Botnetfenix_Payload : FILE
 {
 	meta:

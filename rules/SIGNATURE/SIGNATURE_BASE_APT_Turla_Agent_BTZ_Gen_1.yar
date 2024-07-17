@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Turla_Agent_BTZ_Gen_1 : FILE
 {
 	meta:

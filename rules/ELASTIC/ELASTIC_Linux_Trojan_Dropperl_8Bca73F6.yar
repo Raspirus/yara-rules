@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Dropperl_8Bca73F6 : FILE MEMORY
 {
 	meta:

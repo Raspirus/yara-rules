@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Workersdevbackdoor_PS : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Farseer_Auto : FILE
 {
 	meta:

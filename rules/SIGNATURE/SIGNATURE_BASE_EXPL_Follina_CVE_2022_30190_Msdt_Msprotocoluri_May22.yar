@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_Follina_CVE_2022_30190_Msdt_Msprotocoluri_May22 : CVE_2022_30190 FILE
 {
 	meta:

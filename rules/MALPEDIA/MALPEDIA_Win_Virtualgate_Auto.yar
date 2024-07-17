@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Virtualgate_Auto : FILE
 {
 	meta:

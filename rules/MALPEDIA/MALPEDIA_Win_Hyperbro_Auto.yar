@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hyperbro_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Bruteratel_9B267F96 : FILE MEMORY
 {
 	meta:

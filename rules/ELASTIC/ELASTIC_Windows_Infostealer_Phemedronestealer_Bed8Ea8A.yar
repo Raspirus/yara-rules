@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Infostealer_Phemedronestealer_Bed8Ea8A : FILE MEMORY
 {
 	meta:

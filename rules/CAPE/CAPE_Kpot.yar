@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule CAPE_Kpot : FILE
 {
 	meta:

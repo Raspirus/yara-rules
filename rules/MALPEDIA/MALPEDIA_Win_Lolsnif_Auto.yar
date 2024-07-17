@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lolsnif_Auto : FILE
 {
 	meta:

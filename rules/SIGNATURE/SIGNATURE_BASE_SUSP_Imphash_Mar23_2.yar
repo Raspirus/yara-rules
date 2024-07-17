@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_Imphash_Mar23_2 : HIGHVOL FILE
 {
 	meta:

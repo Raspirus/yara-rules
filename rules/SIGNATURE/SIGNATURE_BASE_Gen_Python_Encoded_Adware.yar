@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Gen_Python_Encoded_Adware : FILE
 {
 	meta:

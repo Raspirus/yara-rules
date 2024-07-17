@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_UNC2891_Slapstick : FILE
 {
 	meta:

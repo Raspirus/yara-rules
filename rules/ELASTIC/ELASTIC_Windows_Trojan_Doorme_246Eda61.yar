@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Doorme_246Eda61 : FILE MEMORY
 {
 	meta:

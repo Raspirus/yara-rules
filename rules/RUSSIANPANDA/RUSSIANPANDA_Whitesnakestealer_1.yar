@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Whitesnakestealer_1 : FILE
 {
 	meta:

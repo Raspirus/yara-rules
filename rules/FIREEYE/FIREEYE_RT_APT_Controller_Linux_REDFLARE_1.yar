@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_APT_Controller_Linux_REDFLARE_1 : FILE
 {
 	meta:

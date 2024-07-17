@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_MAL_Gopuram_Backdoor_Apr23 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_MAL_Unknown_PE_Jul_2021_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Backdoor_Generic_5776Ae49 : FILE MEMORY
 {
 	meta:

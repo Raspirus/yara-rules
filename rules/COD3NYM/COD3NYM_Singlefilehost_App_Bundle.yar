@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule COD3NYM_Singlefilehost_App_Bundle : COMPILER FILE
 {
 	meta:

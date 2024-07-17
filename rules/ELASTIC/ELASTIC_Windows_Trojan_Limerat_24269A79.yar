@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Limerat_24269A79 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Graftor_Auto : FILE
 {
 	meta:

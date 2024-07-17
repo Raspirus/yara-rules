@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Zerocleare_Auto : FILE
 {
 	meta:

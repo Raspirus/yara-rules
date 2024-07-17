@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_VBS_Obfuscated_Mal_Feb18_1 : FILE
 {
 	meta:

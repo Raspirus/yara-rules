@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_LOG_Exchange_Forensic_Artefacts_Cleanup_Activity_Mar21_1 : LOG
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Ransom_Note_Kraken_Cryptor_Ransomware : RANSOMWARE FILE
 {
 	meta:

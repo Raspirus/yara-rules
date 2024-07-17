@@ -1,3 +1,12 @@
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_ELF_Torchtriton : FILE
 {
 	meta:

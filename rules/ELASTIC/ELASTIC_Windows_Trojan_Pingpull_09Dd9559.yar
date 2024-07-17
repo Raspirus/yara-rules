@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Pingpull_09Dd9559 : FILE MEMORY
 {
 	meta:

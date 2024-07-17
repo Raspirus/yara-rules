@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Donotteam_Ytyframework : APT DONOTTEAM WINDOWS FILE
 {
 	meta:

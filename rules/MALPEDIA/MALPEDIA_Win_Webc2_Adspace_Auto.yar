@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Webc2_Adspace_Auto : FILE
 {
 	meta:

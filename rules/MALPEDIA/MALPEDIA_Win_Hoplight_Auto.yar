@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hoplight_Auto : FILE
 {
 	meta:

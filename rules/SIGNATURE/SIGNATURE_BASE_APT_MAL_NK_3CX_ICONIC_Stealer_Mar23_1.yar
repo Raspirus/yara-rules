@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_MAL_NK_3CX_ICONIC_Stealer_Mar23_1 : FILE
 {
 	meta:

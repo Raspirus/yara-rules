@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Whiskerspy_Auto : FILE
 {
 	meta:

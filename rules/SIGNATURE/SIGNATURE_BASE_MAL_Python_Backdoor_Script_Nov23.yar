@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Python_Backdoor_Script_Nov23 : CVE_2023_4966 FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Zpevdo_7F563544 : FILE MEMORY
 {
 	meta:

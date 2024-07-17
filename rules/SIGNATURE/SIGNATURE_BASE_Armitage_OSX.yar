@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Armitage_OSX : FILE
 {
 	meta:

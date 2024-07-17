@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Tscookie_RAT : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dubrute_Auto : FILE
 {
 	meta:

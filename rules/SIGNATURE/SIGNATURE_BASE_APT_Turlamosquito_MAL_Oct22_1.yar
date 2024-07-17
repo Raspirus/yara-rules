@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Turlamosquito_MAL_Oct22_1 : FILE
 {
 	meta:

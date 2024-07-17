@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ramdo_Auto : FILE
 {
 	meta:

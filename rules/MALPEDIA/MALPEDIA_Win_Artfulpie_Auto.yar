@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Artfulpie_Auto : FILE
 {
 	meta:

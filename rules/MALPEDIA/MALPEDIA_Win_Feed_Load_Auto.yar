@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Feed_Load_Auto : FILE
 {
 	meta:

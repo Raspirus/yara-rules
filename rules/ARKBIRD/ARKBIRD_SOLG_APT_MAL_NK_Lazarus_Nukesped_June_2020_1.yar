@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule ARKBIRD_SOLG_APT_MAL_NK_Lazarus_Nukesped_June_2020_1 : FILE
 {
 	meta:

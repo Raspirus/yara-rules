@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Danabot_6F3Dadb2 : FILE MEMORY
 {
 	meta:

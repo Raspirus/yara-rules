@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Maui_Auto : FILE
 {
 	meta:

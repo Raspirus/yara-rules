@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cruloader_Auto : FILE
 {
 	meta:

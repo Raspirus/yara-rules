@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule NCSC_Sparrowdoor_Clipshot : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Virus_Floxif_493D1897 : FILE MEMORY
 {
 	meta:

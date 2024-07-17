@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pikabot_Auto : FILE
 {
 	meta:

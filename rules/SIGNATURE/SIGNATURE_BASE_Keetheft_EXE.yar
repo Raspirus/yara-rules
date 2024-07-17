@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Keetheft_EXE : FILE
 {
 	meta:

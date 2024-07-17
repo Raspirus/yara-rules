@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Beam_5A951D13 : FILE MEMORY
 {
 	meta:

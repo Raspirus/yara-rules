@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Babuk_Bd216Cab : FILE MEMORY
 {
 	meta:

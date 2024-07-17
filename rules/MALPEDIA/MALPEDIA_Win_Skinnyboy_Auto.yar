@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Skinnyboy_Auto : FILE
 {
 	meta:

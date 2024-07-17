@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Billgates_Auto : FILE
 {
 	meta:

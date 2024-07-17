@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Kimsuky_Auto : FILE
 {
 	meta:

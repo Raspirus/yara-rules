@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule TRELLIX_ARC_Mirai_Casper_Variant : BACKDOOR FILE
 {
 	meta:

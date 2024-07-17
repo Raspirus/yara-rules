@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rtm_Locker_Auto : FILE
 {
 	meta:

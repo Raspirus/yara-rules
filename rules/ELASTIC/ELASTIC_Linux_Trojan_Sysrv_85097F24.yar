@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Sysrv_85097F24 : FILE MEMORY
 {
 	meta:

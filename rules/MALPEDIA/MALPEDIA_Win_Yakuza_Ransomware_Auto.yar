@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Yakuza_Ransomware_Auto : FILE
 {
 	meta:

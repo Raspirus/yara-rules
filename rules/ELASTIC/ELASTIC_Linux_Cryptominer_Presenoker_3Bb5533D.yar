@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Presenoker_3Bb5533D : FILE MEMORY
 {
 	meta:

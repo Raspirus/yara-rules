@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Fortinet_COATHANGER_Files : COATHANGER FILE
 {
 	meta:

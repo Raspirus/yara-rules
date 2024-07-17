@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Suddenicon_8B07C275 : FILE MEMORY
 {
 	meta:

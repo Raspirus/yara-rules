@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pngdowner_Auto : FILE
 {
 	meta:

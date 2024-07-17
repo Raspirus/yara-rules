@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Meduza_Auto : FILE
 {
 	meta:

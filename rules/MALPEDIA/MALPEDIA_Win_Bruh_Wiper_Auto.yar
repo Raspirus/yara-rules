@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bruh_Wiper_Auto : FILE
 {
 	meta:

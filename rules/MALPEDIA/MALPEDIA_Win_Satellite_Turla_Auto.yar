@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Satellite_Turla_Auto : FILE
 {
 	meta:

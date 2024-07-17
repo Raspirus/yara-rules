@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pwndlocker_Auto : FILE
 {
 	meta:

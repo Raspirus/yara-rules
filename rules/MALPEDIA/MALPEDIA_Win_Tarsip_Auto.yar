@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tarsip_Auto : FILE
 {
 	meta:

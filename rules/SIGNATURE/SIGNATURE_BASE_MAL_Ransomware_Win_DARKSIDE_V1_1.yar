@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_Ransomware_Win_DARKSIDE_V1_1 : FILE
 {
 	meta:

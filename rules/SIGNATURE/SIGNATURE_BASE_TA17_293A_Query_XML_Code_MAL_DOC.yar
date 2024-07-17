@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_TA17_293A_Query_XML_Code_MAL_DOC : FILE
 {
 	meta:

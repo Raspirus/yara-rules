@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Turla_Rpc_Auto : FILE
 {
 	meta:

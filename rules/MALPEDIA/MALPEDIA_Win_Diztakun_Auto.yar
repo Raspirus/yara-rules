@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Diztakun_Auto : FILE
 {
 	meta:

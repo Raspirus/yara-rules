@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Whispergate_9192618B : FILE MEMORY
 {
 	meta:

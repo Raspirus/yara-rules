@@ -1,3 +1,4 @@
+
 rule ARKBIRD_SOLG_MAL_Windealer_Oct_2021_2 : FILE
 {
 	meta:

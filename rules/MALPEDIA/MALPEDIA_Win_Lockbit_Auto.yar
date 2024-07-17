@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Lockbit_Auto : FILE
 {
 	meta:

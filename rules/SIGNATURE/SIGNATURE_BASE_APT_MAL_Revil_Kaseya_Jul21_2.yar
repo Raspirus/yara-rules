@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_MAL_Revil_Kaseya_Jul21_2 : FILE
 {
 	meta:

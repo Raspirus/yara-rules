@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Turla_Kazuarrat : FILE
 {
 	meta:

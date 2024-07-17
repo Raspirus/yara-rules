@@ -1,3 +1,4 @@
+
 rule NCSC_Sparrowdoor_Config : FILE
 {
 	meta:

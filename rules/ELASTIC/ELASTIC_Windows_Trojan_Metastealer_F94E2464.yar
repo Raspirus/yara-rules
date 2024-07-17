@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Metastealer_F94E2464 : FILE MEMORY
 {
 	meta:

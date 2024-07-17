@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Amadey_Auto : FILE
 {
 	meta:

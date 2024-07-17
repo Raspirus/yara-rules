@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tempedreve_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Crylocker_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Saudi_Phish_Trojan : FILE
 {
 	meta:

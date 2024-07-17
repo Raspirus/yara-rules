@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Echoraix_Ea9532Df : FILE MEMORY
 {
 	meta:

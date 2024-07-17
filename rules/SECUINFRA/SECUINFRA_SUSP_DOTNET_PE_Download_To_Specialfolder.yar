@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SECUINFRA_SUSP_DOTNET_PE_Download_To_Specialfolder : DOTNET DOWNLOAD FILE
 {
 	meta:

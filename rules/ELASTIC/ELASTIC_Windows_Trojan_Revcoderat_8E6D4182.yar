@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Revcoderat_8E6D4182 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_Sidewinder_Implant : FILE
 {
 	meta:

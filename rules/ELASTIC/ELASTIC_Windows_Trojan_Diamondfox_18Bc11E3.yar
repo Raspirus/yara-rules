@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Diamondfox_18Bc11E3 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Ddostf_Dc47A873 : FILE MEMORY
 {
 	meta:

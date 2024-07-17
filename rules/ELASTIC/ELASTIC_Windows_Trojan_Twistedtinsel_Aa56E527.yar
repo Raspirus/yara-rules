@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Twistedtinsel_Aa56E527 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Chafer_Portscanner : FILE
 {
 	meta:

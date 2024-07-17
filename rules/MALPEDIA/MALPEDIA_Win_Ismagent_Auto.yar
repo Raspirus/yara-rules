@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ismagent_Auto : FILE
 {
 	meta:

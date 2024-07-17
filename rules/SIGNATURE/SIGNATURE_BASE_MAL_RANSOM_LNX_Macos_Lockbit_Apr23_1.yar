@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_RANSOM_LNX_Macos_Lockbit_Apr23_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Powertool_044A8645 : FILE
 {
 	meta:

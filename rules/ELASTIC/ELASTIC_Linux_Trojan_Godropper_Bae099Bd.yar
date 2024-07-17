@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Godropper_Bae099Bd : FILE MEMORY
 {
 	meta:

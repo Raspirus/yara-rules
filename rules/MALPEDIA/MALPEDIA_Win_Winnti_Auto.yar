@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Winnti_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Morpes_D2Ae1Edf : FILE MEMORY
 {
 	meta:

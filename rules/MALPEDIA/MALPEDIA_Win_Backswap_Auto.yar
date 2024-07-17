@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Backswap_Auto : FILE
 {
 	meta:

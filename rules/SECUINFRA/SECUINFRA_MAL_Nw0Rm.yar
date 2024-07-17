@@ -1,3 +1,4 @@
+
 rule SECUINFRA_MAL_Nw0Rm : FILE
 {
 	meta:

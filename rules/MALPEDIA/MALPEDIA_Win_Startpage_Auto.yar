@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Startpage_Auto : FILE
 {
 	meta:

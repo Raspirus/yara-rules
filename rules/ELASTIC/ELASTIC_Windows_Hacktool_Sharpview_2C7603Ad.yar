@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sharpview_2C7603Ad : FILE MEMORY
 {
 	meta:

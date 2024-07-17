@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Ursu_3C05F8Ab : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cryptic_Convo_Auto : FILE
 {
 	meta:

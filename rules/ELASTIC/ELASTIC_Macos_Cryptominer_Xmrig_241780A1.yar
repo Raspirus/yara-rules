@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Cryptominer_Xmrig_241780A1 : FILE MEMORY
 {
 	meta:

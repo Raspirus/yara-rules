@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Dinvokerust_512D3B59 : FILE MEMORY
 {
 	meta:

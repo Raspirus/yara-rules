@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Bandook_38497690 : FILE MEMORY
 {
 	meta:

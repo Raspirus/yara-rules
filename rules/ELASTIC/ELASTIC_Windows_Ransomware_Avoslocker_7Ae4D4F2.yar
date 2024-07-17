@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Avoslocker_7Ae4D4F2 : FILE MEMORY
 {
 	meta:

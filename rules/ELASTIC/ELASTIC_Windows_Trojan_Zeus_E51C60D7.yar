@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Zeus_E51C60D7 : FILE MEMORY
 {
 	meta:

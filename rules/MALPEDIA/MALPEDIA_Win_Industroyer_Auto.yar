@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Industroyer_Auto : FILE
 {
 	meta:

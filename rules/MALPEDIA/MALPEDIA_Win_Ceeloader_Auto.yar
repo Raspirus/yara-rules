@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ceeloader_Auto : FILE
 {
 	meta:

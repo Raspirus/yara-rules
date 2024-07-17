@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Apocalipto_Auto : FILE
 {
 	meta:

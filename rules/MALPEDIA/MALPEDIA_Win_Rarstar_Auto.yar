@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rarstar_Auto : FILE
 {
 	meta:

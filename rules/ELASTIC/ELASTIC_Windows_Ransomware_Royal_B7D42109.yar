@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Royal_B7D42109 : FILE MEMORY
 {
 	meta:

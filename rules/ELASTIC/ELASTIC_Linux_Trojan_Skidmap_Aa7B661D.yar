@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Skidmap_Aa7B661D : FILE MEMORY
 {
 	meta:

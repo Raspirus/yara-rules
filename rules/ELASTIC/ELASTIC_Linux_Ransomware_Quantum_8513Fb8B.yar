@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Ransomware_Quantum_8513Fb8B : FILE MEMORY
 {
 	meta:

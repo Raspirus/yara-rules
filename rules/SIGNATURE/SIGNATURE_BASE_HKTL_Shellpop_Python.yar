@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_Shellpop_Python : FILE
 {
 	meta:

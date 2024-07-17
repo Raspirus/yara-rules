@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Pgminer_5Fb2Efd5 : FILE MEMORY
 {
 	meta:

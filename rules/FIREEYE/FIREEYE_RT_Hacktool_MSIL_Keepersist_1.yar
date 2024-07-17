@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Hacktool_MSIL_Keepersist_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bandit_Auto : FILE
 {
 	meta:

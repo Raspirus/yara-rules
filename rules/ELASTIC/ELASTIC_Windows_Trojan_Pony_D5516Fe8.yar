@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Pony_D5516Fe8 : FILE MEMORY
 {
 	meta:

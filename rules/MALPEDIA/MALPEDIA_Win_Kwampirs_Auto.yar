@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Kwampirs_Auto : FILE
 {
 	meta:

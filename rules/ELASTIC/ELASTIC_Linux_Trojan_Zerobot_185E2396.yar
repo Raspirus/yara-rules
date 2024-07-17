@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Zerobot_185E2396 : FILE MEMORY
 {
 	meta:

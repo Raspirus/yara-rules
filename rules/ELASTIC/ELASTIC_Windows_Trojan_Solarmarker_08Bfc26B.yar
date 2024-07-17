@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Solarmarker_08Bfc26B : FILE MEMORY
 {
 	meta:

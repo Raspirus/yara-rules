@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Btcware_Auto : FILE
 {
 	meta:

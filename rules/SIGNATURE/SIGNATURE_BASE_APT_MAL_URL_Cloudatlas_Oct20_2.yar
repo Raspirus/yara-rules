@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_URL_Cloudatlas_Oct20_2 : FILE
 {
 	meta:

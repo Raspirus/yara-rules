@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Sandworm_User_May20_1 : FILE
 {
 	meta:

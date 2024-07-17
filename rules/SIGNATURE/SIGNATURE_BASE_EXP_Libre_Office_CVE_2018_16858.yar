@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXP_Libre_Office_CVE_2018_16858 : CVE_2018_16858 FILE
 {
 	meta:

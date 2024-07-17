@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Darkcloud_9905Abce : FILE MEMORY
 {
 	meta:

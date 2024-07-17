@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXT_APT_Bitter_Win32K_0Day_Feb21 : FILE
 {
 	meta:

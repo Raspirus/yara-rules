@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Backdoor_Applejeus_31872Ae2 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SECUINFRA_DROPPER_WSHRAT_Stage_1 : FILE
 {
 	meta:

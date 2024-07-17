@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_RANSOM_Darkside_May21_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Bish_974B4B47 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXT_MAL_JS_Socgholish_Mar21_1 : JS SOCGHOLISH FILE
 {
 	meta:

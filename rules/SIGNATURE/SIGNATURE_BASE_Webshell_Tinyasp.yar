@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Webshell_Tinyasp : FILE
 {
 	meta:

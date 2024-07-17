@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Darkside_D7Fc4594 : FILE MEMORY
 {
 	meta:

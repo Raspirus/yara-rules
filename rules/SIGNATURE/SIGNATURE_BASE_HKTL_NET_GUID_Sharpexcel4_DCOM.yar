@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_HKTL_NET_GUID_Sharpexcel4_DCOM : FILE
 {
 	meta:

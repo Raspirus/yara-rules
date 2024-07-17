@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Manjusaka_Auto : FILE
 {
 	meta:

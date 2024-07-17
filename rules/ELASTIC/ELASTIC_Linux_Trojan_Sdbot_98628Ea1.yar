@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Sdbot_98628Ea1 : FILE MEMORY
 {
 	meta:

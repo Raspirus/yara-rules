@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Raccoonstealer : FILE
 {
 	meta:

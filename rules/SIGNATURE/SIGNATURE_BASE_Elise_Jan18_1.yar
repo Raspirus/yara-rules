@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Elise_Jan18_1 : FILE
 {
 	meta:

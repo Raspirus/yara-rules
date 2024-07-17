@@ -1,3 +1,4 @@
+
 rule TELEKOM_SECURITY_Get_Windows_Proxy_Configuration : CAPABILITY HACKTOOL
 {
 	meta:

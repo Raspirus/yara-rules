@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Kronos_Auto : FILE
 {
 	meta:

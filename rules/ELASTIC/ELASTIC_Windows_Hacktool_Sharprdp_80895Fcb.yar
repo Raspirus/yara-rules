@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Sharprdp_80895Fcb : FILE MEMORY
 {
 	meta:

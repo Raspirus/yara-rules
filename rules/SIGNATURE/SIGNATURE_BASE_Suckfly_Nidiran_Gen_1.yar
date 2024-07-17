@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Suckfly_Nidiran_Gen_1 : FILE
 {
 	meta:

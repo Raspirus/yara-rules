@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Shellcode_Generic_8C487E57 : FILE MEMORY
 {
 	meta:

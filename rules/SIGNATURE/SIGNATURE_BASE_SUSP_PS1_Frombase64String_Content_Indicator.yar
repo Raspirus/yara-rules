@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_PS1_Frombase64String_Content_Indicator : FILE
 {
 	meta:

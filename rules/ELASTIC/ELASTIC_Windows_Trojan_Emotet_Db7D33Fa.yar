@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Emotet_Db7D33Fa : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Wannahusky_Auto : FILE
 {
 	meta:

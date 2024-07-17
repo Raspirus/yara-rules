@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Asprox_Auto : FILE
 {
 	meta:

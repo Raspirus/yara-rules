@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Dragonfly_APT_Sep17_1 : FILE
 {
 	meta:

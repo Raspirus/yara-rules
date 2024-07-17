@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Flystudio_0A370634 : FILE MEMORY
 {
 	meta:

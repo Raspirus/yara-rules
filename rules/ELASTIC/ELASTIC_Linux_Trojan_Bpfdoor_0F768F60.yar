@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Bpfdoor_0F768F60 : FILE MEMORY
 {
 	meta:

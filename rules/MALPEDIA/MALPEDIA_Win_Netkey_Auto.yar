@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Netkey_Auto : FILE
 {
 	meta:

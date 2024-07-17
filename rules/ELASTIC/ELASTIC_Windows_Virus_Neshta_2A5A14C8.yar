@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Virus_Neshta_2A5A14C8 : FILE MEMORY
 {
 	meta:

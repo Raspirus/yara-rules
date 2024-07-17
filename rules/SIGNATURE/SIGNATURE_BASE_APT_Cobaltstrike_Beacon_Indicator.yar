@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_Cobaltstrike_Beacon_Indicator : FILE
 {
 	meta:

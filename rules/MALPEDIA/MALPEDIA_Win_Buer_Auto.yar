@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Buer_Auto : FILE
 {
 	meta:

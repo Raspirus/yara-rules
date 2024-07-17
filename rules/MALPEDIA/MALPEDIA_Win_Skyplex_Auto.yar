@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Skyplex_Auto : FILE
 {
 	meta:

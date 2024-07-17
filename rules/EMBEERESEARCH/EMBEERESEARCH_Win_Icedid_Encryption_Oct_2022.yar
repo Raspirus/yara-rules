@@ -1,3 +1,4 @@
+
 rule EMBEERESEARCH_Win_Icedid_Encryption_Oct_2022 : FILE
 {
 	meta:

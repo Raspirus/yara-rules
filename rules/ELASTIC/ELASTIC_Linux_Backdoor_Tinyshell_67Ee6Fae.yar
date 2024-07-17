@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Backdoor_Tinyshell_67Ee6Fae : FILE MEMORY
 {
 	meta:

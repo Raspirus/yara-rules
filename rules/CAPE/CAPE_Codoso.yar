@@ -1,3 +1,4 @@
+
 rule CAPE_Codoso : FILE
 {
 	meta:

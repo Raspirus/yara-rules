@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Synflooder_Auto : FILE
 {
 	meta:

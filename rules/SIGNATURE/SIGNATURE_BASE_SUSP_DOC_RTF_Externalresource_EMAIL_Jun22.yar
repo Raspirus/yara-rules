@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_DOC_RTF_Externalresource_EMAIL_Jun22 : CVE_2022_30190 FILE
 {
 	meta:

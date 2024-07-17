@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_APT29_Sorefang_Custom_Encode_Decode : FILE
 {
 	meta:

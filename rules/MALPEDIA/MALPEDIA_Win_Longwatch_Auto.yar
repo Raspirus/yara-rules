@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Longwatch_Auto : FILE
 {
 	meta:

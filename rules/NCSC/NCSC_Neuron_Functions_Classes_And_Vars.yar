@@ -1,3 +1,4 @@
+
 rule NCSC_Neuron_Functions_Classes_And_Vars : FILE
 {
 	meta:

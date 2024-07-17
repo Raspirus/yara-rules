@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Reversed_Base64_Encoded_EXE : FILE
 {
 	meta:

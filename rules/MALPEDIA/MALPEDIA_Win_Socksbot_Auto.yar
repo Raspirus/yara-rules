@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Socksbot_Auto : FILE
 {
 	meta:

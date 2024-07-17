@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Malrtf_Ole2Link : EXPLOIT FILE
 {
 	meta:

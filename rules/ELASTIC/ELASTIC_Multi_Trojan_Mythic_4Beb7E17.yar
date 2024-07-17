@@ -1,3 +1,4 @@
+
 rule ELASTIC_Multi_Trojan_Mythic_4Beb7E17 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pandabanker_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Rorschach_Auto : FILE
 {
 	meta:

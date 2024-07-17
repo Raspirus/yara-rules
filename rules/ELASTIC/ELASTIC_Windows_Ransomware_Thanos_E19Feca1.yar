@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Thanos_E19Feca1 : BETA FILE MEMORY
 {
 	meta:

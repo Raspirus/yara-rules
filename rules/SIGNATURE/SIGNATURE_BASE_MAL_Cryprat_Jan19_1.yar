@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Cryprat_Jan19_1 : FILE
 {
 	meta:

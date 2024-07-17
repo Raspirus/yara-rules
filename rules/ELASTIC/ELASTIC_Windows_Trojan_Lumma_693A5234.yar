@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Lumma_693A5234 : FILE MEMORY
 {
 	meta:

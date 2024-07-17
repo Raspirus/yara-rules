@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Clop_Ransom_Note : RANSOMWARE FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Backegmm_B59712E6 : FILE MEMORY
 {
 	meta:

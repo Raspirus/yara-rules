@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Winnti_De4B0F6E : FILE MEMORY
 {
 	meta:

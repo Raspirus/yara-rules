@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_A310Logger_520Cd7Ec : FILE MEMORY
 {
 	meta:

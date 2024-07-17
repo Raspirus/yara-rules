@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_WEBSHELL_ASPX_Chopper_Like_Mar21_1 : FILE
 {
 	meta:

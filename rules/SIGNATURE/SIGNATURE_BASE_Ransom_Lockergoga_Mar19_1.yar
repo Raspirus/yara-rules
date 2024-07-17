@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Ransom_Lockergoga_Mar19_1 : FILE
 {
 	meta:

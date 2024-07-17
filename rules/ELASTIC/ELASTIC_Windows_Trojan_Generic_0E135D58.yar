@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Generic_0E135D58 : FILE MEMORY
 {
 	meta:

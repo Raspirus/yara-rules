@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Lokibot_Dropper_Packed_R11_Feb18 : FILE
 {
 	meta:

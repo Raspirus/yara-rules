@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Kinsing_2C1Ffe78 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gopuram_Auto : FILE
 {
 	meta:

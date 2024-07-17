@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Shadowpad_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_DLL_Stealer_Nov23 : CVE_2023_4966 FILE
 {
 	meta:

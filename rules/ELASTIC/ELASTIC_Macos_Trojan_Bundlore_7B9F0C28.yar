@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Bundlore_7B9F0C28 : FILE MEMORY
 {
 	meta:

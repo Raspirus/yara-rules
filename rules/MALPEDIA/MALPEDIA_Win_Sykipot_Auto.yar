@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sykipot_Auto : FILE
 {
 	meta:

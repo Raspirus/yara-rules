@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sendsafe_Auto : FILE
 {
 	meta:

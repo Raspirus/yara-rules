@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Webshell_Jsp_Converge : WEBSHELL
 {
 	meta:

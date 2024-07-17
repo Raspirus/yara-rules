@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Winnti_Dropper_X86_Libtomcrypt_Fns : TAU CN APT
 {
 	meta:

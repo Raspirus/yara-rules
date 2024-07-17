@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Chiser_Client_Auto : FILE
 {
 	meta:

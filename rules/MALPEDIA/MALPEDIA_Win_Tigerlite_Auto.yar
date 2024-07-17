@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tigerlite_Auto : FILE
 {
 	meta:

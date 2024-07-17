@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Doc_Wordxmlrels_May22 : CVE_2022_30190 FILE
 {
 	meta:

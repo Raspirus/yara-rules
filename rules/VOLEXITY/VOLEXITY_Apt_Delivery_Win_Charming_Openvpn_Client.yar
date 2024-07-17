@@ -1,3 +1,8 @@
+import "pe"
+
+import "hash"
+
+
 rule VOLEXITY_Apt_Delivery_Win_Charming_Openvpn_Client : CHARMINGCYPRESS FILE
 {
 	meta:

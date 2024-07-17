@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_UNC4841_ESG_Barracuda_CVE_2023_2868_Forensic_Artifacts_Jun23_1 : SCRIPT CVE_2023_2868
 {
 	meta:

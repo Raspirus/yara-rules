@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Jesterstealer_B35C6F4B : FILE MEMORY
 {
 	meta:

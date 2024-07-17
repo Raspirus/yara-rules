@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Onenote_Embedded_Filedatastoreobject_Type_Jan23_1 : FILE
 {
 	meta:

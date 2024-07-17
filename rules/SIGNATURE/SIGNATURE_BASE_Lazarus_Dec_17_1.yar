@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Lazarus_Dec_17_1 : FILE
 {
 	meta:

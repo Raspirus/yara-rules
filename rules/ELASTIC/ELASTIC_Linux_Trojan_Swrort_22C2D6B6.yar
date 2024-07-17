@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Swrort_22C2D6B6 : FILE MEMORY
 {
 	meta:

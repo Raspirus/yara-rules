@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_SUSP_3CX_App_Signed_Binary_Mar23_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_DNS_Hijacking_Campaign_AA19_024A : FILE
 {
 	meta:

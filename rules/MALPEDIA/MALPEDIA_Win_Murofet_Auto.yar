@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Murofet_Auto : FILE
 {
 	meta:

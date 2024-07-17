@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Base64_Encoded_Hacktool_Dev : FILE
 {
 	meta:

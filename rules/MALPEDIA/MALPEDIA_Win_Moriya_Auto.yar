@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Moriya_Auto : FILE
 {
 	meta:

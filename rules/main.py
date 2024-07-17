@@ -4,15 +4,35 @@ import os
 def extract_yara_rules(file_path):
     with open(file_path, 'r') as file:
         content = file.read()
-    
+
+    # Regular expression to match imports
+    import_pattern = re.compile(r'(?<=\n)import\s+["\w]+\s*')
+
     # Regular expression to match YARA rules
     rule_pattern = re.compile(r'(rule\s+[\w_]+\s*:\s*.*?\{.*?\n\})', re.DOTALL)
     
-    # Extract the rule names and full rule texts
+    # Find all imports and their positions
+    imports = list(import_pattern.finditer(content))
+    
+    # Extract the rule names and full rule texts along with preceding imports
     rule_texts = rule_pattern.finditer(content)
     
+    # Initialize a variable to store the current imports
+    current_imports = []
+    previous_end = 0
+
     for match in rule_texts:
         rule_text = match.group(0)
+        rule_start = match.start()
+        
+        # Find imports that are located between the end of the previous rule and the start of the current rule
+        rule_imports = []
+        for imp in imports:
+            if previous_end <= imp.start() < rule_start:
+                rule_imports.append(imp.group())
+        
+        # Update previous_end to the end of the current rule
+        previous_end = match.end()
         
         # Extract the rule name using another regex
         rule_name_match = re.search(r'rule\s+([\w_]+)\s*:', rule_text)
@@ -34,7 +54,8 @@ def extract_yara_rules(file_path):
             
             # Write each rule to a separate file named after the rule
             with open(output_file_path, 'w') as rule_file:
-                rule_file.write(rule_text)
+                # Write the rule with its preceding imports
+                rule_file.write('\n'.join(rule_imports) + '\n' + rule_text)
             print(f"Rule '{rule_name}' written to '{output_file_path}'.")
         else:
             print("Error: Unable to find rule name.")

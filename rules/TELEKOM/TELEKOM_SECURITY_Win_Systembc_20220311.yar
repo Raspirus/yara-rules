@@ -1,3 +1,4 @@
+
 rule TELEKOM_SECURITY_Win_Systembc_20220311 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Apt_Win_Iconicstealer : UTA0040
 {
 	meta:

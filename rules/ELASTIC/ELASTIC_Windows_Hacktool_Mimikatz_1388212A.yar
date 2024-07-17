@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Mimikatz_1388212A : FILE MEMORY
 {
 	meta:

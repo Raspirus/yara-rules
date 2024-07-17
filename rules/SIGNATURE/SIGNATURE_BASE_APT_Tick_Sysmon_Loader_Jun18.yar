@@ -1,3 +1,18 @@
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_APT_Tick_Sysmon_Loader_Jun18 : FILE
 {
 	meta:

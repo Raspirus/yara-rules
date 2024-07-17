@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mylobot_Auto : FILE
 {
 	meta:

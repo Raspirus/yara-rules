@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hi_Zor_Rat_Auto : FILE
 {
 	meta:

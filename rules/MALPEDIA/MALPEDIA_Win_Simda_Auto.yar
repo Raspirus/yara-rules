@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Simda_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ransoc_Auto : FILE
 {
 	meta:

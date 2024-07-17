@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Cryptominer_Pgminer_Ccf88A37 : FILE MEMORY
 {
 	meta:

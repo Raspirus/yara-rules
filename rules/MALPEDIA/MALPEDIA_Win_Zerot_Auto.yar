@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Zerot_Auto : FILE
 {
 	meta:

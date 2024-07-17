@@ -1,3 +1,9 @@
+import "pe"
+
+
+import "pe"
+
+
 rule SIGNATURE_BASE_Hvs_APT27_Hyperbro_Decrypted_Stage2 : FILE
 {
 	meta:

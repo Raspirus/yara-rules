@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Monero_Miner_Auto : FILE
 {
 	meta:

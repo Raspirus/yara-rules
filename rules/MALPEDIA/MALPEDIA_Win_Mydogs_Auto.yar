@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Mydogs_Auto : FILE
 {
 	meta:

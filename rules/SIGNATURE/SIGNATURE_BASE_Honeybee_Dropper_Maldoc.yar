@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_Honeybee_Dropper_Maldoc : FILE
 {
 	meta:

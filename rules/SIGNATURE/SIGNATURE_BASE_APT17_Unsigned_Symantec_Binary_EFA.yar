@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_APT17_Unsigned_Symantec_Binary_EFA : FILE
 {
 	meta:

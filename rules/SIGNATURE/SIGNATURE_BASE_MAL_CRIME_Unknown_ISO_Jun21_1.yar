@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_MAL_CRIME_Unknown_ISO_Jun21_1 : ISO POWERSHELL LNK FILE
 {
 	meta:

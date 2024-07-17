@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_UNC2447_MAL_RANSOM_Hellokitty_May21_2 : FILE
 {
 	meta:

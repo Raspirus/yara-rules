@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Dbutil_852Ba283 : FILE
 {
 	meta:

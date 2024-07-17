@@ -1,3 +1,4 @@
+
 rule ELASTIC_Multi_Hacktool_Rakshasa_D5D3Ef21 : FILE MEMORY
 {
 	meta:

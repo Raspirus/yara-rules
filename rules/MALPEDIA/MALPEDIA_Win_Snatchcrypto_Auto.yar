@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Snatchcrypto_Auto : FILE
 {
 	meta:

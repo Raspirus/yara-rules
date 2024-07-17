@@ -1,3 +1,4 @@
+
 rule VOLEXITY_Hacktool_Golang_Reversessh_Fahrj : FILE MEMORY
 {
 	meta:

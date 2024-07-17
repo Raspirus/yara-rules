@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Matsnu_Auto : FILE
 {
 	meta:

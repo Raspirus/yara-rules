@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_NK_Lazarus_VHD_Ransomware_Oct20_2 : FILE
 {
 	meta:

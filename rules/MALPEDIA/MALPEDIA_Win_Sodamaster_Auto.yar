@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Sodamaster_Auto : FILE
 {
 	meta:

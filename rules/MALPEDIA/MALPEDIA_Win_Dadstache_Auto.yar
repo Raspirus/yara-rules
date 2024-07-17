@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dadstache_Auto : FILE
 {
 	meta:

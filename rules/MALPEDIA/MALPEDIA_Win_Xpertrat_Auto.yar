@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Xpertrat_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Hotwax_Auto : FILE
 {
 	meta:

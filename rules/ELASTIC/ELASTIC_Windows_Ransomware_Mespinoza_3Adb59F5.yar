@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Mespinoza_3Adb59F5 : FILE MEMORY
 {
 	meta:

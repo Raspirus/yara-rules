@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Ransomlock_Auto : FILE
 {
 	meta:

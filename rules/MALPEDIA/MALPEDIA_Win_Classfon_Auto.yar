@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Classfon_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Webshell_Jexboss_WAR_1 : FILE
 {
 	meta:

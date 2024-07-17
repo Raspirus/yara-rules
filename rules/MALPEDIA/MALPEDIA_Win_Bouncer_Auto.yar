@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Bouncer_Auto : FILE
 {
 	meta:

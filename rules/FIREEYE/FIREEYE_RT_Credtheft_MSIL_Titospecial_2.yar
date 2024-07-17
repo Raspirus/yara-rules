@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Credtheft_MSIL_Titospecial_2 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Flagpro_Auto : FILE
 {
 	meta:

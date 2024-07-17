@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Sshdkit_18A0B82A : FILE MEMORY
 {
 	meta:

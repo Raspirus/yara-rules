@@ -1,3 +1,8 @@
+import "pe"
+
+import "math"
+
+
 rule SIGNATURE_BASE_Apt_Projectsauron_Generic_Pipe_Backdoor : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Gh0Sttimes_Auto : FILE
 {
 	meta:

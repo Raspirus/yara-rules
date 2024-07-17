@@ -1,3 +1,4 @@
+
 rule DITEKSHEN_INDICATOR_OLE_Metadatacmd : FILE
 {
 	meta:

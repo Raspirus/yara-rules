@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Dexbia_Auto : FILE
 {
 	meta:

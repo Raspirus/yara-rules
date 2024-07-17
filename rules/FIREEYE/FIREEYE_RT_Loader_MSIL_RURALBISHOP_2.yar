@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Loader_MSIL_RURALBISHOP_2 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Nozelesn_Decryptor_Auto : FILE
 {
 	meta:

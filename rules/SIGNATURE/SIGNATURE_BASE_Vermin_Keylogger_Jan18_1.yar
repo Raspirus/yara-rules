@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Vermin_Keylogger_Jan18_1 : FILE
 {
 	meta:

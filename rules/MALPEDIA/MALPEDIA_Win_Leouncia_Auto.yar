@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Leouncia_Auto : FILE
 {
 	meta:

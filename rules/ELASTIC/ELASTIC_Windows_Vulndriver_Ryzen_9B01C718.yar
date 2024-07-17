@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Ryzen_9B01C718 : FILE
 {
 	meta:

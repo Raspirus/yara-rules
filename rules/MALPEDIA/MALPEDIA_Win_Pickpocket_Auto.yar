@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Pickpocket_Auto : FILE
 {
 	meta:

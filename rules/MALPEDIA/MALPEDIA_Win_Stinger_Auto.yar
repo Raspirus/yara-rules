@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Stinger_Auto : FILE
 {
 	meta:

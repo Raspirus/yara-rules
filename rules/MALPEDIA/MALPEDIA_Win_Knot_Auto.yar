@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Knot_Auto : FILE
 {
 	meta:

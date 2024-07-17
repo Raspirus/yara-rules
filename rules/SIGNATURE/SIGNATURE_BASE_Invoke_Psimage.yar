@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Invoke_Psimage : FILE
 {
 	meta:

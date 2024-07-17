@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Hiddencobra_R4_Wiper_1 : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Hacktool_Physmem_Cc0978Df : FILE
 {
 	meta:

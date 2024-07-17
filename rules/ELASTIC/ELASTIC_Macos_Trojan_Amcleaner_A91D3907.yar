@@ -1,3 +1,4 @@
+
 rule ELASTIC_Macos_Trojan_Amcleaner_A91D3907 : FILE MEMORY
 {
 	meta:

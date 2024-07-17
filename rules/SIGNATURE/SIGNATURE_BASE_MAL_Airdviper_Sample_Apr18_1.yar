@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule SIGNATURE_BASE_MAL_Airdviper_Sample_Apr18_1 : FILE
 {
 	meta:

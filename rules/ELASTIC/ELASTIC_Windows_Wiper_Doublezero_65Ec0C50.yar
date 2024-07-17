@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Wiper_Doublezero_65Ec0C50 : FILE MEMORY
 {
 	meta:

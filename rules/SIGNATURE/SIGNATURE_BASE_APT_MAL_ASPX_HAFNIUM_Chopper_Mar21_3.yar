@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_ASPX_HAFNIUM_Chopper_Mar21_3 : FILE
 {
 	meta:

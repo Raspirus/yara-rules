@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_Gen_Unicorn_Obfuscated_Powershell : FILE
 {
 	meta:

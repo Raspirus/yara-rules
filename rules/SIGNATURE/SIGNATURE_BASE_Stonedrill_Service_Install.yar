@@ -1,3 +1,8 @@
+import "pe"
+
+import "math"
+
+
 rule SIGNATURE_BASE_Stonedrill_Service_Install : FILE
 {
 	meta:

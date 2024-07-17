@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_SUSP_Office_Dropper_Strings : FILE
 {
 	meta:

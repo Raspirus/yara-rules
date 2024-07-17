@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Generic_Threat_094C1238 : FILE MEMORY
 {
 	meta:

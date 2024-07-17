@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Batel_Auto : FILE
 {
 	meta:

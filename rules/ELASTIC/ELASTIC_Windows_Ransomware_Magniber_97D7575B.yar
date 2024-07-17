@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Ransomware_Magniber_97D7575B : FILE MEMORY
 {
 	meta:

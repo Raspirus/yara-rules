@@ -1,3 +1,4 @@
+
 rule RUSSIANPANDA_Solarmarker_First_Stage_Payload : FILE
 {
 	meta:

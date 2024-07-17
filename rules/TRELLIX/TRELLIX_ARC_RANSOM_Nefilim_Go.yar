@@ -1,3 +1,6 @@
+import "pe"
+
+
 rule TRELLIX_ARC_RANSOM_Nefilim_Go : RANSOMWARE FILE
 {
 	meta:

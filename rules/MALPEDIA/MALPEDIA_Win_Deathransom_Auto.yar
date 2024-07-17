@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Deathransom_Auto : FILE
 {
 	meta:

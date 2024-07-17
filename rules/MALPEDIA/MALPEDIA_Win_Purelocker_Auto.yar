@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Purelocker_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Koadic_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Doublefinger_Auto : FILE
 {
 	meta:

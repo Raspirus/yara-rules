@@ -1,3 +1,4 @@
+
 rule NCSC_Nautilus_Common_Strings : FILE
 {
 	meta:

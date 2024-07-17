@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Winflash_881758Da : FILE
 {
 	meta:

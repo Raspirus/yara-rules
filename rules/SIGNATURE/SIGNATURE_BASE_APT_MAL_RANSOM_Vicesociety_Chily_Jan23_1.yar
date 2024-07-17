@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_APT_MAL_RANSOM_Vicesociety_Chily_Jan23_1 : FILE
 {
 	meta:

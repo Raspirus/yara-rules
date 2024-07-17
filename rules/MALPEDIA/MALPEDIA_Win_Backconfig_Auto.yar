@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Backconfig_Auto : FILE
 {
 	meta:

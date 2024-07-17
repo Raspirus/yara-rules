@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Glasses_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXPL_LOG_CVE_2021_26858_Exchange_Forensic_Artefacts_Mar21_1 : LOG CVE_2021_26858
 {
 	meta:

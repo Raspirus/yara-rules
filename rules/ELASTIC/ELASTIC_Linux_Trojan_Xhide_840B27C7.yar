@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Xhide_840B27C7 : FILE MEMORY
 {
 	meta:

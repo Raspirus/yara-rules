@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Sysjoker_34559Bcd : FILE MEMORY
 {
 	meta:

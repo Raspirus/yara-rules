@@ -1,3 +1,4 @@
+
 rule SIGNATURE_BASE_EXT_SUSP_OBFUSC_Macos_Roothelper_Obfuscated : FILE
 {
 	meta:

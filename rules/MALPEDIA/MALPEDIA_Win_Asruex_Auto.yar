@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Asruex_Auto : FILE
 {
 	meta:

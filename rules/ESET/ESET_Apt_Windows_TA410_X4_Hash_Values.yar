@@ -1,3 +1,18 @@
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
+import "pe"
+
+
 rule ESET_Apt_Windows_TA410_X4_Hash_Values : FILE
 {
 	meta:

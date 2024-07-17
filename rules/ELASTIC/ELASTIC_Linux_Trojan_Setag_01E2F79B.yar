@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Setag_01E2F79B : FILE MEMORY
 {
 	meta:

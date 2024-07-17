@@ -1,3 +1,8 @@
+import "pe"
+
+import "dotnet"
+
+
 rule SECUINFRA_APT_Bitter_Maldoc_Verify : CVE_2018_0798
 {
 	meta:

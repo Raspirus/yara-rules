@@ -1,3 +1,4 @@
+
 rule FIREEYE_RT_Credtheft_MSIL_Wcmdump_1 : FILE
 {
 	meta:

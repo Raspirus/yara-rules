@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Tflower_Auto : FILE
 {
 	meta:

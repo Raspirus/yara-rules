@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Iroffer_711259E4 : FILE MEMORY
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Vflooder_Auto : FILE
 {
 	meta:

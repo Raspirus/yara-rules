@@ -1,3 +1,4 @@
+
 rule SBOUSSEADEN_Infinityhook : FILE
 {
 	meta:

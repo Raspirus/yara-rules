@@ -1,3 +1,4 @@
+
 rule TRELLIX_ARC_Nemty_Ransomware_2_6 : RANSOMWARE FILE
 {
 	meta:

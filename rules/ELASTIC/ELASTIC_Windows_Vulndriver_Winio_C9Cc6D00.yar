@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Vulndriver_Winio_C9Cc6D00 : FILE
 {
 	meta:

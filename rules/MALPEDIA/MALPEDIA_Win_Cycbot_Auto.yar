@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Cycbot_Auto : FILE
 {
 	meta:

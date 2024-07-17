@@ -1,3 +1,4 @@
+
 rule ELASTIC_Linux_Trojan_Sckit_A244328F : FILE MEMORY
 {
 	meta:

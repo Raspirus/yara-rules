@@ -1,3 +1,4 @@
+
 rule MALPEDIA_Win_Blackmatter_Auto : FILE
 {
 	meta:

@@ -1,3 +1,4 @@
+
 rule ELASTIC_Windows_Trojan_Azorult_38Fce9Ea : FILE MEMORY
 {
 	meta:
