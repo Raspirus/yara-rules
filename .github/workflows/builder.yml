@@ -38,7 +38,8 @@ jobs:
         allowUpdates: true
         artifacts: rulepirus.yarac
         artifactContentType: application/octet-stream
-        tag: 'v1.0.0'
+        tag: 'v1.0.1'
+        name: 'YARA Bundle v1.0.1'
         draft: true
         prerelease: false
         generateReleaseNotes: true
