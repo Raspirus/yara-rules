@@ -1,0 +1,42 @@
+name: Create a YaraX binary release
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: pip install yara-x
+
+    - name: Run script
+      run: python scripts/builder.py
+
+    - name: Create a release draft
+      id: rules_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        allowUpdates: true
+        artifacts: rulepirus.yarac
+        artifactContentType: application/octet-stream
+        tag: 'v1.0.0'
+        draft: true
+        prerelease: false
+        generateReleaseNotes: true
