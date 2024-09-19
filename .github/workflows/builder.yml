@@ -28,18 +28,3 @@ jobs:
 
     - name: Run script
       run: python scripts/builder.py
-
-    - name: Create a release draft
-      id: rules_release
-      uses: ncipollo/release-action@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        allowUpdates: true
-        artifacts: rulepirus.yarac
-        artifactContentType: application/octet-stream
-        tag: 'v1.0.1'
-        name: 'YARA Bundle v1.0.1'
-        draft: true
-        prerelease: false
-        generateReleaseNotes: true
