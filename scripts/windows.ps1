@@ -1,6 +1,6 @@
 # Request Admin Privileges
 if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {   
-    Start-Process -FilePath 'powershell' -ArgumentList ('-File', $MyInvocation.MyCommand.Source, $args ` | %{ $_ }) -Verb RunAs
+    Start-Process -FilePath 'powershell' -ArgumentList ('-ExecutionPolicy', 'Bypass', '-File', $MyInvocation.MyCommand.Source, $args ` | %{ $_ }) -Verb RunAs
     exit
 }
 
