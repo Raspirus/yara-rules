@@ -37,7 +37,7 @@ jobs:
         if: always()
         with:
           script: |
-            const message = `${{ steps.validate.outputs.message }}`
+            const message = JSON.parse(`${{ toJSON(steps.validate.outputs.message) }}`);
             await github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
