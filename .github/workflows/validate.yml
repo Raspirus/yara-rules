@@ -3,7 +3,6 @@ name: Validate YARA Rules on PR
 on:
   pull_request:
     branches: [ main ]
-  workflow_dispatch:  # Allows manual triggering in an open PR
 
 jobs:
   yara-validation:
@@ -13,7 +12,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2  # Needed to detect changed files
+          fetch-depth: 0  # FULL history for git diff to work
+          ref: ${{ github.event.pull_request.head.ref || github.ref }}
 
       - name: Install YARA and yls-yara
         run: |
@@ -23,6 +23,7 @@ jobs:
       - name: Find changed .yar files
         id: yarafiles
         run: |
+          # Compare with main branch on origin
           CHANGED_FILES=$(git diff --name-only origin/main...HEAD | grep '\.yar$' || true)
           echo "Changed YARA files:"
           echo "$CHANGED_FILES"
@@ -71,13 +72,12 @@ jobs:
           fi
 
       - name: Comment PR with result
-        if: github.event_name == 'pull_request'
         uses: actions/github-script@v7
         with:
           script: |
             github.rest.issues.createComment({
-              issue_number: context.payload.pull_request.number,
+              issue_number: context.issue.number,
               owner: context.repo.owner,
-              repo: context.repo.name,
+              repo: context.repo.repo,
               body: `${{ steps.check.outputs.message }}`
             })
