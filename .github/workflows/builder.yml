@@ -1,4 +1,4 @@
-name: Create a YaraX binary release
+name: Compile yara rules
 
 on:
   push:
