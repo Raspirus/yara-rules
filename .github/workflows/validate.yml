@@ -1,0 +1,95 @@
+name: Validate YARA Rules on PR
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  yara-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # Needed to compare changes
+
+      - name: Install YARA and yaralint
+        run: |
+          sudo apt-get update && sudo apt-get install -y yara python3-pip
+          pip install yaralint
+
+      - name: Find changed .yar files
+        id: yarafiles
+        run: |
+          YAR_FILES=$(git diff --name-only origin/main | grep '\.yar$' || true)
+          echo "$YAR_FILES"
+          echo "files=$YAR_FILES" >> $GITHUB_OUTPUT
+
+      - name: Validate YARA syntax
+        id: validate
+        run: |
+          FILES="${{ steps.yarafiles.outputs.files }}"
+          echo "Validating files:"
+          echo "$FILES"
+
+          SYNTAX_ERRORS=""
+          for file in $FILES; do
+            if ! yara -C "$file" 2>&1; then
+              SYNTAX_ERRORS+="\n❌ $file failed syntax check"
+            else
+              echo "✅ $file passed syntax"
+            fi
+          done
+
+          echo "syntax_result=$SYNTAX_ERRORS" >> $GITHUB_OUTPUT
+
+      - name: Lint YARA rules with yaralint
+        id: lint
+        run: |
+          FILES="${{ steps.yarafiles.outputs.files }}"
+          LINT_ERRORS=""
+          for file in $FILES; do
+            if ! yaralint "$file"; then
+              LINT_ERRORS+="\n⚠️ $file has style issues"
+            else
+              echo "✅ $file passed lint"
+            fi
+          done
+
+          echo "lint_result=$LINT_ERRORS" >> $GITHUB_OUTPUT
+
+      - name: Summarize results
+        id: summary
+        run: |
+          SYNTAX="${{ steps.validate.outputs.syntax_result }}"
+          LINT="${{ steps.lint.outputs.lint_result }}"
+          MSG="**YARA Validation Results**\n"
+
+          if [ -n "$SYNTAX" ]; then
+            MSG+="$SYNTAX\n"
+          else
+            MSG+="✅ All files passed syntax check\n"
+          fi
+
+          if [ -n "$LINT" ]; then
+            MSG+="$LINT\n"
+          else
+            MSG+="✅ All files passed lint\n"
+          fi
+
+          echo "message=$MSG" >> $GITHUB_OUTPUT
+
+          if [ -n "$SYNTAX" ]; then
+            exit 1
+          fi
+
+      - name: Comment PR with result
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.payload.pull_request.number,
+              owner: context.repo.owner,
+              repo: context.repo.name,
+              body: `${{ steps.summary.outputs.message }}`
+            })
