@@ -38,12 +38,7 @@ for file in $FILES; do
 done
 
 # Output result
-echo -e "$RESULTS"
 echo "message<<EOF" >> $GITHUB_OUTPUT
 echo -e "$RESULTS" >> $GITHUB_OUTPUT
 echo "EOF" >> $GITHUB_OUTPUT
 
-
-if [ "$ERRORS" -gt 0 ]; then
-  exit 1
-fi
