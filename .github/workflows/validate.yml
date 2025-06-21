@@ -6,24 +6,20 @@ on:
 
 jobs:
   yara-validation:
-    runs-on: ubuntu-latest
+   runs-on: macos-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # FULL history for git diff to work
-          ref: ${{ github.event.pull_request.head.ref || github.ref }}
+          fetch-depth: 0
 
-      - name: Install YARA and yls-yara
-        run: |
-          sudo apt-get update && sudo apt-get install -y python3-pip
-          pip install yls-yara
+      - name: Install YARA-X
+        run: brew install yara-x
 
       - name: Find changed .yar files
         id: yarafiles
         run: |
-          # Compare with main branch on origin
           CHANGED_FILES=$(git diff --name-only origin/main...HEAD | grep '\.yar$' || true)
           echo "Changed YARA files:"
           echo "$CHANGED_FILES"
@@ -31,37 +27,11 @@ jobs:
           echo "$CHANGED_FILES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
-      - name: Validate and Lint YARA files
-        id: check
+      - name: Run YARA validation
+        id: validate
         run: |
-          FILES="${{ steps.yarafiles.outputs.files }}"
-          echo "Processing files:"
-          echo "$FILES"
-      
-          if [ -z "$FILES" ]; then
-            echo "No .yar files changed in this PR."
-            echo "message=No YARA files to check ✅" >> $GITHUB_OUTPUT
-            exit 0
-          fi
-      
-          ERRORS=""
-          for file in $FILES; do
-            echo "▶ Linting and validating $file"
-            if ! yls lint "$file"; then
-              ERRORS+="\n❌ Issues found in $file"
-            else
-              echo "✅ $file passed lint and validation"
-            fi
-          done
-      
-          if [ -n "$ERRORS" ]; then
-            echo -e "Issues found:$ERRORS"
-            echo "message=Some YARA files failed checks:$ERRORS" >> $GITHUB_OUTPUT
-            exit 1
-          else
-            echo "All YARA files passed lint and validation."
-            echo "message=✅ All YARA files passed lint and validation." >> $GITHUB_OUTPUT
-          fi
+          chmod +x scripts/lint_yara.sh
+          scripts/lint_yara.sh ${{ steps.yarafiles.outputs.files }}
 
       - name: Comment PR with result
         uses: actions/github-script@v7
