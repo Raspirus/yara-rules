@@ -17,7 +17,7 @@ jobs:
 
       - name: Install YARA and yls-yara
         run: |
-          sudo apt-get update && sudo apt-get install -y yara python3-pip
+          sudo apt-get update && sudo apt-get install -y python3-pip
           pip install yls-yara
 
       - name: Find changed .yar files
@@ -37,38 +37,30 @@ jobs:
           FILES="${{ steps.yarafiles.outputs.files }}"
           echo "Processing files:"
           echo "$FILES"
-
+      
           if [ -z "$FILES" ]; then
             echo "No .yar files changed in this PR."
             echo "message=No YARA files to check ✅" >> $GITHUB_OUTPUT
             exit 0
           fi
-
+      
           ERRORS=""
           for file in $FILES; do
-            echo "▶ Validating syntax for $file"
-            if ! yara -C "$file" 2>&1; then
-              ERRORS+="\n❌ Syntax error in $file"
-              continue
-            else
-              echo "✅ $file passed syntax check"
-            fi
-
-            echo "▶ Linting $file"
+            echo "▶ Linting and validating $file"
             if ! yls lint "$file"; then
-              ERRORS+="\n⚠️ Lint issues in $file"
+              ERRORS+="\n❌ Issues found in $file"
             else
-              echo "✅ $file passed lint"
+              echo "✅ $file passed lint and validation"
             fi
           done
-
+      
           if [ -n "$ERRORS" ]; then
             echo -e "Issues found:$ERRORS"
             echo "message=Some YARA files failed checks:$ERRORS" >> $GITHUB_OUTPUT
             exit 1
           else
-            echo "All YARA files passed validation and linting."
-            echo "message=✅ All YARA files passed validation and linting." >> $GITHUB_OUTPUT
+            echo "All YARA files passed lint and validation."
+            echo "message=✅ All YARA files passed lint and validation." >> $GITHUB_OUTPUT
           fi
 
       - name: Comment PR with result
