@@ -3,87 +3,75 @@ name: Validate YARA Rules on PR
 on:
   pull_request:
     branches: [ main ]
+  workflow_dispatch:  # Allows manual triggering in an open PR
 
 jobs:
   yara-validation:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2  # Needed to compare changes
+          fetch-depth: 2  # Needed to detect changed files
 
-      - name: Install YARA and yaralint
+      - name: Install YARA and yls-yara
         run: |
           sudo apt-get update && sudo apt-get install -y yara python3-pip
-          pip install yaralint
+          pip install yls-yara
 
       - name: Find changed .yar files
         id: yarafiles
         run: |
-          YAR_FILES=$(git diff --name-only origin/main | grep '\.yar$' || true)
-          echo "$YAR_FILES"
-          echo "files=$YAR_FILES" >> $GITHUB_OUTPUT
+          CHANGED_FILES=$(git diff --name-only origin/main...HEAD | grep '\.yar$' || true)
+          echo "Changed YARA files:"
+          echo "$CHANGED_FILES"
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          echo "$CHANGED_FILES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
-      - name: Validate YARA syntax
-        id: validate
+      - name: Validate and Lint YARA files
+        id: check
         run: |
           FILES="${{ steps.yarafiles.outputs.files }}"
-          echo "Validating files:"
+          echo "Processing files:"
           echo "$FILES"
 
-          SYNTAX_ERRORS=""
+          if [ -z "$FILES" ]; then
+            echo "No .yar files changed in this PR."
+            echo "message=No YARA files to check ✅" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          ERRORS=""
           for file in $FILES; do
+            echo "▶ Validating syntax for $file"
             if ! yara -C "$file" 2>&1; then
-              SYNTAX_ERRORS+="\n❌ $file failed syntax check"
+              ERRORS+="\n❌ Syntax error in $file"
+              continue
             else
-              echo "✅ $file passed syntax"
+              echo "✅ $file passed syntax check"
             fi
-          done
 
-          echo "syntax_result=$SYNTAX_ERRORS" >> $GITHUB_OUTPUT
-
-      - name: Lint YARA rules with yaralint
-        id: lint
-        run: |
-          FILES="${{ steps.yarafiles.outputs.files }}"
-          LINT_ERRORS=""
-          for file in $FILES; do
-            if ! yaralint "$file"; then
-              LINT_ERRORS+="\n⚠️ $file has style issues"
+            echo "▶ Linting $file"
+            if ! yls lint "$file"; then
+              ERRORS+="\n⚠️ Lint issues in $file"
             else
               echo "✅ $file passed lint"
             fi
           done
 
-          echo "lint_result=$LINT_ERRORS" >> $GITHUB_OUTPUT
-
-      - name: Summarize results
-        id: summary
-        run: |
-          SYNTAX="${{ steps.validate.outputs.syntax_result }}"
-          LINT="${{ steps.lint.outputs.lint_result }}"
-          MSG="**YARA Validation Results**\n"
-
-          if [ -n "$SYNTAX" ]; then
-            MSG+="$SYNTAX\n"
-          else
-            MSG+="✅ All files passed syntax check\n"
-          fi
-
-          if [ -n "$LINT" ]; then
-            MSG+="$LINT\n"
-          else
-            MSG+="✅ All files passed lint\n"
-          fi
-
-          echo "message=$MSG" >> $GITHUB_OUTPUT
-
-          if [ -n "$SYNTAX" ]; then
+          if [ -n "$ERRORS" ]; then
+            echo -e "Issues found:$ERRORS"
+            echo "message=Some YARA files failed checks:$ERRORS" >> $GITHUB_OUTPUT
             exit 1
+          else
+            echo "All YARA files passed validation and linting."
+            echo "message=✅ All YARA files passed validation and linting." >> $GITHUB_OUTPUT
           fi
 
       - name: Comment PR with result
+        if: github.event_name == 'pull_request'
         uses: actions/github-script@v7
         with:
           script: |
@@ -91,5 +79,5 @@ jobs:
               issue_number: context.payload.pull_request.number,
               owner: context.repo.owner,
               repo: context.repo.name,
-              body: `${{ steps.summary.outputs.message }}`
+              body: `${{ steps.check.outputs.message }}`
             })
