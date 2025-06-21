@@ -6,19 +6,16 @@ on:
 
 jobs:
   yara-validation:
-    runs-on: ubuntu-latest
+   runs-on: macos-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # FULL history for git diff to work
-          ref: ${{ github.event.pull_request.head.ref || github.ref }}
+          fetch-depth: 0
 
-      - name: Install YARA and yls-yara
-        run: |
-          sudo apt-get update && sudo apt-get install -y python3-pip
-          pip install yls-yara
+      - name: Install YARA-X
+        run: brew install yara-x
 
       - name: Find changed .yar files
         id: yarafiles
@@ -30,7 +27,7 @@ jobs:
           echo "$CHANGED_FILES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
-      - name: Run validation script
+      - name: Run YARA validation
         id: validate
         run: |
           chmod +x scripts/lint_yara.sh
