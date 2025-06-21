@@ -10,6 +10,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Install YARA-X
         run: brew install yara-x
