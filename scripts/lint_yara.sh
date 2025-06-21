@@ -39,7 +39,10 @@ done
 
 # Output result
 echo -e "$RESULTS"
-echo "message=$RESULTS" >> $GITHUB_OUTPUT
+echo "message<<EOF" >> $GITHUB_OUTPUT
+echo -e "$RESULTS" >> $GITHUB_OUTPUT
+echo "EOF" >> $GITHUB_OUTPUT
+
 
 if [ "$ERRORS" -gt 0 ]; then
   exit 1
