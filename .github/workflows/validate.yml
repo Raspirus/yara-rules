@@ -6,13 +6,10 @@ on:
 
 jobs:
   yara-validation:
-   runs-on: macos-latest
+    runs-on: macos-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v4
 
       - name: Install YARA-X
         run: brew install yara-x
@@ -37,9 +34,10 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            github.rest.issues.createComment({
+            const message = `${{ steps.validate.outputs.message }}`
+            await github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: `${{ steps.check.outputs.message }}`
+              body: message
             })
