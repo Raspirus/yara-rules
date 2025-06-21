@@ -6,7 +6,7 @@ rule ARKBIRD_SOLG_APT_APT28_Downdelph_Feb_2021_1 : FILE
 		author = "Arkbird_SOLG"
 		id = "0376c026-93eb-526a-8ab3-26bdd365e608"
 		date = "2021-02-18"
-		modified = "2021-02-19"
+		modified = "2021-02-18"
 		reference = "https://twitter.com/RedDrip7/status/1362343352759250946"
 		source_url = "https://github.com/StrangerealIntel/DailyIOC/blob/a873ff1298c43705e9c67286f3014f4300dd04f7/2021-02-18/APT28/APT_APT28_Downdelph_Feb_2021_1.yar#L1-L18"
 		license_url = "N/A"
