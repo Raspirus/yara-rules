@@ -1,0 +1,46 @@
+name: Release YARA Bundle
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 1 * *'  # Runs monthly on the 1st at 03:00 UTC
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write-all
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set version and tag
+        id: version
+        run: |
+          YY=$(date +'%y')         # e.g. 25
+          MM=$(date +'%m')         # e.g. 06
+          VERSION="v$YY.$MM.0"     # e.g. v25.06.0
+          TAG_NAME="YARA Bundle ${VERSION}"
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "tag_name=$TAG_NAME" >> $GITHUB_OUTPUT
+
+      - name: Prepare bundle files
+        run: |
+          mkdir -p bundle
+          # Copy all .yar files preserving folder structure
+          find rules -type f -name '*.yar' -exec cp --parents {} bundle/ \;
+          # Copy the specific PowerShell script
+          mkdir -p bundle/scripts
+          cp scripts/windows.ps1 bundle/scripts/
+
+      - name: Create archive
+        run: tar -czf "${{ steps.version.outputs.tag_name }}.tar.gz" -C bundle .
+
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.tag_name }}
+          name: ${{ steps.version.outputs.tag_name }}
+          draft: true
+          generate_release_notes: true
+          files: ${{ steps.version.outputs.tag_name }}.tar.gz
