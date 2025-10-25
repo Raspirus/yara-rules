@@ -7,19 +7,23 @@ on:
 
 jobs:
   release:
+    permissions: write-all
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Set version and tag
         id: version
         run: |
           YY=$(date +'%y')         # e.g. 25
           MM=$(date +'%m')         # e.g. 06
-          VERSION="v$YY.$MM.0"     # e.g. v25.06.0
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            PATCH=100
+          else
+            PATCH=0
+          fi
+          VERSION="v$YY.$MM.$PATCH"
           TAG_NAME="YARA Bundle ${VERSION}"
           FILE_NAME="yara_bundle_${VERSION}"
           echo "version=$VERSION" >> $GITHUB_OUTPUT
@@ -41,7 +45,7 @@ jobs:
       - name: Create GitHub release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ steps.version.outputs.tag_name }}
+          tag_name: ${{ steps.version.outputs.version }}
           name: ${{ steps.version.outputs.tag_name }}
           draft: false
           generate_release_notes: true
